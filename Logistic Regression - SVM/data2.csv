@@ -1,0 +1,714 @@
+,song_title,artist,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,valence,target
+101,Baby,Donnie & Joe Emerson,high,medium,low,low,low,medium,low,negative,Yes
+102,More Bounce To The Ounce,Zapp,low,high,high,low,medium,high,low,verypositive,Yes
+103,Outlaw,War,low,high,high,medium,low,high,low,verypositive,Yes
+104,Walking Into Sunshine,Central Line,low,high,medium,low,low,high,low,verypositive,Yes
+105,Pyramids,Frank Ocean,low,medium,high,low,high,high,low,verynegative,Yes
+106,Lazuli,Beach House,low,medium,high,high,low,high,low,positive,Yes
+107,Oblivion,Grimes,low,high,medium,high,low,high,low,negative,Yes
+108,Obedear,Purity Ring,low,medium,high,low,low,high,low,verynegative,Yes
+109,Flutes,Hot Chip,low,high,high,low,low,high,low,negative,Yes
+110,Club Rez,Girl Unit,low,medium,high,high,low,high,low,verynegative,Yes
+111,Cry Like A Ghost,Passion Pit,low,medium,medium,low,medium,high,low,negative,Yes
+112,Chained,The xx,medium,high,medium,high,medium,medium,low,verynegative,Yes
+113,Disparate Youth,Santigold,low,medium,high,high,low,high,low,positive,Yes
+114,Cheap Beer,FIDLAR,low,low,high,low,medium,high,low,verynegative,Yes
+115,Swimming Pools (Drank) - Extended Version,Kendrick Lamar,low,high,medium,low,medium,high,medium,negative,Yes
+116,Origins,Tennis,low,medium,high,low,low,high,low,verypositive,Yes
+117,Affection,Crystal Castles,low,medium,high,low,low,high,low,positive,Yes
+118,Comeback Kid,Sleigh Bells,low,medium,high,medium,low,high,low,positive,Yes
+119,Losing You,Solange,low,high,high,low,low,high,low,negative,Yes
+120,Grown Up,Danny Brown,low,medium,high,low,low,high,low,positive,Yes
+121,"It's Not My Fault, I'm Happy",Passion Pit,low,medium,high,low,low,high,low,negative,Yes
+122,How Deep Is Your Love?,The Rapture,low,medium,high,low,low,high,low,verynegative,Yes
+123,Are you... Can you... Were you? (Felt),Shabazz Palaces,low,medium,medium,low,low,high,low,verynegative,Yes
+124,Second Song,TV On The Radio,low,medium,high,medium,low,high,low,negative,Yes
+125,Mornin',Star Slinger,medium,high,high,low,low,high,medium,positive,Yes
+126,Before,Washed Out,low,medium,high,high,low,high,low,verynegative,Yes
+127,Midnight City,M83,low,medium,medium,low,low,medium,low,negative,Yes
+128,Lonely Boy,The Black Keys,low,medium,high,low,low,high,low,positive,Yes
+129,Caffeinated Consciousness,TV On The Radio,low,medium,high,high,low,high,low,positive,Yes
+130,Wild Window,Fool's Gold,low,medium,high,low,medium,high,low,positive,Yes
+131,Polish Girl,Neon Indian,low,medium,high,low,low,high,low,negative,Yes
+132,Calgary,Bon Iver,high,medium,medium,low,medium,medium,low,verynegative,Yes
+133,Civilization,Justice,low,medium,medium,low,low,high,low,negative,Yes
+134,Headlines,Drake,medium,high,medium,low,low,high,low,negative,Yes
+135,Michael Jackson,Das Racist,low,medium,high,low,low,high,medium,verypositive,Yes
+136,Need You Now,Cut Copy,low,medium,high,medium,low,high,low,negative,Yes
+137,Abducted,Cults,low,medium,high,low,low,high,low,negative,Yes
+138,Gucci Gucci,Kreayshawn,low,high,high,low,high,high,low,verypositive,Yes
+139,Eyes Be Closed,Washed Out,low,low,high,medium,medium,high,low,verynegative,Yes
+140,Echoes,Washed Out,low,medium,high,high,low,high,low,positive,Yes
+141,The Daily Mail,Radiohead,medium,medium,medium,low,low,high,low,verynegative,Yes
+142,Civilization,Justice,low,medium,high,low,low,high,low,verynegative,Yes
+143,Punch Drunk Love,Teams vs. Star Slinger,low,medium,high,low,medium,high,low,positive,Yes
+144,Principles,Benoit & Sergio,low,high,medium,low,low,high,low,negative,Yes
+145,Slow Peels,Com Truise,low,medium,high,medium,low,high,low,negative,Yes
+146,Dead Wrong,Hanni El Khatib,low,high,high,low,low,high,low,positive,Yes
+147,Do It Roger,Zapp,medium,high,high,low,low,high,low,positive,Yes
+148,Pharaohs (feat. Roses Gabor),SBTRKT,low,high,medium,high,low,high,low,positive,Yes
+149,No Fun,The Stooges,low,medium,high,low,low,high,low,positive,Yes
+150,Computer Love,Zapp,high,high,high,low,low,high,low,positive,Yes
+151,Dutchie Courage,Star Slinger,low,medium,high,low,low,high,low,verypositive,Yes
+152,Osaka Loop Line,Discovery,low,high,medium,low,low,high,medium,positive,Yes
+153,White Horse,Laid Back,low,high,medium,high,low,high,low,verypositive,Yes
+154,Abataka - Original Mix,Ida Engberg,medium,high,high,high,low,high,low,verypositive,Yes
+155,Danger! High Voltage (Soulchild Radio Mix),Electric Six,low,medium,high,low,low,high,low,positive,Yes
+156,Say Please,Teams vs. Star Slinger,low,high,high,low,low,high,low,verypositive,Yes
+157,You Don't Love Me (No No No),Dawn Penn,low,high,medium,low,low,high,low,verypositive,Yes
+158,The Yes Strut,Teams vs. Star Slinger,low,high,high,high,low,high,low,positive,Yes
+159,86 Carrot Gold,Teams vs. Star Slinger,low,medium,high,low,medium,high,medium,verypositive,Yes
+160,Close to Me,Teams vs. Star Slinger,high,high,high,low,low,high,low,verypositive,Yes
+161,How Do You See Me Now,Zdar,low,high,high,low,low,high,low,positive,Yes
+162,See Me Now,Cassius,low,high,high,low,low,high,low,verypositive,Yes
+163,Every Freakin' - DJ Ayres remix,DJ Eleven,low,high,high,low,low,high,low,positive,Yes
+164,Dance Our Way,DJ Eleven,low,high,medium,low,low,high,low,verypositive,Yes
+165,Flashing Lights,DJ Ayres,low,high,high,low,low,high,low,positive,Yes
+166,The Daily Mail,Radiohead,medium,medium,medium,low,low,high,low,verynegative,Yes
+167,Bizness,tUnE-yArDs,low,high,high,low,low,high,low,positive,Yes
+168,Long Heels Red Bottoms,Trina,low,high,medium,low,low,high,low,positive,Yes
+169,I Wanna Be Your Dog,The Stooges,low,medium,high,low,medium,high,low,verynegative,Yes
+170,Jealousy,Martin Solveig,low,high,high,low,low,high,low,verypositive,Yes
+171,Embody,Sebastian,low,low,high,low,medium,high,low,positive,Yes
+172,Love In Motion - feat. Mayer Hawthorne,Sebastian,low,high,high,low,medium,high,low,negative,Yes
+173,Save the World,Swedish House Mafia,low,medium,high,low,low,high,low,verynegative,Yes
+174,Myth,Beach House,low,medium,high,low,low,high,low,negative,Yes
+175,Ready 2 Go,Martin Solveig,low,medium,high,low,low,high,low,negative,Yes
+176,We Are Young - The Popopopops Remix,Juveniles,low,medium,high,low,low,high,low,verynegative,Yes
+177,Bop Gun (One Nation) - Radio Edit,Ice Cube,medium,high,high,low,low,high,low,verypositive,Yes
+178,La Funky,Destructo feat. Oliver,low,high,high,high,low,high,low,negative,Yes
+179,In My Mind (Axwell Remix),Ivan Gough & Feenixpawl feat. Georgi Kay,low,high,high,low,low,high,low,negative,Yes
+180,On'n'On - Ruined by Rick Rubin,Justice,low,high,high,low,low,high,low,negative,Yes
+181,Don't Die,Killer Mike,low,medium,high,low,low,high,low,verynegative,Yes
+182,Van Vogue,Azealia Banks,low,high,high,low,low,high,medium,verynegative,Yes
+183,How Do You Do?,Hot Chip,low,high,high,low,low,high,low,verypositive,Yes
+184,Night And Day,Hot Chip,low,high,high,low,low,high,low,positive,Yes
+185,Don't Deny Your Heart,Hot Chip,low,high,high,low,low,high,low,verypositive,Yes
+186,Focused - feat. Kid Cudi,Wale,low,high,high,low,low,high,low,negative,Yes
+187,Neptune,Lemonade,low,low,high,low,low,high,low,negative,Yes
+188,"Function - feat. YG, IAmSu & Problem",E-40,low,high,medium,low,low,high,low,negative,Yes
+189,Didn't You,Cloud Nothings,low,low,high,low,low,high,low,positive,Yes
+190,Search Party,Small Black,low,medium,high,low,low,high,low,positive,Yes
+191,Mi Swing es Tropical,Nickodemus,low,high,high,low,medium,high,low,verypositive,Yes
+192,Stock Exchange,Miss Kittin,low,high,medium,high,low,high,low,verypositive,Yes
+193,Changes,Crazy P,low,high,medium,low,low,high,low,positive,Yes
+194,Play This (Also),J Rocc,low,medium,high,high,low,high,low,negative,Yes
+195,Obedear,Purity Ring,low,medium,high,low,medium,high,low,verynegative,Yes
+196,Slow Down,Poolside,low,high,high,low,low,high,low,negative,Yes
+197,I Don't Like,Chief Keef,low,high,high,low,low,high,low,positive,Yes
+198,Sleeping Ute,Grizzly Bear,low,low,medium,low,low,high,low,negative,Yes
+199,Hands On the Wheel (feat. a$Ap Rocky),ScHoolboy Q,low,medium,high,low,low,high,low,verynegative,Yes
+200,The Kids Were Wrong,Memoryhouse,low,medium,medium,low,low,high,low,positive,Yes
+201,Walk With Me,Memoryhouse,medium,medium,medium,high,low,medium,low,verynegative,Yes
+202,Her Fantasy,Matthew Dear,low,medium,high,low,medium,high,low,verynegative,Yes
+203,Der Kommissar,After The Fire,low,high,high,low,low,high,low,verypositive,Yes
+204,Slow Down,Clyde Carson,low,high,medium,low,low,high,low,verynegative,Yes
+205,Genesis,Grimes,low,medium,high,low,low,high,low,verynegative,Yes
+206,About to Die,Dirty Projectors,medium,high,medium,low,low,high,low,verypositive,Yes
+207,Best Night,The War On Drugs,low,medium,high,high,medium,high,low,negative,Yes
+208,Brothers,The War On Drugs,low,medium,high,high,low,high,low,positive,Yes
+209,We Own The Sky,M83,low,medium,high,low,low,high,low,verynegative,Yes
+210,Chicken Half,Sugarman Three,medium,medium,high,high,low,high,low,verypositive,Yes
+211,Two Of Hearts,Stacey Q,low,high,medium,low,low,high,low,positive,Yes
+212,The Perfect Kiss,New Order,low,medium,high,low,low,high,low,verypositive,Yes
+213,Can I Kick It?,A Tribe Called Quest,low,high,high,low,low,high,low,positive,Yes
+214,Sure Thing,Miguel,low,high,medium,low,low,high,low,positive,Yes
+215,Kim & Jessie,M83,low,medium,medium,medium,low,high,low,verynegative,Yes
+216,Outro,M83,low,low,low,low,low,medium,low,verynegative,Yes
+217,We Are the People,Empire of the Sun,low,high,high,low,low,high,low,positive,Yes
+218,Look At Where We Are,Hot Chip,medium,high,medium,low,low,high,low,positive,Yes
+219,Don't Owe You a Thang,Gary Clark Jr.,low,medium,high,low,low,high,low,negative,Yes
+220,Money Trees,Kendrick Lamar,low,high,medium,low,low,high,low,negative,Yes
+221,Hood Pass Intact feat. MC Eiht,Dâm-Funk,low,high,high,low,low,high,low,positive,Yes
+222,Got No Money,FIDLAR,low,medium,high,medium,low,high,low,verypositive,Yes
+223,Birthday Song,2 Chainz,low,high,medium,low,low,high,low,verynegative,Yes
+224,Oh,FIDLAR,low,medium,high,low,low,high,low,positive,Yes
+225,No Waves,FIDLAR,low,medium,high,low,low,high,low,positive,Yes
+226,Wake Bake Skate,FIDLAR,low,low,high,low,low,high,low,positive,Yes
+227,No Ass,FIDLAR,low,medium,high,high,medium,high,low,negative,Yes
+228,Black Out Stout,FIDLAR,low,low,high,high,low,high,low,negative,Yes
+229,Plague,Crystal Castles,low,medium,medium,high,low,high,low,verynegative,Yes
+230,Kerosene,Crystal Castles,low,medium,medium,low,low,high,low,verynegative,Yes
+231,Wrath Of God,Crystal Castles,low,medium,medium,medium,low,high,low,negative,Yes
+232,Pale Flesh,Crystal Castles,low,medium,medium,low,low,high,low,positive,Yes
+233,Past Lives,DIIV,low,low,high,high,low,high,low,positive,Yes
+234,Pictures Of Matchstick Men,Status Quo,low,low,medium,low,low,high,low,positive,Yes
+235,Get Up,Craig Bratley,low,high,high,high,low,high,low,negative,Yes
+236,Cloud Atlas End Title,Tom Tykwer,high,medium,low,high,low,high,low,verynegative,Yes
+237,Keep You,Wild Belle,low,medium,high,low,low,high,low,verypositive,Yes
+238,Anything New,Bibio,low,medium,medium,low,low,high,low,positive,Yes
+239,Adorn,Miguel,low,medium,medium,low,low,high,low,verynegative,Yes
+240,Louie Louie,Toots & The Maytals,low,high,high,low,low,high,low,verypositive,Yes
+241,Under Mi Sensi,Barrington Levy,low,high,high,low,low,high,low,negative,Yes
+242,Loner,Burial,high,medium,high,high,low,high,low,negative,Yes
+243,Murderer,Barrington Levy,low,high,medium,low,low,high,low,positive,Yes
+244,Space Cakes - Original,Tanner Ross,low,high,medium,high,low,medium,low,negative,Yes
+245,"There, There",Radiohead,low,medium,high,medium,low,high,low,positive,Yes
+246,Nightcall,Kavinsky,low,medium,high,low,medium,high,low,negative,Yes
+247,Jacket & Tie,Toyan,medium,high,high,low,low,high,low,verypositive,Yes
+248,Doom And Gloom - Jeff Bhasker Mix,The Rolling Stones,low,medium,high,low,low,high,low,positive,Yes
+249,All Of Me,Tanlines,low,high,high,low,low,high,low,verypositive,Yes
+250,Females Welcomed (feat. Reija Lee),Trinidad James,low,high,medium,low,low,high,medium,positive,Yes
+251,Blueberry (Pills & Cocaine) (feat. Danny Brown),Darq E Freaker,low,medium,high,low,high,high,low,verypositive,Yes
+252,Max Can't Surf,FIDLAR,low,medium,high,low,low,high,low,negative,Yes
+253,Wait for the Man,FIDLAR,low,low,high,low,low,high,low,verynegative,Yes
+254,Inspector Norse,Todd Terje,low,high,high,high,medium,high,low,verypositive,Yes
+255,Love Sosa,Chief Keef,low,high,medium,low,low,high,low,verynegative,Yes
+256,This Time Around,Softwar,low,high,high,high,low,high,low,negative,Yes
+257,See Blind Through,Canyons,low,high,high,low,low,high,low,positive,Yes
+258,Vowels = space and time,Grimes,low,high,high,low,low,high,low,positive,Yes
+259,Be A Body,Grimes,low,high,medium,high,low,high,low,verynegative,Yes
+260,Unchained (The Payback / Untouchable),James Brown,low,medium,high,low,medium,high,low,positive,Yes
+261,Stomp - Dirty,5kinAndBone5,low,high,medium,low,low,high,low,positive,Yes
+262,Borrowed Time,Parquet Courts,low,medium,high,high,medium,high,low,verypositive,Yes
+263,Young N*****,Gucci Mane,low,high,high,low,low,high,low,verypositive,Yes
+264,All Gold Everything,Trinidad James,low,medium,high,low,low,high,medium,positive,Yes
+265,What I Might Do - Club Mix,Ben Pearce,low,high,medium,high,low,high,low,negative,Yes
+266,I Love It (feat. Charli XCX) - Original Version,Icona Pop,low,high,high,low,low,high,low,verypositive,Yes
+267,Kenosha,Swearin',low,medium,high,high,low,high,low,positive,Yes
+268,Fineshrine,Purity Ring,low,medium,high,low,medium,high,low,negative,Yes
+269,Flow,Disclosure,low,high,high,high,low,high,low,verynegative,Yes
+270,C'Est La Vie,Booba,low,high,medium,low,low,high,low,verynegative,Yes
+271,Caramel,Booba,low,high,medium,low,low,high,low,negative,Yes
+272,O.G,Booba,low,high,medium,low,low,high,low,verynegative,Yes
+273,HLM 3,Lunatic,low,medium,high,low,low,high,medium,verypositive,Yes
+274,The Mighty Ming - Original Club Mix,Funkagenda,low,medium,high,high,low,high,low,verynegative,Yes
+275,Harlem Shake,Baauer,low,medium,high,low,medium,high,low,negative,Yes
+276,Purp Walk,Lunice,low,high,medium,medium,low,high,low,verypositive,Yes
+277,Do You Like It? (Feat. Kool A.D),Chaz Van Queen,medium,high,high,low,low,high,medium,positive,Yes
+278,Gucci On The Rise,Gucci Mane,low,high,high,low,low,high,low,positive,Yes
+279,Hate Bein' Sober,Chief Keef,low,high,medium,low,low,high,low,negative,Yes
+280,Traffic,Lil Reese,low,high,medium,low,low,high,low,negative,Yes
+281,Hold Me Back,Rick Ross,low,medium,high,low,low,high,low,negative,Yes
+282,Oldie,Odd Future,low,high,medium,low,low,high,low,positive,Yes
+283,Started From the Bottom,Drake,low,high,medium,low,low,high,low,negative,Yes
+284,Dum Dum,Baauer,low,high,high,low,medium,high,low,positive,Yes
+285,Higher - Extended,Just Blaze and Baauer,low,medium,high,medium,medium,high,low,negative,Yes
+286,"Gone, Gone",Juicy J,low,high,high,low,low,high,low,positive,Yes
+287,Rock Creek Park,The Blackbyrds,low,high,high,low,low,medium,low,positive,Yes
+288,Leaving Babylon,Bad Brains,low,high,low,low,low,low,low,positive,Yes
+289,Trap Shit V7,UZ,low,high,high,high,low,high,low,positive,Yes
+290,Good Life - Original 12'' Mix,Inner City,low,high,high,low,low,high,low,positive,Yes
+291,Big Fun - Original 12'' Mix,Inner City,low,high,high,high,low,high,low,verypositive,Yes
+292,Piss Test (feat. Juicy J & Dany Brown),A-Trak,low,high,high,low,low,high,low,verypositive,Yes
+293,Can't Seem To Make You Mine,Sky Saxon & The Seeds,low,high,medium,low,low,high,low,positive,Yes
+294,Borderline,Classixx,medium,high,medium,medium,low,high,low,negative,Yes
+295,Elevate - Q45 Remix,Toni Toni Lee,low,high,high,low,low,high,low,positive,Yes
+296,With You (feat. Alexis Taylor),Carte Blanche (feat. Alexis Taylor),low,high,high,low,low,high,low,positive,Yes
+297,Can't Shake This Feeling,Grum,low,high,high,low,low,high,low,positive,Yes
+298,Check Me Out Like,Blaqstarr,low,high,medium,medium,low,medium,low,negative,Yes
+299,Second Summer,YACHT,low,high,medium,low,low,high,low,verypositive,Yes
+300,Demon To Lean On,Wavves,low,medium,high,low,medium,high,low,negative,Yes
+301,Walk In The Park,Beach House,low,medium,medium,low,low,high,low,verypositive,Yes
+302,Reckless (With Your Love),Azari & III,low,high,high,low,low,high,low,positive,Yes
+303,Reckless (With Your Love) - Tensnake Remix,Azari & III,low,medium,high,high,low,high,low,negative,Yes
+304,Never Be Your Woman (Shy FX Radio Edit) [feat. Emeli Sandé],Wiley,low,high,high,low,low,high,low,negative,Yes
+305,(Bonus) Break Her Down,Iamsu!,low,high,medium,low,low,high,low,negative,Yes
+306,Molly Ringwald,Danny Brown,low,medium,high,low,low,high,low,negative,Yes
+307,8 Feet Tall,Problem,low,high,high,low,low,high,medium,positive,Yes
+308,36 Chamber Flow,Flatbush Zombies,high,high,medium,low,low,high,medium,verypositive,Yes
+309,Trill Hoe,Western Tink,low,high,medium,low,low,high,low,positive,Yes
+310,Saturday Love,Toro y Moi,low,medium,high,low,low,high,low,positive,Yes
+311,Sweater Weather,The Neighbourhood,low,high,medium,low,low,high,low,negative,Yes
+312,Oh My - Club Mix,The Partysquad,low,medium,high,low,low,high,low,verynegative,Yes
+313,Saltkin,Purity Ring,low,high,high,low,medium,high,low,verypositive,Yes
+314,Lofticries,Purity Ring,low,high,high,low,low,high,low,negative,Yes
+315,Get It In,Iamsu!,low,medium,high,low,low,high,low,negative,Yes
+316,My Bad - Club Mix,The Partysquad,low,high,high,medium,low,high,low,verynegative,Yes
+317,I'm Different,2 Chainz,low,high,high,low,low,high,low,positive,Yes
+318,Get Lucky - Radio Edit,Daft Punk,low,high,high,low,low,high,low,verypositive,Yes
+319,Had A Dream,EMP DASME,low,high,medium,low,low,high,low,verypositive,Yes
+320,Recover,CHVRCHES,low,medium,high,low,medium,high,low,verynegative,Yes
+321,Now Is Not the Time,CHVRCHES,low,medium,medium,low,low,high,low,negative,Yes
+322,MDA,Problem,low,high,high,low,low,high,low,verynegative,Yes
+323,Pop That,French Montana,low,high,high,low,medium,high,low,positive,Yes
+324,Young & Gettin' It - feat. Kirko Bangz,Meek Mill,low,medium,high,low,low,high,low,verypositive,Yes
+325,Best Wishes,Iamsu!,medium,medium,medium,low,low,high,low,negative,Yes
+326,Kids,Iamsu!,low,high,high,low,low,high,low,negative,Yes
+327,Levitate,Paper Diamond,low,medium,high,medium,low,medium,low,positive,Yes
+328,Get Free (feat. Amber of Dirty Projectors),Major Lazer,low,medium,medium,low,low,high,low,verypositive,Yes
+329,Balance,Future Islands,low,medium,high,high,high,high,low,verynegative,Yes
+330,The Lion - Original Mix,The Partysquad,low,high,high,low,medium,high,low,positive,Yes
+331,For Your Love - Club Edit,The Partysquad,low,high,medium,low,low,high,low,negative,Yes
+332,For Your Love - Olav Basoski Remix,The Partysquad,low,high,high,high,low,high,low,verynegative,Yes
+333,Slippin’,Quadron,low,high,medium,low,medium,high,low,verypositive,Yes
+334,Take You On,Peaches,low,high,medium,medium,low,high,low,negative,Yes
+335,One of Those Nights,Juicy J,low,high,medium,low,low,high,low,verynegative,Yes
+336,Get Lucky - Daft Punk Remix,Daft Punk,low,high,high,low,low,high,low,verypositive,Yes
+337,No Way Back,Adonis,low,high,high,high,low,low,low,negative,Yes
+338,Ride The Rhythm,On The House featuring Marshall Jefferson,low,high,medium,low,low,low,medium,verypositive,Yes
+339,Move Your Body - Extended Mix,Benny Benassi,low,medium,high,low,low,high,low,verynegative,Yes
+340,Rockin' In The Free World,Neil Young,low,medium,high,low,medium,high,low,positive,Yes
+341,Feels Like We Only Go Backwards,Tame Impala,low,low,high,medium,low,high,low,positive,Yes
+342,Half Full Glass of Wine,Tame Impala,low,high,high,low,low,high,low,positive,Yes
+343,"Bubble Butt [Radio Mix] [feat. Bruno Mars, 2 Chainz, Tyga & Mystic]",Major Lazer,low,high,medium,low,medium,high,low,negative,Yes
+344,Wop (Official Version),J. Dash,low,high,high,low,low,high,low,positive,Yes
+345,Don’t Drop That Thun Thun,Finatticz,low,high,medium,low,low,high,low,positive,Yes
+346,Give It Away,Red Hot Chili Peppers,low,high,high,low,low,high,low,verypositive,Yes
+347,Wakin on a Pretty Day,Kurt Vile,low,medium,high,high,low,high,low,positive,Yes
+348,Hulk (Dillon Francis Remix),Clockwork,low,high,high,medium,medium,high,low,negative,Yes
+349,Dill the Noise,Dillon Francis and Kill The Noise,low,high,high,medium,low,high,low,negative,Yes
+350,Dead Sound,The Raveonettes,low,medium,high,high,low,high,low,negative,Yes
+351,Rvtchet Bitch,Brillz & Teddy Tuxedo,low,medium,high,medium,medium,high,low,verynegative,Yes
+352,Swing,Savage,low,high,medium,low,low,high,low,verypositive,Yes
+353,You & Me - Baauer Remix,Disclosure,low,medium,high,low,medium,high,low,positive,Yes
+354,Next Order,Dog Blood,low,high,high,high,medium,high,low,negative,Yes
+355,It's You,Duck Sauce,low,high,high,low,medium,high,low,verypositive,Yes
+356,m.A.A.d city,Kendrick Lamar,low,medium,high,low,medium,high,low,verynegative,Yes
+357,Bounce It,Juicy J,low,high,medium,low,low,high,low,positive,Yes
+358,Pu$$y Magnet (feat. Keayshawn),Roach Gigz,low,high,medium,low,low,high,low,positive,Yes
+359,Fashion Killa,A$AP Rocky,low,high,high,low,medium,high,low,verypositive,Yes
+360,I Wanna Be With You,DJ Khaled,low,high,high,low,low,high,low,negative,Yes
+361,Gas Pedal (feat. IamSu),Sage The Gemini,low,high,medium,low,low,high,low,negative,Yes
+362,Red Nose,Sage The Gemini,medium,high,medium,low,low,high,low,verypositive,Yes
+363,"U.O.E.N.O. Remix (feat. Future, Wiz Khalifa)",Rocko,medium,medium,high,low,high,high,medium,positive,Yes
+364,VERSACE,Flap Jack,low,high,high,low,medium,high,low,negative,Yes
+365,Strictly 4 My Jeeps,Action Bronson,medium,medium,high,low,low,high,low,negative,Yes
+366,The Giver - Original Mix,Duke Dumont,low,high,high,low,low,high,low,negative,Yes
+367,Lean & Bounce,Duke Dumont,low,high,high,high,low,high,low,positive,Yes
+368,Swishas and Dosha - Main Version - Clean,UGK,low,medium,high,low,low,high,low,positive,Yes
+369,Players Anthem,UGK,low,high,high,low,high,high,low,positive,Yes
+370,"Hold On, We're Going Home",Drake,low,high,medium,low,low,high,low,negative,Yes
+371,Living,2 Chainz,medium,high,medium,low,low,high,low,positive,Yes
+372,Taylor Gang - Bonus Track,Wiz Khalifa,low,medium,high,low,high,high,low,positive,Yes
+373,I'm A Martian,Brian Pumper,low,high,medium,low,low,high,low,positive,Yes
+374,The Drop,Bro Safari,low,high,high,low,medium,high,low,positive,Yes
+375,Drippin,MiM0SA,low,medium,high,low,low,high,low,verynegative,Yes
+376,Heaven,TR/ST,low,medium,high,low,low,high,low,positive,Yes
+377,I Need You,Glass Figure,low,medium,high,low,medium,high,low,verynegative,Yes
+378,From Nowhere,Dan Croll,low,medium,high,low,low,high,low,positive,Yes
+379,I Follow Rivers,Lykke Li,medium,medium,medium,low,low,low,low,positive,Yes
+380,L'Amour Parfait,Yelle,medium,high,high,low,low,high,low,verypositive,Yes
+381,Northern Lights,Kate Boy,low,high,high,low,low,high,low,positive,Yes
+382,Shabba,A$AP Ferg,low,high,high,low,medium,high,low,negative,Yes
+383,Work,A$AP Ferg,low,high,high,high,low,high,low,positive,Yes
+384,Work REMIX,A$AP Ferg,low,high,high,low,low,high,low,negative,Yes
+385,The Way We Are,Kate Boy,low,high,high,low,low,high,low,verypositive,Yes
+386,"U.O.E.N.O. (feat. Rick Ross, Future)",Rocko,medium,medium,medium,low,low,high,low,positive,Yes
+387,Now You Do,A-1,low,medium,high,low,low,high,low,negative,Yes
+388,Holding On - Jerome LOL Remix,Classixx,low,high,high,low,medium,high,low,positive,Yes
+389,Music Is the Answer - Original Extended 12-Inch Mix,Celeda,low,high,medium,low,low,high,low,negative,Yes
+390,Test Me - UZ Remix,Flosstradamus & DJ Sliink,low,high,high,low,low,high,low,positive,Yes
+391,Test Me,Flosstradamus & DJ Sliink,low,high,high,low,medium,high,low,negative,Yes
+392,No New Friends - SFTB Remix,DJ Khaled,low,high,high,low,medium,high,low,verynegative,Yes
+393,R.I.P.,Jeezy,low,high,medium,low,low,high,low,negative,Yes
+394,Baby Blue,Badfinger,low,medium,high,low,low,high,low,positive,Yes
+395,Dip,Danny Brown,low,high,high,low,low,high,low,positive,Yes
+396,25 Bucks [feat. Purity Ring],Danny Brown,low,high,high,low,low,high,low,negative,Yes
+397,Fascism,Sam Sparro,low,medium,high,low,low,high,low,positive,Yes
+398,Marc Jacobs,Riff Raff,low,high,medium,low,low,high,low,negative,Yes
+399,One Of Us - Original Mix,Iron Galaxy & Sexlife,low,high,high,high,low,high,low,positive,Yes
+400,Can We Go Up?,Paper Diamond,low,high,high,low,low,high,low,positive,Yes
+401,This Lonely Morning,Best Coast,low,low,high,low,low,high,low,negative,Yes
+402,Time Has Come Today,The Chambers Brothers,low,medium,medium,low,low,medium,low,negative,Yes
+403,Sad Eyes,Crystal Castles,low,medium,high,low,low,high,low,negative,Yes
+404,Wearing My Rolex - Radio Edit,Wiley,low,high,high,low,low,high,low,verypositive,Yes
+405,Need U (100%) [feat. A*M*E] [Radio Edit],Duke Dumont,low,high,high,low,medium,high,low,negative,Yes
+406,Stoned and Starving,Parquet Courts,low,low,high,high,low,high,low,negative,Yes
+407,Reflektor,Arcade Fire,low,medium,high,low,medium,high,low,positive,Yes
+408,Jack,Breach,low,high,medium,medium,low,high,low,positive,Yes
+409,Tennis Court,Lorde,low,high,medium,low,low,high,low,negative,Yes
+410,Primetime (feat. Miguel),Janelle Monáe,low,high,medium,low,medium,high,low,negative,Yes
+411,"Hold On, We're Going Home",Drake,low,high,medium,low,low,high,low,negative,Yes
+412,Hannah Hunt,Vampire Weekend,high,medium,low,low,low,high,low,verynegative,Yes
+413,Latch,Disclosure,low,medium,high,low,low,high,low,positive,Yes
+414,Play by Play,Autre Ne Veut,low,medium,high,low,low,high,low,verynegative,Yes
+415,I Blame Myself,Sky Ferreira,medium,high,high,low,low,high,low,verypositive,Yes
+416,Sunday,Earl Sweatshirt,low,high,medium,low,medium,high,low,verypositive,Yes
+417,Step,Vampire Weekend,medium,medium,high,low,low,high,low,positive,Yes
+418,You're Not Good Enough,Blood Orange,low,high,high,low,low,high,low,positive,Yes
+419,Strandbar (disko),Todd Terje,low,high,high,high,low,high,low,verypositive,Yes
+420,Open,Rhye,high,medium,low,low,low,high,low,verynegative,Yes
+421,Falling,HAIM,low,high,high,low,low,high,low,negative,Yes
+422,White Noise,Disclosure,low,high,high,low,low,high,low,verypositive,Yes
+423,Bumpy Road,Destruction Unit,low,low,high,high,low,high,low,verynegative,Yes
+424,Shabba,A$AP Ferg,low,high,high,low,low,high,low,negative,Yes
+425,Work REMIX,A$AP Ferg,low,high,high,low,low,high,low,negative,Yes
+426,Dope,Tyga,low,high,medium,low,low,high,low,negative,Yes
+427,Here Comes The Night Time II,Arcade Fire,medium,low,medium,high,low,low,low,verynegative,Yes
+428,Warm In The Winter,Glass Candy,low,medium,high,low,low,medium,low,verynegative,Yes
+429,Don't Let It Get to Your Head,Black Harmony,low,high,medium,low,low,high,low,positive,Yes
+430,We Fall Down,ASTR,low,medium,high,low,medium,high,low,verynegative,Yes
+431,R U With Me,ASTR,low,medium,high,low,low,high,low,negative,Yes
+432,Blue Hawaii,ASTR,low,medium,high,low,medium,high,low,negative,Yes
+433,Razor,ASTR,low,high,high,low,low,high,low,positive,Yes
+434,Stay,Rihanna,high,medium,low,low,low,high,low,verynegative,Yes
+435,The Sound Of San Francisco - Progressive Album Mix,Global Deejays,low,high,high,low,low,high,low,positive,Yes
+436,Sunshine Of Your Love,Cream,medium,high,medium,low,low,medium,low,verypositive,Yes
+437,Somebody to Love,Jefferson Airplane,medium,medium,medium,low,low,high,low,positive,Yes
+438,San Francisco (Be Sure to Wear Flowers In Your Hair) - Single Version,Scott McKenzie,medium,medium,medium,low,low,high,low,negative,Yes
+439,White Rabbit,Jefferson Airplane,medium,medium,low,low,low,medium,low,negative,Yes
+440,Pleasure Power (DJ Smash Disco Remix),Afrolicious,low,high,medium,medium,low,high,low,negative,Yes
+441,Bound 2,Kanye West,low,medium,high,low,low,high,low,negative,Yes
+442,Drunk in Love,Beyoncé,low,medium,medium,low,low,high,low,negative,Yes
+443,Viol - Original Mix,Gesaffelstein,low,medium,high,high,medium,high,low,verynegative,Yes
+444,Good Mistake,Mr Little Jeans,low,high,medium,medium,low,high,low,verypositive,Yes
+445,Runaway,Mr Little Jeans,low,medium,high,low,low,high,low,positive,Yes
+446,Fall In Love,Phantogram,low,medium,high,low,low,high,low,negative,Yes
+447,You’re Not The One,Sky Ferreira,low,medium,high,low,low,high,low,verypositive,Yes
+448,Sacrilege,Yeah Yeah Yeahs,low,medium,high,low,medium,high,low,negative,Yes
+449,Collard Greens,ScHoolboy Q,low,high,medium,low,low,high,low,positive,Yes
+450,Hell Of A Night,ScHoolboy Q,medium,medium,high,low,low,high,low,verynegative,Yes
+451,1977,Ana Tijoux,low,high,high,low,low,high,low,positive,Yes
+452,Latino & Proud,DJ Raff,low,high,medium,low,low,high,low,verypositive,Yes
+453,Move That Dope,Future,low,high,medium,low,low,high,low,negative,Yes
+454,Slasherr,Rustie,low,high,high,high,low,high,low,positive,Yes
+455,Outlines,AlunaGeorge,high,high,medium,low,low,high,low,negative,Yes
+456,Platoon,Jungle,medium,medium,high,high,low,high,low,positive,Yes
+457,Man Of The Year,ScHoolboy Q,low,high,high,low,low,high,low,negative,Yes
+458,Spacer Woman - Vocal,Charlie,low,high,high,medium,low,high,low,negative,Yes
+459,Nobody Else - Original Mix,Dusky,low,high,high,high,low,high,low,positive,Yes
+460,Stoner,Young Thug,medium,high,high,low,low,high,low,positive,Yes
+461,Elevate,St. Lucia,low,medium,high,low,low,high,low,positive,Yes
+462,Independent - House Remix,Hoodfellas,low,high,high,low,low,high,low,positive,Yes
+463,Au Seve,Julio Bashmore,low,high,high,high,low,high,low,positive,Yes
+464,Synchronize,Discodeine,low,high,medium,low,low,high,low,verypositive,Yes
+465,Don't Miss,The Alexanders,low,high,high,medium,low,high,low,positive,Yes
+466,Coucou disco,Dim Sum,low,high,high,medium,low,high,low,negative,Yes
+467,Vowel Play - Original,Them Jeans,low,high,high,high,low,high,low,verypositive,Yes
+468,The Devil Is A Lie,Rick Ross,low,high,high,low,medium,high,low,positive,Yes
+469,North North,Project Pat,low,high,high,low,low,high,low,positive,Yes
+470,Temporary View,SBTRKT,medium,high,high,low,low,high,low,verynegative,Yes
+471,"III. Telegraph Ave. (""Oakland"" by Lloyd)",Childish Gambino,low,medium,high,low,low,high,low,positive,Yes
+472,Accelerate,Jungle,low,medium,high,medium,medium,high,low,negative,Yes
+473,0 To 100 / The Catch Up,Drake,high,high,high,low,low,high,medium,negative,Yes
+474,Hot N*gga,Bobby Shmurda,low,high,medium,low,low,high,medium,verynegative,Yes
+475,You'll Never Walk Alone - 2002 Remastered Version,Gerry & The Pacemakers,medium,medium,low,low,low,medium,low,negative,Yes
+476,Your Soul,Hippie Sabotage,low,medium,high,low,low,high,low,verynegative,Yes
+477,dance yrself clean - live at madison square garden,LCD Soundsystem,low,medium,high,low,high,high,low,negative,Yes
+478,Running Up That Hill (A Deal With God),Kate Bush,high,medium,medium,low,low,medium,low,verynegative,Yes
+479,High Ball Stepper,Jack White,low,low,medium,low,low,high,low,negative,Yes
+480,The Great Gig In The Sky - 2011 Remastered Version,Pink Floyd,high,low,low,high,low,medium,low,verynegative,Yes
+481,All We Need (feat. Shy Girls),ODESZA,low,medium,high,low,low,high,low,negative,Yes
+482,Catamaran,Allah-Las,low,medium,high,low,low,high,low,positive,Yes
+483,Fool,Perfume Genius,high,low,low,low,low,high,low,verynegative,Yes
+484,Bulbform,TR/ST,low,medium,high,low,low,high,low,negative,Yes
+485,Passing Out Pieces,Mac Demarco,low,medium,high,low,low,high,low,negative,Yes
+486,Tuesday,ILoveMakonnen,medium,high,medium,low,low,high,low,positive,Yes
+487,Drop Dead Baby,Ty Segall,low,low,high,high,medium,high,low,negative,Yes
+488,My Sunshine,Ty Segall,low,low,high,low,low,high,low,positive,Yes
+489,BIG Fun - Full Intention 88 Remix,Inner City,low,high,high,high,low,high,low,verynegative,Yes
+490,Natty Dread A Weh She Want,Horace Andy,low,high,medium,low,low,high,low,verypositive,Yes
+491,DLZ,TV On The Radio,low,medium,high,low,low,high,low,positive,Yes
+492,Whatcha Gonna Do,Koopsta Knicca,low,high,high,low,low,high,medium,positive,Yes
+493,18 With A Bullet,Pete Wingfield,low,high,medium,low,low,high,low,negative,Yes
+494,The Boss,James Brown,medium,high,medium,low,low,high,low,positive,Yes
+495,Drifting In And Out,Porcelain Raft,low,low,high,low,medium,high,low,negative,Yes
+496,Made Me,Snootie Wild,low,high,high,low,low,high,low,negative,Yes
+497,Way to be Loved,TOPS,medium,medium,medium,low,low,high,low,positive,Yes
+498,Just Wanna Love You Girl,Epsilons,low,low,high,low,low,high,low,positive,Yes
+499,Be Brave,The Strange Boys,medium,medium,high,low,low,high,low,verypositive,Yes
+500,Tupelo (Pt. 1) - Single Version,Albert King,medium,high,low,low,low,medium,low,negative,Yes
+501,Candyman,Cornershop,low,high,high,high,low,high,low,positive,Yes
+502,Somebody Was Watching,Pops Staples,medium,medium,medium,low,low,medium,low,positive,Yes
+503,Tupelo - Part 1,Pop Staples,medium,medium,low,low,low,low,low,negative,Yes
+504,Tupelo,Steve Cropper,low,medium,low,low,medium,low,low,negative,Yes
+505,"Damn Son, Where'd You Find This? - Future of TRAP Mix",Trendsetter,low,high,medium,low,low,high,medium,verynegative,Yes
+506,I'm in LOVE With GO-GO Dancer (Disco Diva) - Future of TRAP Mix,Trendsetter,low,medium,medium,low,low,high,low,verynegative,Yes
+507,Damn Son Where'd You Find This? (feat. Kelly Holiday) - Markus Maximus Remix,Markus Maximus,low,high,medium,low,low,high,medium,verynegative,Yes
+508,Work - The Advent & Spiriakos Remix,ZZT,low,medium,high,high,medium,high,low,verynegative,Yes
+509,Mannish Boy,Muddy Waters,medium,medium,medium,low,low,high,low,negative,Yes
+510,Holding On,Disclosure,low,high,high,low,medium,high,medium,verypositive,Yes
+511,"Mozart: Requiem in D Minor, K. 626: VIII. Lacrimosa",Nikolaus Harnoncourt,high,low,low,medium,low,low,low,verynegative,Yes
+512,My Main,Mykfresh,low,high,medium,low,low,high,low,positive,Yes
+513,Southern Man - Live,"Crosby, Stills, Nash & Young",low,medium,high,low,high,high,low,verypositive,Yes
+514,Won't Look Back,Duke Dumont,low,medium,high,low,low,high,low,negative,Yes
+515,Chrome Knight - Feat. Chromeo,Surkin,low,medium,high,low,low,high,low,positive,Yes
+516,Black Boy,Pops Staples,high,high,medium,medium,low,medium,low,verypositive,Yes
+517,Give Me The Sunshine,Leo's Sunshipp,low,medium,medium,low,low,high,low,verypositive,Yes
+518,Motherless Child,Romare,medium,high,medium,high,low,medium,low,negative,Yes
+519,Giudecca,Ghost Culture,low,medium,high,high,low,high,low,negative,Yes
+520,Living Every Dream,Antwon,low,medium,high,low,low,high,low,negative,Yes
+521,Easy Rider,Action Bronson,low,medium,high,low,low,high,low,positive,Yes
+522,Nissim,The Gaslamp Killer,low,medium,high,low,low,high,low,verynegative,Yes
+523,Topless,Orlando Julius,low,medium,high,low,low,high,low,verypositive,Yes
+524,Breakthrough,The Funkees,medium,medium,high,low,low,high,low,positive,Yes
+525,Stand Up - Tiger & Woods Remix,Pitchben,low,high,high,low,low,high,low,positive,Yes
+526,Blow a Bag,Future,low,high,medium,low,medium,high,low,verynegative,Yes
+527,Ain't got nobody,Sísý Ey,low,high,medium,low,low,high,low,positive,Yes
+528,I Want'a Do Something Freaky To You,Leon Haywood,low,medium,medium,low,low,high,low,verypositive,Yes
+529,I Got a Feeling,Shit Robot,low,high,high,high,low,high,low,positive,Yes
+530,Standard,Empress Of,low,medium,medium,low,low,high,low,negative,Yes
+531,What I Might Do - Club Mix,Ben Pearce,low,high,medium,high,low,high,low,negative,Yes
+532,Let's Lovedance Tonight - Danny Krivit Re-edit - Original Disco Version,Gary's Gang,low,high,high,low,low,high,low,verypositive,Yes
+533,Do You Love Me,The Contours,medium,medium,high,low,low,high,low,verypositive,Yes
+534,Too Bad I Have To Destroy You Now,Kid Cudi,low,medium,high,low,low,high,low,verynegative,Yes
+535,Louie Louie,The Sonics,high,medium,high,low,low,high,low,verypositive,Yes
+536,Heart Full of Soul,The Yardbirds,low,medium,high,low,low,high,low,positive,Yes
+537,For Your Love,The Yardbirds,low,medium,medium,low,low,high,low,positive,Yes
+538,Sunshine Of Your Love,Cream,medium,high,medium,low,low,medium,low,verypositive,Yes
+539,Taifa - The Emperor Machine Mix,Partial Arts,low,high,high,high,low,medium,low,verynegative,Yes
+540,Taifa,Partial Arts,low,high,medium,high,low,high,low,positive,Yes
+541,Make It,Patrick Di Stefano,low,high,high,medium,medium,high,low,positive,Yes
+542,Face It,Master C & J,low,high,medium,high,low,medium,low,verypositive,Yes
+543,Mary-Mary (M&M Unreleased Mix) [feat. Dajae],Grand High Priest,low,high,high,medium,low,high,low,verypositive,Yes
+544,Supernature - Edit,Cerrone,low,medium,high,medium,low,high,low,verypositive,Yes
+545,I'll Be Good,Rene & Angela,low,high,medium,low,low,high,low,positive,Yes
+546,Defected In The House Ibiza 2013 Mixtape,Simon Dunmore,low,high,high,low,low,high,low,negative,Yes
+547,"A Day In The Life - feat. RZA, The Mars Volta & AG + Good Hygiene feat. Tim Meadows Amended CD Version",Handsome Boy Modeling School,low,medium,high,low,medium,high,medium,positive,Yes
+548,Episode I - Duel of The Fates,John Williams,high,medium,medium,high,low,low,low,verynegative,Yes
+549,Three Cool Cats,The Coasters,high,high,medium,low,low,high,low,verypositive,Yes
+550,Mercy,The Third Degree,low,medium,high,low,medium,high,low,verypositive,Yes
+551,Do I Love You?,The Ronettes,medium,medium,high,low,low,high,low,negative,Yes
+552,Night on Bald Mountain,Modest Mussorgsky,high,medium,low,high,low,low,low,verynegative,Yes
+553,Akue We Non Houme - Jerk Fon,T. P. Orchestre Poly-Rythmo,low,high,medium,low,low,high,low,verypositive,Yes
+554,Ecoute ma mélodie - Bossa Afro,T. P. Orchestre Poly-Rythmo,medium,high,high,low,low,high,low,verypositive,Yes
+555,Ole,The Funkees,low,medium,high,low,low,low,low,verypositive,Yes
+556,Greetings,Joni Haastrup,low,medium,high,low,medium,high,low,verypositive,Yes
+557,5thep,Todd Osborn,low,high,high,medium,low,high,low,verypositive,Yes
+558,Cavern,Liquid Liquid,low,high,high,high,low,high,low,negative,Yes
+559,Your Love,Mick Jenkins,low,high,medium,low,low,high,low,positive,Yes
+560,Sleepwalk,Santo & Johnny,high,medium,medium,medium,low,medium,low,negative,Yes
+561,What I Might Do - Kilter Remix,Ben Pearce,low,medium,medium,medium,medium,high,low,negative,Yes
+562,Waiting Around For Grace,Pond,low,low,high,low,low,high,low,negative,Yes
+563,Nobodys Fool - Ben Pearce Remix,Real Connoisseur,low,medium,high,high,low,high,low,positive,Yes
+564,Smoke On The Water,Deep Purple,low,medium,medium,medium,low,medium,low,verypositive,Yes
+565,Able to See Me,Hippie Sabotage,low,medium,high,low,low,high,low,verynegative,Yes
+566,Oogum Boogum Song,Brenton Wood,high,high,high,low,low,high,low,verypositive,Yes
+567,The Gaudy Side of Town,Gayngs,high,high,medium,medium,low,high,low,positive,Yes
+568,The Walker,Gayngs,medium,medium,medium,high,low,medium,low,verynegative,Yes
+569,Ultimate Painting,Ultimate Painting,medium,high,high,high,low,high,low,positive,Yes
+570,Agorinha,Sango,low,high,high,low,low,high,medium,positive,Yes
+571,I'm Glad,Captain Beefheart & His Magic Band,high,medium,medium,low,low,high,low,negative,Yes
+572,Apollo Throwdown (Star Slinger Remix),The Go! Team,low,high,high,low,medium,high,low,negative,Yes
+573,Boys Life,Small Black,low,medium,high,low,high,high,low,positive,Yes
+574,Dirt And Grime,Fathers Children,medium,medium,medium,low,low,high,low,positive,Yes
+575,Pedestrian at Best,Courtney Barnett,low,medium,high,low,medium,high,low,positive,Yes
+576,Middle,DJ Snake,low,medium,high,low,low,high,low,verynegative,Yes
+577,Something About You - Extended Mix,Hayden James,low,high,medium,low,low,high,low,positive,Yes
+578,Only You,Mac Demarco,low,medium,high,low,low,high,low,positive,Yes
+579,The One,ZHU,low,high,high,high,low,high,low,positive,Yes
+580,Way Down We Go,Kaleo,medium,medium,medium,low,low,high,low,negative,Yes
+581,Deeper Than Love,Colleen Green,low,high,medium,high,low,high,low,verypositive,Yes
+582,Back Pocket,Vulfpeck,medium,high,medium,low,low,high,low,verypositive,Yes
+583,All I Wanna Do,The Beach Boys,low,medium,medium,low,low,medium,low,negative,Yes
+584,Water,Jamaican Queens,low,medium,medium,low,low,high,low,verynegative,Yes
+585,You,Ejeca,low,medium,high,high,low,high,low,positive,Yes
+586,Voodoo Ray - Danny Tenaglia Remix,A Guy Called Gerald,low,high,medium,high,low,high,low,positive,Yes
+587,Jack,Breach,low,high,medium,low,low,high,low,positive,Yes
+588,Jack,Breach,low,high,medium,medium,low,high,low,positive,Yes
+589,Mary Jane (Jamie Xx - Girl Remix),Jamie xx,medium,medium,medium,low,medium,high,low,positive,Yes
+590,Chunky - Club Mix,Format:B,low,high,high,medium,low,high,low,positive,Yes
+591,My Old Man,Zac Brown Band,high,medium,low,low,low,medium,low,negative,No
+592,Losing Sleep,Chris Young,low,medium,medium,low,low,high,low,positive,No
+593,Sleep Without You,Brett Young,low,medium,high,low,low,high,low,positive,No
+594,Yeah Boy,Kelsea Ballerini,low,medium,high,low,low,high,low,negative,No
+595,Craving You,Thomas Rhett,low,medium,high,low,medium,high,low,positive,No
+596,More Girls Like You,Kip Moore,low,medium,high,low,low,high,low,positive,No
+597,Heart Break,Lady Antebellum,low,medium,high,low,low,high,low,positive,No
+598,Cut Your Groove,Charlie Worsham,low,medium,high,low,low,high,low,verypositive,No
+599,Black,Dierks Bentley,low,high,medium,low,low,high,low,positive,No
+600,The Weekend,Brantley Gilbert,low,medium,high,low,low,high,low,positive,No
+601,Reasons,Jillian Jacqueline,low,medium,medium,low,low,high,low,negative,No
+602,Small Town Boy,Dustin Lynch,low,medium,high,low,medium,high,low,positive,No
+603,Yours If You Want It,Rascal Flatts,low,medium,high,low,low,high,low,negative,No
+604,Roots,Zac Brown Band,low,high,medium,low,low,high,low,positive,No
+605,Sunday Morning,Parmalee,low,medium,high,low,low,high,low,positive,No
+606,Hurricane,Luke Combs,low,medium,high,low,low,high,low,negative,No
+607,Think A Little Less,Michael Ray,low,medium,high,low,low,high,low,positive,No
+608,Speak to a Girl,Tim McGraw,high,medium,medium,low,low,high,low,verynegative,No
+609,Man Enough Now,Chris Bandi,low,medium,medium,low,low,high,low,positive,No
+610,If I Told You,Darius Rucker,medium,medium,medium,low,low,high,low,negative,No
+611,Happy People,Little Big Town,low,high,high,low,low,high,low,verypositive,No
+612,All On Me,Devin Dawson,low,medium,medium,low,low,high,low,positive,No
+613,Somethin' I'm Good At,Brett Eldredge,low,medium,high,low,low,high,low,negative,No
+614,I Could Use a Love Song,Maren Morris,low,medium,medium,low,low,high,low,negative,No
+615,Zac Brown Band - Hot Country,Various Artists,high,medium,medium,low,low,high,low,negative,No
+616,Trying To Drive,Zac Brown Band,low,medium,high,low,low,high,low,negative,No
+617,"God, Your Mama, And Me",Florida Georgia Line,medium,medium,high,low,medium,high,low,positive,No
+618,Real Thing,Zac Brown Band,low,medium,medium,low,low,high,low,positive,No
+619,They Don't Know,Jason Aldean,low,medium,high,low,low,high,low,negative,No
+620,Every Time I Hear That Song,Blake Shelton,low,medium,high,low,low,high,low,positive,No
+621,What Ifs,Kane Brown,low,medium,high,low,low,high,low,positive,No
+622,For Her,Chris Lane,low,medium,high,low,low,high,low,positive,No
+623,Act Like You Don't,Brooke Eden,medium,medium,high,low,low,high,low,negative,No
+624,In Case You Didn't Know,Brett Young,medium,medium,medium,low,low,high,low,negative,No
+625,Two Black X's,Dylan Schneider,low,medium,high,low,low,high,low,positive,No
+626,You Look Good,Lady Antebellum,low,medium,high,low,low,high,low,verypositive,No
+627,Close,Ryan Kinder,low,medium,high,low,low,high,low,verypositive,No
+628,Ain't Always Pretty,Logan Mize,low,medium,high,low,medium,high,low,negative,No
+629,Love in a Bar,Ryan Hurd,low,medium,medium,low,low,high,low,negative,No
+630,Family Table,Zac Brown Band,low,medium,high,low,low,high,low,positive,No
+631,Any Ol' Barstool,Jason Aldean,low,medium,high,low,low,high,low,negative,No
+632,Dirt On My Boots,Jon Pardi,low,high,high,low,low,high,low,positive,No
+633,Just a Phase,Adam Craig,medium,high,medium,low,low,high,low,positive,No
+634,Body Like A Back Road,Sam Hunt,medium,high,medium,low,low,high,low,positive,No
+635,How Not To,Dan + Shay,low,medium,high,low,low,high,low,positive,No
+636,Tin Man,Miranda Lambert,high,medium,medium,low,low,high,low,negative,No
+637,Blue Tacoma,Russell Dickerson,low,medium,high,low,low,high,low,positive,No
+638,May We All,Florida Georgia Line,low,medium,high,low,medium,high,low,positive,No
+639,Last Time for Everything,Brad Paisley,medium,medium,high,low,medium,high,low,positive,No
+640,Getting Over You,Jackie Lee,low,medium,high,low,low,high,low,positive,No
+641,Flatliner (feat. Dierks Bentley),Cole Swindell,low,medium,high,low,low,high,low,positive,No
+642,Like You That Way,Canaan Smith,low,medium,high,low,low,high,low,positive,No
+643,Hometown Girl,Josh Turner,low,medium,high,low,low,high,low,negative,No
+644,Star Of The Show,Thomas Rhett,low,high,medium,low,low,high,low,positive,No
+645,Either Way,Chris Stapleton,high,medium,low,low,low,low,low,negative,No
+646,No Such Thing as a Broken Heart,Old Dominion,low,medium,high,low,low,high,low,verypositive,No
+647,There’s A Girl,Trent Harmon,low,medium,high,low,low,high,low,negative,No
+648,The Fighter,Keith Urban,low,high,high,low,low,high,low,verypositive,No
+649,Despacito - Remix,Luis Fonsi,low,high,high,low,low,high,low,verypositive,No
+650,Felices los 4,Maluma,low,high,high,low,medium,high,low,positive,No
+651,SUBEME LA RADIO,Enrique Iglesias,low,high,high,low,low,high,low,positive,No
+652,Me Rehúso,Danny Ocean,low,high,high,low,low,high,low,negative,No
+653,El Amante,Nicky Jam,low,high,high,low,low,high,low,positive,No
+654,Escápate Conmigo,Wisin,low,high,high,low,low,high,low,positive,No
+655,Ahora Dice,Chris Jeday,low,high,high,low,low,high,low,negative,No
+656,Chantaje,Shakira,low,high,high,low,low,high,low,verypositive,No
+657,Hey Ma (with Pitbull & J Balvin feat. Camila Cabello) - Spanish Version,Pitbull,low,medium,high,low,low,high,low,positive,No
+658,Sigo Extrañándote,J Balvin,low,high,high,low,low,high,low,verypositive,No
+659,Otra Vez (feat. J Balvin),Zion & Lennox,low,high,high,low,medium,high,low,positive,No
+660,La Rompe Corazones,Daddy Yankee,low,high,high,low,low,high,low,verypositive,No
+661,"Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]",Anuel Aa,low,medium,high,low,low,high,low,verypositive,No
+662,Despacito (Featuring Daddy Yankee),Luis Fonsi,low,high,high,low,low,high,low,verypositive,No
+663,Reggaetón Lento (Bailemos),CNCO,medium,high,high,low,low,high,low,positive,No
+664,Hey DJ,CNCO,low,high,high,low,medium,high,low,negative,No
+665,Me Llamas (feat. Maluma) - Remix,Piso 21,medium,high,high,low,low,high,low,positive,No
+666,Me Enamoré,Shakira,low,high,high,low,low,high,low,verypositive,No
+667,Tu Foto,Ozuna,low,high,medium,low,low,high,low,verypositive,No
+668,Vente Pa' Ca,Ricky Martin,low,high,high,low,low,high,low,positive,No
+669,Safari,J Balvin,medium,medium,high,low,low,high,low,positive,No
+670,Alguien Robo,Sebastian Yatra,low,high,high,low,low,high,low,positive,No
+671,Vacaciones,Wisin,low,high,high,low,low,high,low,positive,No
+672,Te Quiero Pa´Mi,Don Omar,low,high,high,low,low,high,low,positive,No
+673,Ay Mi Dios,IAmChino,low,high,high,low,low,high,low,verypositive,No
+674,Traicionera,Sebastian Yatra,low,high,high,low,low,high,low,positive,No
+675,Si Tú La Ves,Nicky Jam,low,high,high,low,low,high,low,verypositive,No
+676,Lumbra,Cali Y El Dandee,low,high,high,low,high,high,low,verypositive,No
+677,La Bicicleta,Carlos Vives,low,high,high,low,low,high,low,verypositive,No
+678,Bailame,Nacho,low,high,high,low,low,high,low,positive,No
+679,Dile Que Tu Me Quieres,Ozuna,low,high,high,low,low,high,low,verypositive,No
+680,Deja vu,Prince Royce,medium,high,high,low,low,high,low,verypositive,No
+681,Sé Que Te Duele,Alejandro Fernandez,low,high,high,low,low,high,low,verypositive,No
+682,Borro Cassette,Maluma,low,high,high,low,low,high,low,verypositive,No
+683,DUELE EL CORAZON,Enrique Iglesias,low,high,high,low,low,high,low,verypositive,No
+684,Andas En Mi Cabeza,Chino & Nacho,low,high,high,low,low,high,low,positive,No
+685,Chillax,Farruko,low,high,medium,low,low,high,low,positive,No
+686,Hasta el Amanecer,Nicky Jam,low,high,medium,low,low,high,low,positive,No
+687,Bailame Despacio,Xantos,low,high,high,low,low,high,low,positive,No
+688,Shaky Shaky,Daddy Yankee,low,high,medium,low,low,high,low,verypositive,No
+689,Besándote,Piso 21,low,high,high,low,low,high,low,negative,No
+690,Ando buscando (feat. Piso 21),Carlos Baute,low,high,high,low,low,high,low,positive,No
+691,Hula Hoop,Daddy Yankee,low,high,high,low,low,high,low,verypositive,No
+692,Qué Gano Olvidándote - Versión Urbana,Reik,low,medium,high,low,low,high,low,positive,No
+693,Ya Me Enteré (feat. Nicky Jam) - Urban Version,Reik,low,high,high,low,low,high,low,verypositive,No
+694,Mi Tesoro (feat. Nicky Jam),Zion & Lennox,low,high,high,low,low,high,low,negative,No
+695,Tú Sí Sabes Quererme,Natalia Lafourcade,high,medium,medium,low,low,high,low,verypositive,No
+696,Si Me Dices Que Si (feat. Nicky Jam),Cosculluela,low,high,high,low,low,high,low,verypositive,No
+697,Fuego,Juanes,low,high,medium,low,low,high,low,verypositive,No
+698,Al Filo de Tu Amor,Carlos Vives,low,high,high,low,low,high,low,verypositive,No
+699,Young And Menace,Fall Out Boy,low,medium,high,low,low,high,low,negative,No
+700,"Sugar, We're Goin Down",Fall Out Boy,low,medium,high,low,low,high,low,positive,No
+701,Centuries,Fall Out Boy,low,medium,high,low,low,high,low,positive,No
+702,My Songs Know What You Did In The Dark (Light Em Up),Fall Out Boy,low,medium,high,low,medium,high,low,positive,No
+703,Immortals,Fall Out Boy,low,medium,high,low,medium,high,low,positive,No
+704,Uma Thurman,Fall Out Boy,low,medium,high,low,medium,high,low,positive,No
+705,"Dance, Dance",Fall Out Boy,low,medium,high,low,low,high,low,positive,No
+706,"This Ain't A Scene, It's An Arms Race",Fall Out Boy,low,medium,high,low,low,high,low,negative,No
+707,Bad Liar,Selena Gomez,low,high,medium,low,low,high,low,positive,No
+708,Despacito - Remix,Luis Fonsi,low,medium,high,low,low,high,low,verypositive,No
+709,Thunder,Imagine Dragons,low,medium,high,low,low,high,low,verynegative,No
+710,Attention,Charlie Puth,low,high,medium,low,low,high,low,verypositive,No
+711,There's Nothing Holdin' Me Back,Shawn Mendes,medium,high,high,low,low,high,low,verypositive,No
+712,Quit (feat. Ariana Grande),Cashmere Cat,low,medium,medium,low,low,high,low,verynegative,No
+713,The Cure,Lady Gaga,low,high,medium,low,low,high,low,positive,No
+714,First Time,Kygo,low,medium,medium,low,low,high,low,positive,No
+715,No Vacancy,OneRepublic,low,high,high,low,low,high,low,negative,No
+716,Most Girls,Hailee Steinfeld,low,high,medium,low,low,high,low,negative,No
+717,Malibu,Miley Cyrus,low,medium,high,low,low,high,low,negative,No
+718,Stay (with Alessia Cara),Zedd,low,medium,medium,low,low,high,low,positive,No
+719,1-800-273-8255,Logic,medium,medium,medium,low,low,high,low,negative,No
+720,Pretty Girl - Cheat Codes X CADE Remix,Maggie Lindemann,low,high,high,low,low,high,low,positive,No
+721,Now Or Never,Halsey,low,high,medium,low,low,high,low,negative,No
+722,No Promises (feat. Demi Lovato),Cheat Codes,low,high,high,low,low,high,low,positive,No
+723,Slow Hands,Niall Horan,low,high,medium,low,low,high,low,verypositive,No
+724,Bad Bitch (feat. Ty Dolla $ign),Bebe Rexha,low,medium,medium,low,low,high,low,negative,No
+725,Good Life (with G-Eazy & Kehlani),G-Eazy,low,medium,high,low,low,high,low,positive,No
+726,The Night We Met,Lord Huron,high,medium,medium,low,medium,high,low,verynegative,No
+727,Rollin,Calvin Harris,medium,high,high,low,low,high,low,positive,No
+728,Obsession (feat. Jon Bellion),Vice,low,high,medium,low,low,high,low,negative,No
+729,Whippin (feat. Felix Snow),Kiiara,medium,high,medium,low,low,high,low,positive,No
+730,Symphony,Clean Bandit,low,high,medium,low,low,high,low,negative,No
+731,Break Up Every Night,The Chainsmokers,low,medium,high,low,low,high,low,positive,No
+732,Unforgettable,French Montana,low,high,high,low,low,high,low,verypositive,No
+733,HUMBLE.,Kendrick Lamar,low,high,medium,low,low,high,low,negative,No
+734,do re mi,Blackbear,low,high,medium,low,low,high,low,verynegative,No
+735,Swalla (feat. Nicki Minaj & Ty Dolla $ign),Jason Derulo,low,high,high,low,low,high,low,verypositive,No
+736,Whatever It Takes,Imagine Dragons,low,high,high,low,low,high,low,positive,No
+737,Touch,Little Mix,low,medium,high,low,medium,high,low,positive,No
+738,Selfish,Future,low,medium,medium,low,medium,high,low,verynegative,No
+739,It Ain’t Me (with Selena Gomez),Kygo,low,medium,medium,low,low,high,low,negative,No
+740,Mama,Jonas Blue,low,high,high,low,low,high,low,positive,No
+741,The One,The Chainsmokers,low,high,low,low,low,medium,low,verynegative,No
+742,Nights With You,MØ,medium,high,high,low,medium,high,low,positive,No
+743,TG4M,Zara Larsson,low,high,medium,low,low,high,low,positive,No
+744,Mask Off,Future,low,high,medium,low,low,high,medium,negative,No
+745,Bon Appétit,Katy Perry,low,high,high,low,low,high,low,positive,No
+746,Sign of the Times,Harry Styles,low,medium,medium,low,low,high,low,verynegative,No
+747,At My Best (feat. Hailee Steinfeld),Machine Gun Kelly,low,medium,high,low,low,high,low,verynegative,No
+748,Issues,Julia Michaels,medium,high,medium,low,low,high,low,negative,No
+749,That's What I Like,Bruno Mars,low,high,medium,low,low,high,low,verypositive,No
+750,September Song,JP Cooper,low,medium,medium,low,low,high,low,negative,No
+751,Still Got Time,ZAYN,low,high,medium,low,low,high,low,positive,No
+752,Location,Khalid,low,high,medium,low,low,medium,medium,negative,No
+753,Scared to Be Lonely,Martin Garrix,low,medium,medium,low,low,high,low,verynegative,No
+754,Passionfruit,Drake,low,high,medium,low,low,medium,low,negative,No
+755,Shape of You,Ed Sheeran,medium,high,medium,low,low,high,low,verypositive,No
+756,Wild Ones (feat. Sia),Flo Rida,low,medium,high,low,low,high,low,negative,No
+757,Starships,Nicki Minaj,low,high,high,low,low,high,low,positive,No
+758,Lollipop,Lil Wayne,low,high,medium,low,low,high,low,negative,No
+759,Time of Our Lives,Pitbull,low,high,high,low,high,high,low,positive,No
+760,Stereo Hearts (feat. Adam Levine),Gym Class Heroes,low,medium,high,low,low,high,low,verypositive,No
+761,Glad You Came,The Wanted,low,high,high,low,low,high,low,negative,No
+762,Dynamite,Taio Cruz,low,high,high,low,low,high,low,verypositive,No
+763,Clique,JAY Z,low,medium,medium,low,low,high,medium,negative,No
+764,Airplanes (feat. Hayley Williams of Paramore),B.o.B,low,high,high,low,low,high,low,negative,No
+765,Trumpets,Jason Derulo,medium,medium,high,low,low,high,low,positive,No
+766,Live Your Life - feat. Rihanna,T.I.,low,medium,high,low,low,high,low,negative,No
+767,Like A G6,Far East Movement,low,medium,high,low,low,high,medium,positive,No
+768,Feel This Moment,Pitbull,low,high,high,low,medium,high,low,positive,No
+769,Timber,Pitbull,low,medium,high,low,low,high,low,verypositive,No
+770,Classic,MKTO,low,high,high,low,low,high,low,verypositive,No
+771,Titanium (feat. Sia),David Guetta,low,medium,high,low,low,high,low,negative,No
+772,E.T. - feat. Kanye West,Katy Perry,low,medium,high,low,medium,high,low,verypositive,No
+773,GDFR (feat. Sage The Gemini & Lookas),Flo Rida,low,medium,high,low,low,high,low,positive,No
+774,"Young, Wild & Free (feat. Bruno Mars)",Snoop Dogg,low,high,medium,low,low,high,low,positive,No
+775,The Monster,Eminem,low,high,high,low,low,high,low,positive,No
+776,TiK ToK,Kesha,low,high,high,low,low,high,low,positive,No
+777,Love You Like A Love Song,Selena Gomez & The Scene,low,high,high,low,low,high,low,verypositive,No
+778,Don't You Worry Child (Radio Edit) [feat. John Martin],Swedish House Mafia,low,medium,high,low,low,high,low,negative,No
+779,Sexy Bitch (feat. Akon) - Featuring Akon;explicit,David Guetta,low,high,medium,low,low,high,low,verypositive,No
+780,Somebody,Natalie La Rose,low,high,medium,low,low,high,low,verypositive,No
+781,Maps,Maroon 5,low,high,high,low,low,high,low,verypositive,No
+782,Am I Wrong,Nico & Vinz,low,high,high,low,low,high,low,verypositive,No
+783,Umbrella,Rihanna,low,medium,high,low,low,high,low,positive,No
+784,Counting Stars,OneRepublic,low,high,high,low,low,high,low,negative,No
+785,Turn Down for What,DJ Snake,low,high,high,low,low,high,low,verynegative,No
+786,Get Lucky,Daft Punk,low,high,high,low,low,high,low,verypositive,No
+787,A Dustland Fairytale,The Killers,low,medium,high,low,low,high,low,negative,No
+788,My House,Flo Rida,low,high,high,low,low,high,low,positive,No
+789,Best I Ever Had,Drake,low,medium,high,low,low,high,medium,positive,No
+790,Stitches,Shawn Mendes,low,medium,high,low,low,high,low,positive,No
+791,I Will Never Let You Down,Rita Ora,medium,high,high,low,low,high,low,verypositive,No
+792,Do I Wanna Know?,Arctic Monkeys,low,medium,medium,low,low,high,low,negative,No
+793,Cinema - Skrillex Remix,Benny Benassi,low,medium,high,low,low,high,low,negative,No
+794,Take Care,Drake,low,high,medium,low,low,high,low,negative,No
+795,Love Song,Sara Bareilles,low,medium,high,low,low,high,low,positive,No
+796,Blurred Lines,Robin Thicke,low,high,medium,low,low,high,low,verypositive,No
+797,Swimming Pools (Drank) - Extended Version,Kendrick Lamar,low,high,medium,low,medium,high,medium,negative,No
+798,Beautiful Girls - Radio Disney Version,Sean Kingston,low,high,medium,low,low,high,low,positive,No
+799,Cool,Gwen Stefani,low,high,high,low,medium,high,low,verypositive,No
+800,Can’t Live Without,Hollyn,medium,medium,medium,low,low,high,low,negative,No
+801,Glimpse,Kim Walker-Smith,low,medium,high,low,low,high,low,negative,No
+802,Broken Things,Matthew West,low,medium,medium,low,low,high,low,negative,No
+803,Even If,MercyMe,medium,medium,medium,low,low,high,low,verynegative,No
+804,Home,Chris Tomlin,low,medium,high,low,low,high,low,negative,No
+805,Nowhere,Sarah Reeves,medium,low,medium,low,low,high,low,verynegative,No
+806,Hills and Valleys (The Valleys Version),Tauren Wells,high,medium,medium,low,low,high,low,negative,No
+807,Chain Breaker,Zach Williams,low,medium,high,low,low,high,low,negative,No
+808,Clean,Natalie Grant,high,medium,low,low,low,high,low,verynegative,No
+809,I Will,Citizen Way,medium,medium,high,low,low,high,low,negative,No
+810,The Gospel,Ryan Stevenson,low,medium,high,low,low,high,low,positive,No
+811,Throne Room,Kim Walker-Smith,low,medium,high,low,low,high,low,verynegative,No
+812,I Won't Let You Go - Radio Version,Switchfoot,low,medium,high,low,low,high,low,negative,No
+813,Unfinished,Mandisa,low,medium,high,low,low,high,low,negative,No

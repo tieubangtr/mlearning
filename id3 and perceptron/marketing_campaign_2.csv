@@ -1,0 +1,2241 @@
+﻿ID,Age,Education,Marital_Status,Income,AcceptedCmp1,Complain,Response
+1,Old,Graduation,Single,Very high,No,No,Yes
+2,Old,Graduation,Single,High,No,No,No
+3,Middle,Graduation,Together,Very high,No,No,No
+4,Middle,Graduation,Together,High,No,No,No
+5,Middle,PhD,Married,Very high,No,No,No
+6,Middle,Master,Together,Very high,No,No,No
+7,Young,Graduation,Divorced,Very high,No,No,No
+8,Middle,PhD,Married,High,No,No,No
+9,Old,PhD,Together,High,No,No,Yes
+10,Middle,PhD,Together,Medium,No,No,No
+11,Middle,Graduation,Married,Low,No,No,No
+12,Old,Basic,Married,Medium,No,No,No
+13,Old,Graduation,Divorced,Very high,No,No,No
+14,Young,Master,Divorced,Very high,No,No,No
+15,Old,Graduation,Married,Medium,No,No,No
+16,Middle,PhD,Single,Very high,Yes,No,Yes
+17,Old,Graduation,Married,High,No,No,No
+18,Old,Graduation,Together,High,No,No,No
+19,Young,Master,Married,Very high,Yes,No,No
+20,Middle,2n Cycle,Single,High,No,No,No
+21,Middle,Graduation,Married,High,No,No,No
+22,Old,Graduation,Married,Low,No,No,No
+23,Old,PhD,Married,Very high,No,No,No
+24,Old,PhD,Married,Very high,No,No,No
+25,Middle,Graduation,Together,High,No,No,No
+26,Middle,Graduation,Single,Medium,No,No,No
+27,Young,Graduation,Married,Very high,No,No,No
+28,Young,Graduation,Single,Low,No,No,No
+29,Old,Graduation,Married,High,No,No,No
+30,Young,PhD,Married,Very high,No,No,No
+31,Old,Master,Divorced,Medium,No,No,No
+32,Middle,Master,Together,High,No,No,No
+33,Old,Graduation,Together,High,No,No,No
+34,Old,PhD,Divorced,High,No,No,Yes
+35,Old,Master,Married,Very high,No,No,No
+36,Middle,Master,Single,High,No,No,No
+37,Middle,PhD,Married,Very high,No,No,No
+38,Middle,2n Cycle,Married,Medium,No,No,No
+39,Old,Graduation,Widow,High,No,No,No
+40,Middle,PhD,Divorced,High,No,No,Yes
+41,Young,Graduation,Married,Very high,No,No,No
+42,Old,Master,Married,Medium,No,No,No
+43,Old,Graduation,Together,Medium,No,No,No
+44,Middle,PhD,Single,Low,No,No,No
+45,Middle,Master,Married,Medium,No,No,No
+46,Young,Graduation,Single,Very high,No,No,No
+47,Middle,2n Cycle,Married,Medium,No,No,Yes
+48,Old,Graduation,Together,High,No,No,No
+49,Old,Graduation,Single,Low,No,No,No
+50,Old,PhD,Married,Very high,No,No,No
+51,Old,Graduation,Widow,Very high,No,No,No
+52,Middle,Master,Married,Very high,No,No,No
+53,Middle,Graduation,Single,High,No,No,No
+54,Middle,Graduation,Divorced,Very high,Yes,No,Yes
+55,Old,Graduation,Married,Very high,No,No,No
+56,Middle,Master,Together,Very high,No,No,Yes
+57,Young,Graduation,Divorced,Very high,No,No,Yes
+58,Middle,Graduation,Single,High,No,No,No
+59,Middle,Graduation,Single,Low,No,No,No
+60,Middle,PhD,Married,Very high,No,No,No
+61,Middle,Master,Single,Very high,No,No,Yes
+62,Old,Graduation,Together,Very high,No,No,No
+63,Old,Graduation,Single,Very high,No,No,No
+64,Old,PhD,Widow,Very high,No,No,No
+65,Middle,Graduation,Together,Very high,No,No,No
+66,Middle,Graduation,Married,High,No,No,Yes
+67,Middle,Graduation,Together,High,No,No,No
+68,Old,2n Cycle,Single,Very high,Yes,No,Yes
+69,Middle,Graduation,Together,Very high,No,No,No
+70,Old,Graduation,Together,Very high,No,No,No
+71,Middle,Master,Married,Very high,No,No,No
+72,Old,2n Cycle,Married,Low,No,No,No
+73,Middle,Graduation,Married,Very high,No,No,No
+74,Old,PhD,Married,Very high,No,No,No
+75,Middle,Graduation,Married,High,No,No,No
+76,Middle,Graduation,Divorced,High,No,No,No
+77,Middle,Master,Married,Very high,No,No,Yes
+78,Middle,Graduation,Single,Very high,No,No,Yes
+79,Old,2n Cycle,Together,High,No,Yes,No
+80,Young,Graduation,Together,Very high,No,No,Yes
+81,Middle,Graduation,Single,High,No,No,No
+82,Middle,Graduation,Married,High,No,No,No
+83,Old,2n Cycle,Married,Medium,No,No,No
+84,Young,Master,Together,High,No,No,No
+85,Old,Graduation,Divorced,Very high,No,No,No
+86,Middle,Graduation,Married,High,No,No,No
+87,Old,Master,Married,High,No,No,No
+88,Middle,Graduation,Single,Very high,Yes,No,Yes
+89,Middle,Graduation,Married,Very high,No,No,No
+90,Old,Graduation,Together,Very high,No,No,No
+91,Old,PhD,Married,Low,No,No,No
+92,Middle,Graduation,Single,Low,No,No,No
+93,Middle,Master,Together,Low,No,No,No
+94,Middle,Master,Single,High,No,No,No
+95,Middle,PhD,Married,Medium,No,No,No
+96,Old,Graduation,Married,High,No,No,No
+97,Middle,Graduation,Widow,High,No,No,No
+98,Old,Graduation,Divorced,Very high,No,No,No
+99,Middle,2n Cycle,Married,Very high,Yes,No,No
+100,Old,PhD,Married,Very high,No,No,No
+101,Old,2n Cycle,Single,High,No,No,No
+102,Middle,PhD,Single,High,No,No,No
+103,Old,Graduation,Together,Very high,No,No,No
+104,Old,PhD,Married,Very high,No,No,No
+105,Middle,Graduation,Married,Very high,No,No,Yes
+106,Old,Basic,Together,Medium,No,No,No
+107,Middle,Graduation,Married,High,No,No,No
+108,Middle,Graduation,Married,Very high,No,No,No
+109,Old,Graduation,Single,High,No,No,No
+110,Middle,Master,Married,Very high,No,No,No
+111,Young,Graduation,Together,Very high,No,No,No
+112,Old,PhD,Single,Very high,No,No,Yes
+113,Young,Master,Together,Very high,No,No,No
+114,Middle,Graduation,Single,Very high,No,No,Yes
+115,Old,PhD,Married,High,No,No,No
+116,Middle,Graduation,Single,Very high,No,No,No
+117,Middle,Graduation,Married,Very high,Yes,No,No
+118,Middle,2n Cycle,Married,High,No,No,No
+119,Middle,2n Cycle,Together,High,No,No,No
+120,Old,Graduation,Together,Medium,No,No,No
+121,Middle,Master,Together,Very high,No,No,No
+122,Young,Master,Single,High,No,No,Yes
+123,Middle,Master,Married,Medium,No,No,No
+124,Middle,Graduation,Divorced,High,No,No,No
+125,Old,Graduation,Single,Very high,Yes,No,Yes
+126,Middle,2n Cycle,Together,Very high,No,No,No
+127,Old,Graduation,Single,Very high,No,No,Yes
+128,Old,Master,Married,Very high,No,No,No
+129,Old,PhD,Married,Low,No,No,No
+130,Old,PhD,Together,Very high,No,No,No
+131,Old,Graduation,Married,Very high,No,No,No
+132,Middle,Master,Alone,Very high,No,No,No
+133,Old,Graduation,Married,Very high,No,No,No
+134,Old,Graduation,Married,Low,No,No,No
+135,Middle,PhD,Married,High,No,No,No
+136,Middle,PhD,Together,Very high,No,No,No
+137,Old,Basic,Divorced,Medium,No,No,No
+138,Middle,PhD,Married,High,No,No,No
+139,Old,PhD,Alone,High,No,No,Yes
+140,Young,PhD,Divorced,High,No,No,No
+141,Middle,Master,Single,Very high,No,No,No
+142,Old,Master,Together,Very high,No,No,Yes
+143,Middle,Graduation,Married,Very high,No,No,No
+144,Young,PhD,Single,Very high,No,No,No
+145,Middle,Graduation,Together,High,No,No,No
+146,Middle,Graduation,Married,Very high,No,No,No
+147,Middle,Graduation,Married,Medium,No,No,Yes
+148,Middle,Graduation,Together,High,No,Yes,No
+149,Middle,2n Cycle,Married,High,No,No,No
+150,Old,Master,Married,High,No,No,No
+151,Middle,Master,Married,Very high,No,No,No
+152,Middle,Graduation,Married,Very high,No,No,No
+153,Young,2n Cycle,Together,High,No,No,No
+154,Old,Graduation,Alone,High,No,No,No
+155,Old,PhD,Together,Very high,No,No,No
+156,Old,Graduation,Together,Very high,No,No,Yes
+157,Middle,Graduation,Single,High,No,No,No
+158,Middle,Graduation,Single,Very high,No,No,No
+159,Old,Graduation,Together,Very high,No,No,No
+160,Old,Graduation,Single,Very high,No,No,No
+161,Old,Master,Single,High,No,No,No
+162,Middle,PhD,Married,Very high,No,No,No
+163,Middle,Graduation,Married,Medium,No,No,No
+164,Middle,PhD,Divorced,Very high,No,No,No
+165,Middle,PhD,Married,Very high,No,No,No
+166,Old,Graduation,Together,High,No,No,No
+167,Old,Graduation,Divorced,Very high,No,No,No
+168,Young,Graduation,Divorced,Very high,No,No,No
+169,Old,Graduation,Single,Very high,No,No,No
+170,Old,Graduation,Together,High,No,No,No
+171,Middle,Graduation,Together,High,No,No,No
+172,Middle,Graduation,Married,High,No,No,No
+173,Old,Graduation,Married,Very high,No,No,No
+174,Middle,PhD,Together,Very high,No,No,No
+175,Middle,Graduation,Single,Very high,No,No,No
+176,Old,PhD,Married,Very high,No,No,No
+177,Middle,PhD,Married,Very high,Yes,No,Yes
+178,Old,PhD,Married,High,No,No,No
+179,Old,Graduation,Together,High,No,No,No
+180,Middle,2n Cycle,Married,Very high,Yes,No,No
+181,Young,PhD,Married,Very high,No,No,No
+182,Old,2n Cycle,Married,Medium,No,No,No
+183,Middle,Master,Married,Very high,No,No,No
+184,Old,Master,Married,High,No,No,No
+185,Middle,Basic,Married,High,No,No,No
+186,Middle,Graduation,Married,High,No,No,No
+187,Middle,PhD,Single,High,No,No,No
+188,Middle,Graduation,Married,Very high,No,No,No
+189,Old,Graduation,Married,Very high,No,No,No
+190,Middle,PhD,Married,High,No,No,No
+191,Young,Basic,Together,Medium,No,No,No
+192,Old,PhD,Together,Very high,No,No,No
+193,Young,2n Cycle,Divorced,High,No,Yes,No
+194,Middle,Graduation,Married,High,No,No,No
+195,Middle,Graduation,Married,Very high,No,No,No
+196,Middle,Graduation,Married,High,No,No,No
+197,Old,Master,Married,Very high,No,No,No
+198,Old,Graduation,Married,Very high,No,No,No
+199,Middle,Graduation,Married,Very high,No,No,No
+200,Old,PhD,Single,High,No,No,Yes
+201,Middle,Graduation,Divorced,Very high,No,No,No
+202,Middle,Graduation,Single,Very high,No,No,No
+203,Middle,Graduation,Divorced,Very high,No,No,No
+204,Old,PhD,Together,Very high,Yes,No,Yes
+205,Middle,PhD,Single,High,No,No,No
+206,Young,Master,Single,Medium,No,No,Yes
+207,Old,Graduation,Together,High,No,No,No
+208,Middle,Master,Divorced,High,No,No,No
+209,Old,Graduation,Married,High,No,No,No
+210,Old,Graduation,Divorced,Very high,No,No,Yes
+211,Old,Graduation,Together,High,No,No,No
+212,Middle,Graduation,Together,Very high,No,No,No
+213,Middle,PhD,Married,High,No,No,No
+214,Young,Master,Together,High,No,No,No
+215,Middle,Graduation,Married,Very high,No,No,No
+216,Middle,Graduation,Married,High,No,No,No
+217,Old,2n Cycle,Single,Very high,No,No,No
+218,Old,Master,Married,Very high,No,No,No
+219,Middle,Master,Widow,High,No,No,No
+220,Young,Graduation,Together,Very high,No,No,No
+221,Middle,2n Cycle,Together,High,No,No,No
+222,Middle,Graduation,Married,Very high,No,No,No
+223,Middle,PhD,Together,Very high,No,No,No
+224,Old,PhD,Married,High,No,No,No
+225,Middle,Graduation,Divorced,Very high,No,No,No
+226,Middle,Graduation,Together,High,No,No,No
+227,Old,Graduation,Together,Very high,No,No,No
+228,Middle,Graduation,Divorced,Very high,No,No,No
+229,Young,PhD,Married,Very high,No,No,No
+230,Middle,PhD,Together,High,No,No,No
+231,Old,Graduation,Single,High,No,No,Yes
+232,Middle,2n Cycle,Divorced,Very high,No,No,No
+233,Old,Graduation,Together,High,No,No,No
+234,Old,Graduation,Single,Medium,No,No,No
+235,Middle,PhD,Married,Very high,No,No,No
+236,Middle,2n Cycle,Married,Medium,No,No,No
+237,Old,Master,Together,Medium,No,No,No
+238,Middle,PhD,Single,Very high,No,No,No
+239,Old,Graduation,Single,Medium,No,No,No
+240,Middle,2n Cycle,Single,Very high,No,No,No
+241,Old,Graduation,Widow,Very high,No,No,No
+242,Middle,Graduation,Together,Very high,No,No,No
+243,Young,Graduation,Single,Medium,No,No,No
+244,Old,Graduation,Married,Very high,Yes,No,Yes
+245,Old,Graduation,Married,Very high,No,No,No
+246,Middle,PhD,Married,High,No,No,No
+247,Old,Graduation,Married,Very high,Yes,No,Yes
+248,Young,Graduation,Married,Very high,No,No,No
+249,Middle,PhD,Married,Very high,No,No,No
+250,Middle,Master,Together,Very high,No,No,No
+251,Young,Master,Single,High,No,No,No
+252,Middle,Graduation,Single,High,No,No,No
+253,Old,Graduation,Divorced,Very high,Yes,No,Yes
+254,Middle,2n Cycle,Together,High,No,No,No
+255,Middle,Graduation,Together,Very high,No,No,No
+256,Old,PhD,Single,High,No,No,No
+257,Old,PhD,Together,Very high,No,No,No
+258,Old,Graduation,Single,High,No,No,No
+259,Old,Graduation,Single,Medium,No,No,No
+260,Middle,PhD,Single,High,No,No,No
+261,Middle,Graduation,Divorced,Medium,No,No,Yes
+262,Middle,PhD,Divorced,Very high,No,No,No
+263,Middle,Master,Married,High,No,No,No
+264,Old,PhD,Married,High,No,No,No
+265,Middle,Master,Together,High,No,No,Yes
+266,Old,Master,Married,High,No,No,No
+267,Middle,Graduation,Married,Very high,No,No,No
+268,Middle,PhD,Married,High,No,No,Yes
+269,Middle,Graduation,Married,Very high,No,No,No
+270,Old,Graduation,Together,Medium,No,No,No
+271,Middle,Graduation,Single,Very high,No,No,Yes
+272,Middle,Master,Single,High,No,Yes,No
+273,Old,PhD,Together,Very high,No,No,No
+274,Old,Graduation,Married,High,No,No,No
+275,Old,Graduation,Divorced,High,No,No,No
+276,Old,PhD,Together,Very high,No,No,No
+277,Middle,Graduation,Single,Very high,No,No,Yes
+278,Young,Master,Together,Very high,No,No,No
+279,Middle,PhD,Single,Very high,Yes,No,Yes
+280,Middle,Master,Divorced,Very high,No,No,No
+281,Middle,Basic,Married,Medium,No,No,No
+282,Old,Graduation,Together,Very high,No,No,No
+283,Middle,Graduation,Together,High,No,No,No
+284,Middle,PhD,Together,Very high,No,No,No
+285,Middle,Master,Married,High,No,No,No
+286,Old,Graduation,Married,High,No,No,No
+287,Old,Graduation,Together,Very high,No,No,No
+288,Middle,Master,Together,Very high,No,No,No
+289,Old,Graduation,Widow,Very high,No,No,No
+290,Middle,Master,Divorced,High,No,No,No
+291,Middle,2n Cycle,Together,High,No,No,No
+292,Middle,Graduation,Together,High,No,No,No
+293,Middle,Graduation,Married,Very high,No,No,No
+294,Old,Graduation,Together,Medium,No,No,No
+295,Old,Graduation,Together,High,No,No,No
+296,Young,Master,Together,Very high,No,No,No
+297,Young,2n Cycle,Divorced,High,No,No,No
+298,Middle,Master,Together,High,No,No,No
+299,Old,Graduation,Single,Very high,No,No,No
+300,Old,PhD,Divorced,Very high,No,No,No
+301,Old,Graduation,Divorced,High,No,No,No
+302,Middle,2n Cycle,Together,Very high,No,No,No
+303,Young,PhD,Married,High,No,No,No
+304,Middle,Graduation,Single,High,No,No,No
+305,Old,Graduation,Together,Medium,No,No,No
+306,Middle,Master,Married,Very high,Yes,No,No
+307,Old,Graduation,Widow,High,No,No,Yes
+308,Old,Graduation,Single,Very high,No,No,No
+309,Young,Master,Married,Very high,No,No,No
+310,Middle,Master,Together,High,No,No,No
+311,Middle,Graduation,Divorced,Medium,No,No,No
+312,Young,Graduation,Married,Medium,No,No,No
+313,Middle,Graduation,Married,Low,Yes,No,No
+314,Middle,Master,Single,Very high,No,No,No
+315,Old,Graduation,Married,Very high,No,No,No
+316,Middle,Master,Together,High,No,No,No
+317,Young,Graduation,Married,High,No,No,No
+318,Old,Graduation,Single,Very high,No,No,No
+319,Middle,Graduation,Married,High,No,No,No
+320,Middle,Graduation,Single,Low,Yes,No,No
+321,Middle,Graduation,Married,Very high,No,No,No
+322,Old,Graduation,Married,High,No,No,No
+323,Old,PhD,Divorced,High,No,No,No
+324,Old,PhD,Divorced,Very high,No,No,No
+325,Old,Graduation,Single,High,No,No,No
+326,Middle,Graduation,Married,Very high,No,No,No
+327,Middle,PhD,Divorced,Medium,No,No,No
+328,Old,Graduation,Married,High,No,No,No
+329,Young,PhD,Married,Very high,No,No,No
+330,Middle,PhD,Single,High,No,No,No
+331,Young,Graduation,Single,Medium,No,No,No
+332,Old,PhD,Single,High,No,No,No
+333,Middle,PhD,Married,Very high,No,No,Yes
+334,Middle,Master,Married,High,No,No,Yes
+335,Old,Graduation,Together,Medium,No,No,No
+336,Middle,Graduation,Divorced,Very high,No,No,No
+337,Middle,Graduation,Divorced,Very high,Yes,No,Yes
+338,Old,Graduation,Married,High,No,No,No
+339,Old,Graduation,Together,Very high,No,No,Yes
+340,Young,PhD,Together,Very high,No,No,No
+341,Young,Graduation,Single,Very high,No,No,No
+342,Middle,Graduation,Divorced,High,No,No,No
+343,Old,PhD,Married,Very high,No,No,No
+344,Middle,PhD,Together,Very high,No,No,No
+345,Old,Basic,Together,High,No,No,Yes
+346,Old,Graduation,Divorced,Very high,No,No,No
+347,Middle,Graduation,Married,High,No,No,No
+348,Middle,Graduation,Divorced,Very high,No,No,Yes
+349,Middle,Graduation,Widow,High,No,No,No
+350,Old,Master,Married,High,No,No,No
+351,Young,Graduation,Married,Very high,No,No,No
+352,Middle,Graduation,Married,Very high,No,No,No
+353,Middle,PhD,Single,Very high,No,No,Yes
+354,Middle,Graduation,Married,Very high,No,No,No
+355,Middle,PhD,Single,Very high,No,No,No
+356,Old,Graduation,Single,High,No,Yes,No
+357,Middle,Graduation,Married,Very high,No,No,No
+358,Old,PhD,Married,Very high,No,No,No
+359,Old,Master,Married,Very high,No,Yes,No
+360,Old,PhD,Together,High,No,No,No
+361,Middle,Graduation,Married,Very high,No,No,No
+362,Middle,PhD,Widow,Very high,No,No,No
+363,Middle,Graduation,Married,High,No,No,No
+364,Middle,PhD,Married,High,No,No,No
+365,Middle,Graduation,Married,Very high,No,No,No
+366,Old,Graduation,Single,Very high,No,No,No
+367,Middle,Graduation,Married,Very high,No,No,No
+368,Old,Graduation,Divorced,High,No,No,No
+369,Middle,Graduation,Together,Very high,No,No,No
+370,Middle,PhD,Single,Very high,No,No,No
+371,Middle,2n Cycle,Married,High,No,No,No
+372,Middle,Graduation,Married,High,No,No,No
+373,Middle,Master,Single,High,No,No,No
+374,Middle,Graduation,Single,Very high,No,No,No
+375,Middle,PhD,Single,High,No,No,Yes
+376,Middle,Master,Single,High,No,No,No
+377,Young,Graduation,Single,Medium,No,No,Yes
+378,Old,Graduation,Single,High,No,No,No
+379,Middle,PhD,Together,Very high,No,No,No
+380,Middle,Graduation,Single,High,No,No,No
+381,Young,PhD,Married,High,No,No,No
+382,Old,Graduation,Married,Medium,No,No,No
+383,Middle,Graduation,Widow,High,No,No,No
+384,Middle,2n Cycle,Married,High,No,No,No
+385,Middle,Master,Single,High,No,No,No
+386,Middle,Graduation,Single,Medium,No,No,No
+387,Old,Master,Together,High,No,No,Yes
+388,Old,Graduation,Together,Very high,No,No,No
+389,Middle,Graduation,Together,High,No,No,No
+390,Middle,PhD,Divorced,Very high,No,No,No
+391,Middle,Graduation,Together,Very high,No,No,No
+392,Young,Master,Together,Very high,No,No,No
+393,Old,Graduation,Single,Very high,No,No,No
+394,Middle,PhD,Married,Very high,No,No,No
+395,Young,Master,Married,Very high,No,No,No
+396,Middle,PhD,Together,Very high,No,No,No
+397,Middle,Graduation,Married,High,No,No,No
+398,Young,Graduation,Together,Medium,No,No,Yes
+399,Middle,Graduation,Single,Medium,No,No,No
+400,Old,2n Cycle,Together,Medium,No,No,Yes
+401,Old,2n Cycle,Divorced,High,No,No,No
+402,Middle,Graduation,Together,Very high,No,No,No
+403,Old,Graduation,Single,High,No,No,No
+404,Old,Graduation,Together,High,No,No,No
+405,Old,PhD,Single,Very high,No,No,Yes
+406,Middle,Graduation,Married,High,No,No,No
+407,Middle,PhD,Single,High,No,No,Yes
+408,Middle,PhD,Divorced,Very high,No,No,No
+409,Old,PhD,Together,High,No,No,No
+410,Middle,Graduation,Married,Very high,No,No,No
+411,Middle,2n Cycle,Single,Medium,No,No,Yes
+412,Old,Graduation,Married,Very high,No,No,No
+413,Young,PhD,Married,Very high,Yes,No,No
+414,Old,Graduation,Single,High,No,No,No
+415,Old,Graduation,Together,Very high,No,No,No
+416,Middle,PhD,Married,Very high,No,No,No
+417,Young,2n Cycle,Together,Medium,No,No,No
+418,Middle,Graduation,Together,Very high,Yes,No,No
+419,Middle,Graduation,Single,Very high,Yes,No,Yes
+420,Middle,Master,Married,High,No,No,No
+421,Middle,PhD,Married,High,No,No,No
+422,Middle,Graduation,Married,High,No,No,No
+423,Middle,Master,Together,Medium,No,No,No
+424,Old,Master,Married,Very high,No,No,Yes
+425,Old,PhD,Married,Very high,No,No,No
+426,Young,Graduation,Married,High,No,No,No
+427,Young,Graduation,Married,Very high,Yes,No,No
+428,Young,Graduation,Married,Very high,Yes,No,No
+429,Middle,2n Cycle,Together,Medium,No,No,No
+430,Old,Graduation,Married,Very high,No,No,No
+431,Young,PhD,Single,Very high,Yes,No,Yes
+432,Middle,Graduation,Married,High,No,No,No
+433,Old,2n Cycle,Together,Very high,No,No,No
+434,Middle,Graduation,Married,Very high,No,No,No
+435,Old,Graduation,Single,High,No,No,No
+436,Middle,Master,Together,Very high,No,No,No
+437,Old,Graduation,Divorced,Very high,No,No,No
+438,Middle,Master,Widow,Very high,No,No,No
+439,Young,PhD,Married,High,No,No,No
+440,Young,2n Cycle,Married,Medium,No,No,No
+441,Old,Graduation,Married,High,No,No,No
+442,Old,PhD,Married,Very high,No,No,No
+443,Young,Graduation,Married,Medium,No,No,No
+444,Middle,Graduation,Single,High,No,No,No
+445,Old,2n Cycle,Married,Medium,No,No,No
+446,Middle,Graduation,Divorced,Medium,No,No,No
+447,Old,Master,Divorced,High,No,No,No
+448,Middle,Graduation,Single,Very high,Yes,No,No
+449,Old,Graduation,Married,Medium,No,No,No
+450,Old,PhD,Married,Very high,No,No,No
+451,Middle,Graduation,Single,Very high,No,No,No
+452,Middle,Graduation,Married,Very high,No,No,No
+453,Middle,Master,Single,High,No,No,No
+454,Middle,2n Cycle,Married,Very high,No,No,No
+455,Middle,Graduation,Married,Very high,No,No,No
+456,Middle,Graduation,Married,High,No,No,No
+457,Middle,2n Cycle,Single,Very high,Yes,No,Yes
+458,Old,Master,Married,High,No,No,Yes
+459,Middle,Graduation,Married,Very high,No,No,No
+460,Old,2n Cycle,Together,Very high,No,No,No
+461,Old,Graduation,Married,Very high,Yes,No,Yes
+462,Old,Graduation,Widow,Very high,No,No,No
+463,Old,PhD,Widow,Very high,No,No,No
+464,Middle,Graduation,Married,Very high,No,No,No
+465,Middle,Graduation,Married,High,No,No,No
+466,Old,PhD,Single,Very high,No,No,No
+467,Middle,PhD,Together,Very high,No,No,Yes
+468,Old,Graduation,Widow,High,No,No,No
+469,Middle,Graduation,Married,Very high,No,No,No
+470,Middle,PhD,Together,High,No,No,No
+471,Middle,Graduation,Married,Very high,No,No,No
+472,Middle,Graduation,Married,High,No,No,Yes
+473,Middle,PhD,Together,Very high,No,No,Yes
+474,Young,Graduation,Married,High,No,No,No
+475,Old,Graduation,Single,Medium,No,No,No
+476,Middle,Graduation,Married,Very high,No,No,No
+477,Middle,PhD,Single,High,No,No,No
+478,Middle,Master,Married,Very high,No,No,No
+479,Middle,PhD,Married,Very high,No,No,No
+480,Middle,Graduation,Married,High,No,No,No
+481,Middle,Master,Married,High,No,No,No
+482,Middle,Master,Divorced,High,No,No,No
+483,Middle,Graduation,Single,High,No,No,Yes
+484,Old,Graduation,Married,High,No,No,No
+485,Old,Master,Together,Very high,No,No,No
+486,Middle,PhD,Divorced,Very high,No,No,Yes
+487,Middle,Master,Together,Very high,No,No,No
+488,Middle,Graduation,Married,Very high,No,No,No
+489,Old,Graduation,Married,Medium,No,No,No
+490,Old,2n Cycle,Widow,High,No,No,No
+491,Middle,PhD,Together,Very high,No,No,No
+492,Old,Graduation,Divorced,High,No,No,No
+493,Old,Graduation,Together,Very high,Yes,No,No
+494,Old,Master,Single,Very high,No,No,No
+495,Old,PhD,Divorced,Very high,No,No,No
+496,Middle,Master,Divorced,Very high,No,No,No
+497,Middle,Graduation,Divorced,Very high,No,No,No
+498,Old,PhD,Together,Very high,No,No,No
+499,Old,PhD,Together,Very high,No,No,No
+500,Old,Graduation,Married,Very high,No,No,No
+501,Old,Graduation,Together,High,No,No,No
+502,Young,Master,Together,High,No,No,No
+503,Young,Basic,Married,Medium,No,No,No
+504,Old,PhD,Married,Very high,No,No,No
+505,Old,Master,Together,Very high,No,No,No
+506,Middle,Graduation,Widow,Very high,No,No,No
+507,Young,Graduation,Married,Very high,No,No,No
+508,Young,Graduation,Single,Very high,No,No,No
+509,Old,Graduation,Married,High,No,No,No
+510,Middle,Graduation,Divorced,Very high,No,No,No
+511,Middle,PhD,Together,High,No,No,No
+512,Old,Graduation,Single,Very high,No,No,No
+513,Old,Graduation,Married,High,No,No,No
+514,Old,Master,Together,Very high,No,No,No
+515,Middle,PhD,Together,High,No,No,No
+516,Old,Master,Single,Very high,No,No,No
+517,Young,Graduation,Married,High,No,No,No
+518,Old,Graduation,Single,High,No,No,No
+519,Old,Graduation,Together,Very high,No,No,No
+520,Old,Master,Married,Very high,Yes,No,No
+521,Young,Graduation,Divorced,High,No,No,No
+522,Young,Master,Single,Very high,No,No,No
+523,Old,Graduation,Married,High,No,No,No
+524,Young,Graduation,Married,Very high,No,No,No
+525,Young,Graduation,Married,High,No,No,Yes
+526,Old,Graduation,Married,High,No,No,No
+527,Middle,PhD,Together,Very high,No,No,No
+528,Old,Master,Married,Very high,No,No,No
+529,Old,Graduation,Single,Very high,No,No,No
+530,Middle,PhD,Married,High,No,No,No
+531,Middle,2n Cycle,Widow,High,No,No,No
+532,Middle,Graduation,Single,Very high,No,No,No
+533,Old,Master,Together,Very high,No,No,No
+534,Middle,Graduation,Married,Very high,No,No,No
+535,Old,Graduation,Single,High,No,No,No
+536,Middle,Master,Together,High,No,No,No
+537,Middle,Graduation,Together,High,No,No,No
+538,Old,Graduation,Divorced,Very high,No,No,Yes
+539,Middle,2n Cycle,Together,Very high,No,No,No
+540,Middle,Master,Single,Medium,No,No,No
+541,Middle,2n Cycle,Together,High,No,No,No
+542,Middle,Graduation,Widow,High,No,No,No
+543,Middle,PhD,Single,High,No,No,No
+544,Middle,PhD,Married,Very high,No,No,Yes
+545,Young,Graduation,Together,Very high,No,No,No
+546,Old,2n Cycle,Married,Medium,No,No,No
+547,Middle,Graduation,Widow,Very high,No,No,Yes
+548,Middle,Graduation,Married,High,No,No,No
+549,Middle,Graduation,Married,Medium,No,No,Yes
+550,Old,Master,Married,High,No,No,No
+551,Young,2n Cycle,Single,High,No,No,No
+552,Middle,Graduation,Single,Medium,No,No,Yes
+553,Old,PhD,Single,Very high,No,No,No
+554,Old,Graduation,Married,Medium,No,No,No
+555,Old,Master,Married,Very high,No,No,Yes
+556,Middle,Graduation,Together,High,No,No,No
+557,Middle,PhD,Single,Very high,No,No,No
+558,Middle,Graduation,Married,Very high,No,No,No
+559,Old,2n Cycle,Married,Medium,No,No,No
+560,Middle,Graduation,Together,Very high,Yes,No,Yes
+561,Middle,Graduation,Married,High,No,No,No
+562,Middle,Graduation,Single,Very high,No,No,No
+563,Middle,Master,Together,Very high,No,No,No
+564,Old,2n Cycle,Married,Very high,No,No,No
+565,Old,PhD,Divorced,High,No,No,No
+566,Old,PhD,Together,Very high,No,No,No
+567,Old,Graduation,Single,Very high,No,No,No
+568,Middle,Master,Together,High,No,No,No
+569,Middle,Graduation,Single,High,No,No,No
+570,Middle,Graduation,Together,High,No,No,No
+571,Middle,Graduation,Married,High,No,No,No
+572,Middle,PhD,Married,High,No,No,No
+573,Middle,2n Cycle,Single,High,No,No,No
+574,Middle,PhD,Together,Very high,No,No,No
+575,Middle,Master,Married,High,No,No,No
+576,Middle,PhD,Married,Very high,Yes,No,Yes
+577,Middle,Graduation,Married,Very high,No,No,No
+578,Middle,Graduation,Married,Medium,No,No,No
+579,Old,PhD,Together,High,No,No,No
+580,Middle,Master,Together,Very high,No,No,No
+581,Old,PhD,Married,High,No,No,No
+582,Middle,Graduation,Together,High,No,No,No
+583,Old,2n Cycle,Together,High,No,No,No
+584,Middle,Master,Married,High,No,No,No
+585,Middle,Graduation,Together,High,No,No,No
+586,Old,2n Cycle,Together,High,No,No,No
+587,Old,Graduation,Widow,Very high,Yes,No,Yes
+588,Old,Master,Married,Very high,No,No,No
+589,Old,Graduation,Together,Very high,No,No,No
+590,Middle,Graduation,Together,Medium,No,No,No
+591,Middle,PhD,Single,High,No,Yes,Yes
+592,Old,Master,Married,Very high,Yes,No,Yes
+593,Middle,Master,Single,Very high,No,No,No
+594,Middle,Graduation,Together,High,No,No,No
+595,Middle,PhD,Married,Very high,No,No,No
+596,Middle,Master,Together,Medium,No,No,Yes
+597,Middle,Graduation,Divorced,Medium,No,No,No
+598,Middle,Master,Married,High,No,No,No
+599,Middle,2n Cycle,Married,High,No,No,No
+600,Old,Graduation,Together,High,No,No,No
+601,Old,Graduation,Single,High,No,No,No
+602,Old,Graduation,Together,Very high,No,No,No
+603,Old,Graduation,Single,Very high,No,No,No
+604,Middle,PhD,Married,Very high,No,No,No
+605,Young,Master,Together,High,No,No,No
+606,Middle,Master,Single,Medium,No,No,Yes
+607,Old,Graduation,Widow,High,No,No,No
+608,Middle,Graduation,Divorced,High,No,No,No
+609,Old,Basic,Married,High,No,No,No
+610,Middle,Graduation,Married,Very high,Yes,No,No
+611,Old,Master,Single,High,No,No,No
+612,Middle,Master,Widow,High,No,No,No
+613,Middle,Basic,Married,Medium,No,No,No
+614,Middle,Graduation,Married,Medium,No,No,No
+615,Middle,PhD,Single,High,No,No,Yes
+616,Old,Graduation,Married,High,No,No,No
+617,Middle,Master,Single,High,No,No,No
+618,Middle,PhD,Together,Very high,No,No,No
+619,Old,Graduation,Widow,Very high,No,No,No
+620,Old,Master,Married,High,No,No,No
+621,Middle,PhD,Married,Very high,No,No,No
+622,Old,Graduation,Single,High,No,No,No
+623,Middle,Graduation,Widow,Very high,No,No,No
+624,Old,2n Cycle,Single,High,No,No,No
+625,Middle,2n Cycle,Married,Very high,Yes,No,No
+626,Middle,Graduation,Married,Medium,No,No,No
+627,Old,Graduation,Single,Very high,No,No,No
+628,Middle,Graduation,Together,Very high,No,No,Yes
+629,Middle,PhD,Divorced,High,No,No,No
+630,Middle,Graduation,Single,High,No,No,No
+631,Old,PhD,Married,Very high,No,No,No
+632,Middle,PhD,Together,Very high,No,No,No
+633,Old,2n Cycle,Married,Very high,No,No,No
+634,Middle,2n Cycle,Single,High,No,No,Yes
+635,Old,Graduation,Single,Very high,No,No,Yes
+636,Old,Graduation,Divorced,High,No,No,No
+637,Old,Graduation,Single,Very high,No,No,No
+638,Old,Graduation,Married,Very high,No,No,No
+639,Middle,Master,Divorced,Very high,No,No,Yes
+640,Old,Graduation,Married,Very high,No,No,No
+641,Old,Graduation,Together,Very high,No,No,No
+642,Old,PhD,Together,Very high,No,No,No
+643,Old,PhD,Divorced,Very high,No,No,No
+644,Old,Graduation,Single,High,No,No,No
+645,Middle,Master,Together,Very high,No,No,Yes
+646,Middle,PhD,Married,High,No,No,No
+647,Middle,Graduation,Together,Very high,Yes,No,Yes
+648,Middle,Master,Divorced,Very high,No,No,No
+649,Old,Master,Married,Very high,No,No,No
+650,Old,Graduation,Together,Very high,No,No,No
+651,Young,Master,Single,Very high,No,No,No
+652,Middle,Graduation,Together,High,No,No,No
+653,Old,Graduation,Married,Very high,No,No,No
+654,Old,PhD,Together,Very high,No,No,No
+655,Middle,Graduation,Divorced,High,No,No,No
+656,Old,Graduation,Divorced,Very high,No,No,No
+657,Old,Graduation,Together,Very high,No,No,No
+658,Old,2n Cycle,Together,High,No,No,No
+659,Middle,PhD,Together,Very high,No,No,No
+660,Old,PhD,Single,High,No,No,No
+661,Young,Graduation,Together,Very high,No,No,No
+662,Middle,Graduation,Married,Medium,No,No,No
+663,Middle,Graduation,Widow,Very high,No,No,No
+664,Old,Basic,Married,High,No,No,No
+665,Old,Master,Together,Medium,No,No,No
+666,Middle,Graduation,Married,Medium,No,No,No
+667,Young,PhD,Together,High,No,No,No
+668,Middle,Basic,Single,Medium,No,No,No
+669,Middle,PhD,Married,High,No,No,No
+670,Old,2n Cycle,Married,Very high,No,No,No
+671,Old,PhD,Married,Very high,No,No,No
+672,Middle,Master,Single,Very high,No,No,No
+673,Middle,Graduation,Widow,Very high,No,No,No
+674,Middle,Graduation,Married,Very high,No,No,No
+675,Middle,PhD,Single,Very high,No,No,No
+676,Old,Graduation,Married,High,No,No,No
+677,Middle,PhD,Married,Very high,Yes,No,Yes
+678,Young,Graduation,Single,Very high,No,No,No
+679,Middle,2n Cycle,Married,High,No,No,Yes
+680,Old,PhD,Single,Very high,No,No,No
+681,Middle,Graduation,Divorced,Very high,No,No,No
+682,Middle,Graduation,Divorced,Very high,No,No,No
+683,Old,2n Cycle,Together,High,No,No,No
+684,Middle,Graduation,Together,High,No,No,No
+685,Middle,Graduation,Together,Very high,No,No,No
+686,Middle,PhD,Divorced,Very high,No,No,No
+687,Middle,PhD,Single,Very high,No,No,Yes
+688,Young,PhD,Married,Very high,No,No,No
+689,Middle,PhD,Together,Very high,Yes,No,No
+690,Old,PhD,Together,Very high,No,No,No
+691,Middle,PhD,Divorced,Very high,No,No,Yes
+692,Old,Graduation,Single,Very high,No,No,No
+693,Old,Master,Together,High,No,No,No
+694,Old,Basic,Together,Medium,No,No,No
+695,Old,Master,Widow,High,No,No,Yes
+696,Young,Master,Married,Very high,No,No,No
+697,Old,Graduation,Single,High,No,No,No
+698,Old,PhD,Single,High,No,No,Yes
+699,Old,Graduation,Single,High,No,No,No
+700,Middle,Graduation,Together,Very high,Yes,No,No
+701,Middle,Graduation,Divorced,Very high,No,No,No
+702,Middle,Graduation,Married,Very high,No,No,No
+703,Young,Graduation,Divorced,Very high,No,No,No
+704,Middle,Master,Single,Very high,Yes,No,Yes
+705,Young,Master,Divorced,High,No,No,No
+706,Middle,Graduation,Married,Very high,No,No,No
+707,Old,PhD,Divorced,High,No,No,No
+708,Old,Graduation,Divorced,High,No,No,No
+709,Middle,PhD,Together,Very high,No,No,No
+710,Young,Master,Married,High,No,No,Yes
+711,Old,Graduation,Married,High,No,No,No
+712,Middle,Master,Single,Very high,No,No,No
+713,Old,Graduation,Single,High,No,No,No
+714,Middle,Graduation,Together,Very high,No,No,No
+715,Middle,Graduation,Together,Very high,No,No,No
+716,Old,PhD,Married,Very high,No,No,No
+717,Middle,2n Cycle,Divorced,Very high,No,No,Yes
+718,Middle,Graduation,Together,High,No,No,No
+719,Old,Graduation,Divorced,Very high,No,No,No
+720,Old,Graduation,Single,High,No,No,No
+721,Old,Master,Married,Very high,No,No,No
+722,Middle,Graduation,Married,Very high,No,No,No
+723,Old,PhD,Married,Medium,No,No,No
+724,Middle,Graduation,Married,Very high,No,No,No
+725,Middle,Graduation,Married,Medium,No,No,Yes
+726,Old,Graduation,Married,High,No,No,No
+727,Middle,Graduation,Married,Very high,Yes,No,No
+728,Old,Master,Divorced,Very high,No,No,No
+729,Young,Master,Married,Very high,No,No,No
+730,Old,Graduation,Together,Very high,No,No,No
+731,Old,PhD,Divorced,High,No,No,No
+732,Middle,PhD,Together,Very high,No,No,No
+733,Old,Graduation,Married,Very high,No,No,No
+734,Middle,PhD,Divorced,High,No,No,No
+735,Old,Graduation,Divorced,Very high,Yes,No,No
+736,Middle,Graduation,Married,Very high,Yes,No,Yes
+737,Old,Graduation,Married,Very high,No,No,No
+738,Young,Master,Together,Very high,No,No,No
+739,Middle,Basic,Married,Medium,No,No,No
+740,Old,Graduation,Together,Very high,No,No,No
+741,Old,PhD,Single,Very high,No,No,No
+742,Old,Master,Together,High,No,No,No
+743,Middle,PhD,Single,High,No,No,No
+744,Old,2n Cycle,Together,High,No,No,No
+745,Old,Graduation,Married,Very high,Yes,No,No
+746,Middle,Graduation,Together,Very high,No,No,No
+747,Young,2n Cycle,Married,Medium,No,No,No
+748,Middle,Graduation,Single,Very high,No,No,No
+749,Old,Graduation,Single,High,No,No,No
+750,Middle,2n Cycle,Married,Very high,No,No,Yes
+751,Old,PhD,Together,Very high,No,No,No
+752,Middle,PhD,Together,Very high,No,No,No
+753,Middle,Graduation,Widow,Very high,No,No,No
+754,Middle,Graduation,Married,Very high,Yes,No,Yes
+755,Middle,Graduation,Together,Very high,No,No,No
+756,Middle,2n Cycle,Together,Very high,No,No,No
+757,Old,PhD,Together,Very high,No,No,Yes
+758,Middle,Graduation,Married,Very high,No,No,No
+759,Old,Master,Married,High,No,No,No
+760,Middle,PhD,Married,High,No,No,No
+761,Middle,2n Cycle,Married,High,No,No,No
+762,Young,Graduation,Single,Very high,No,No,No
+763,Middle,Master,Married,Very high,No,No,No
+764,Old,PhD,Single,High,No,No,Yes
+765,Old,Graduation,Single,Very high,No,No,No
+766,Middle,Graduation,Married,High,No,No,No
+767,Young,Graduation,Married,Very high,No,No,No
+768,Old,Graduation,Together,Very high,No,No,No
+769,Old,2n Cycle,Married,High,No,No,No
+770,Middle,Master,Married,Very high,No,No,No
+771,Old,Graduation,Married,Very high,No,No,No
+772,Old,PhD,Married,Very high,No,No,No
+773,Middle,Graduation,Single,High,No,No,Yes
+774,Old,Graduation,Married,High,No,No,No
+775,Old,PhD,Together,Medium,No,No,No
+776,Old,Graduation,Together,High,No,No,No
+777,Old,PhD,Single,High,No,No,No
+778,Old,PhD,Together,Very high,No,No,No
+779,Middle,Master,Single,Very high,No,No,No
+780,Middle,Graduation,Single,Very high,No,No,No
+781,Middle,PhD,Single,Very high,No,No,No
+782,Middle,Graduation,Together,High,No,No,No
+783,Middle,Graduation,Single,Medium,No,No,No
+784,Middle,Graduation,Married,High,No,No,No
+785,Young,Graduation,Together,High,No,No,No
+786,Old,Basic,Married,Medium,No,No,No
+787,Middle,Master,Together,Medium,No,No,No
+788,Middle,PhD,Divorced,High,No,No,Yes
+789,Middle,Master,Married,High,No,No,No
+790,Old,Graduation,Divorced,High,No,No,No
+791,Old,Master,Together,Very high,No,No,No
+792,Old,PhD,Married,Very high,Yes,No,Yes
+793,Middle,Graduation,Single,Medium,No,No,No
+794,Old,Graduation,Married,Very high,No,No,No
+795,Old,Graduation,Single,High,No,No,No
+796,Old,Master,Single,High,No,No,No
+797,Old,PhD,Married,Very high,No,No,No
+798,Middle,2n Cycle,Divorced,Very high,No,No,No
+799,Middle,Graduation,Together,Very high,No,No,No
+800,Middle,Graduation,Married,Medium,No,No,No
+801,Old,Master,Married,Very high,No,No,No
+802,Old,Graduation,Widow,High,No,No,No
+803,Old,Graduation,Married,High,No,No,No
+804,Old,PhD,Single,Very high,No,No,No
+805,Middle,Graduation,Married,High,Yes,No,Yes
+806,Middle,Master,Married,High,No,No,No
+807,Old,Master,Married,Very high,No,No,No
+808,Middle,Graduation,Married,Very high,No,No,No
+809,Middle,Graduation,Married,Very high,No,No,No
+810,Middle,Graduation,Single,Very high,No,No,No
+811,Middle,Graduation,Married,High,No,No,No
+812,Middle,Graduation,Single,Medium,No,No,Yes
+813,Old,Graduation,Single,Very high,No,No,No
+814,Young,Master,Married,Very high,No,No,No
+815,Middle,PhD,Together,Very high,No,No,No
+816,Middle,PhD,Together,Very high,No,No,No
+817,Old,Graduation,Married,High,No,No,No
+818,Middle,Graduation,Single,Medium,No,No,No
+819,Middle,Graduation,Married,Very high,No,No,No
+820,Middle,2n Cycle,Married,High,No,No,No
+821,Middle,PhD,Single,Very high,Yes,No,Yes
+822,Old,Graduation,Married,Medium,No,No,No
+823,Old,Graduation,Single,Very high,No,No,Yes
+824,Old,Graduation,Married,Medium,No,No,No
+825,Old,Graduation,Together,Very high,Yes,No,Yes
+826,Old,2n Cycle,Divorced,Very high,No,No,No
+827,Old,Graduation,Married,Very high,No,No,No
+828,Old,Graduation,Divorced,High,No,No,No
+829,Middle,PhD,Widow,Very high,No,No,No
+830,Middle,Graduation,Together,Medium,No,No,No
+831,Young,PhD,Divorced,Very high,No,No,No
+832,Middle,Graduation,Single,High,No,No,No
+833,Middle,PhD,Together,Very high,No,No,No
+834,Middle,2n Cycle,Together,High,No,No,No
+835,Old,Graduation,Married,High,No,No,No
+836,Middle,Graduation,Married,Very high,No,No,No
+837,Middle,Master,Single,High,No,No,No
+838,Middle,Graduation,Divorced,Very high,No,No,No
+839,Middle,2n Cycle,Single,High,No,No,No
+840,Old,Graduation,Single,Very high,No,No,No
+841,Middle,Graduation,Together,High,No,No,No
+842,Young,Graduation,Married,High,No,No,No
+843,Middle,Graduation,Single,High,No,No,No
+844,Old,Graduation,Married,Medium,No,No,No
+845,Middle,2n Cycle,Married,Very high,No,No,No
+846,Young,Graduation,Together,Very high,No,No,Yes
+847,Old,2n Cycle,Single,Very high,No,No,No
+848,Old,Master,Single,Very high,No,No,No
+849,Middle,Graduation,Single,High,No,No,No
+850,Middle,Graduation,Married,Medium,No,No,No
+851,Old,Graduation,Single,High,No,No,No
+852,Old,PhD,Married,Very high,No,No,No
+853,Middle,2n Cycle,Married,Very high,Yes,No,No
+854,Middle,PhD,Together,High,No,No,No
+855,Middle,PhD,Married,High,Yes,No,Yes
+856,Middle,Graduation,Single,Very high,No,No,No
+857,Young,Master,Married,High,No,No,No
+858,Middle,Graduation,Married,Very high,No,No,No
+859,Young,Graduation,Together,High,No,No,No
+860,Middle,2n Cycle,Married,Very high,No,No,No
+861,Middle,Graduation,Together,Medium,No,No,No
+862,Young,Master,Together,High,No,No,No
+863,Young,Graduation,Married,Medium,No,No,No
+864,Middle,2n Cycle,Together,High,No,No,No
+865,Middle,2n Cycle,Single,High,No,No,No
+866,Middle,PhD,Together,Very high,No,No,No
+867,Young,Master,Single,High,No,No,No
+868,Middle,Master,Single,Medium,No,No,No
+869,Middle,Graduation,Together,Very high,No,No,No
+870,Middle,Graduation,Together,High,No,No,No
+871,Old,PhD,Together,Very high,No,No,No
+872,Middle,Graduation,Single,Very high,No,No,No
+873,Middle,Graduation,Together,Medium,No,No,No
+874,Middle,2n Cycle,Single,High,No,No,No
+875,Old,Master,Together,Very high,No,No,No
+876,Middle,Graduation,Together,Very high,Yes,No,No
+877,Middle,Master,Divorced,High,No,No,No
+878,Old,Graduation,Married,High,No,No,No
+879,Middle,Master,Single,Very high,No,No,No
+880,Middle,2n Cycle,Together,Medium,No,No,No
+881,Middle,Graduation,Single,Medium,No,No,Yes
+882,Middle,Graduation,Married,High,No,No,No
+883,Middle,Graduation,Divorced,High,No,No,No
+884,Middle,2n Cycle,Married,Very high,No,No,No
+885,Middle,PhD,Single,Very high,No,No,Yes
+886,Old,PhD,Together,Very high,No,No,No
+887,Old,PhD,Single,High,No,No,No
+888,Old,Graduation,Married,High,No,No,No
+889,Middle,Graduation,Together,Very high,No,No,No
+890,Middle,Master,Single,Very high,No,No,No
+891,Old,Graduation,Married,High,No,No,No
+892,Middle,Master,Widow,Very high,No,No,No
+893,Young,Graduation,Married,Very high,No,No,No
+894,Old,Basic,Single,High,No,No,No
+895,Middle,PhD,Divorced,High,No,No,Yes
+896,Old,PhD,Single,Very high,No,No,No
+897,Old,Graduation,Together,Very high,No,No,Yes
+898,Middle,Graduation,Divorced,Very high,No,No,No
+899,Young,PhD,Married,High,No,No,No
+900,Old,Graduation,Divorced,Medium,No,No,No
+901,Middle,Graduation,Married,Very high,No,No,No
+902,Middle,Graduation,Divorced,Very high,No,No,No
+903,Middle,Graduation,Together,Very high,No,No,No
+904,Middle,Graduation,Together,Very high,No,No,No
+905,Middle,Graduation,Together,Very high,No,No,No
+906,Old,Graduation,Single,Very high,No,No,No
+907,Middle,Graduation,Single,Very high,Yes,No,Yes
+908,Middle,Graduation,Widow,High,No,No,No
+909,Young,Graduation,Together,High,No,No,No
+910,Middle,PhD,Married,High,No,No,No
+911,Young,PhD,Single,Very high,No,No,No
+912,Old,Graduation,Together,Very high,No,No,No
+913,Middle,PhD,Widow,Very high,No,No,Yes
+914,Young,Master,Married,High,No,No,Yes
+915,Old,Graduation,Single,Very high,No,No,Yes
+916,Old,Graduation,Medium,Very high,No,No,No
+917,Middle,Master,Together,Very high,No,No,No
+918,Old,PhD,Married,Very high,No,No,Yes
+919,Old,2n Cycle,Single,High,No,No,No
+920,Old,PhD,Single,Very high,Yes,No,No
+921,Young,PhD,Together,High,No,No,No
+922,Middle,Graduation,Single,Very high,No,No,No
+923,Old,Master,Single,High,No,No,Yes
+924,Young,PhD,Married,High,No,No,No
+925,Middle,Graduation,Together,Very high,Yes,No,No
+926,Middle,Master,Together,Medium,No,No,No
+927,Middle,Graduation,Married,Very high,Yes,No,No
+928,Young,2n Cycle,Single,Very high,No,No,No
+929,Middle,Graduation,Single,Very high,No,No,No
+930,Middle,PhD,Married,Very high,No,No,No
+931,Young,PhD,Together,Very high,No,No,No
+932,Old,Graduation,Single,High,No,No,No
+933,Young,PhD,Single,Very high,No,No,No
+934,Old,Basic,Married,High,No,No,No
+935,Middle,Graduation,Single,Very high,No,No,No
+936,Middle,PhD,Together,High,No,No,No
+937,Middle,Graduation,Together,Very high,No,No,No
+938,Middle,PhD,Married,Very high,Yes,No,No
+939,Middle,Graduation,Single,Very high,No,No,No
+940,Old,PhD,Divorced,Very high,No,No,No
+941,Old,2n Cycle,Single,Very high,No,No,No
+942,Middle,PhD,Together,Very high,No,No,No
+943,Old,Graduation,Divorced,Very high,No,No,Yes
+944,Young,Graduation,Together,Very high,Yes,No,Yes
+945,Young,Basic,Single,Medium,No,No,No
+946,Middle,PhD,Married,Very high,No,No,No
+947,Middle,2n Cycle,Married,Very high,No,No,No
+948,Middle,Graduation,Divorced,Very high,No,No,No
+949,Middle,Graduation,Together,High,No,No,No
+950,Middle,2n Cycle,Divorced,Very high,No,No,No
+951,Middle,PhD,Together,High,No,No,No
+952,Middle,PhD,Together,Very high,No,No,No
+953,Middle,Master,Divorced,High,No,No,Yes
+954,Middle,PhD,Single,High,No,No,No
+955,Middle,Master,Together,High,No,No,No
+956,Old,PhD,Married,Medium,No,No,No
+957,Old,Graduation,Married,Very high,No,No,Yes
+958,Middle,Graduation,Single,Very high,No,No,No
+959,Old,Graduation,Married,Very high,No,No,No
+960,Middle,PhD,Divorced,Very high,No,No,No
+961,Old,Graduation,Divorced,Very high,No,No,No
+962,Middle,PhD,Single,Very high,No,No,No
+963,Middle,Master,Together,High,No,No,Yes
+964,Middle,PhD,Married,High,No,No,No
+965,Old,Graduation,Married,Very high,No,No,No
+966,Middle,Graduation,Together,Very high,No,No,No
+967,Middle,Graduation,Married,Very high,Yes,No,Yes
+968,Middle,Graduation,Married,High,No,No,No
+969,Middle,PhD,Married,High,No,No,Yes
+970,Young,Graduation,Together,High,No,No,No
+971,Middle,Graduation,Married,Very high,No,No,No
+972,Young,PhD,Together,High,No,No,No
+973,Old,2n Cycle,Married,Medium,No,Yes,No
+974,Middle,2n Cycle,Divorced,Very high,No,No,No
+975,Old,Master,Together,Very high,No,No,No
+976,Old,Graduation,Married,Very high,No,No,No
+977,Old,Master,Together,Very high,No,No,No
+978,Old,Master,Married,Very high,No,No,No
+979,Old,Graduation,Married,High,No,No,No
+980,Old,Graduation,Together,Very high,No,No,No
+981,Old,2n Cycle,Widow,High,No,No,No
+982,Middle,Graduation,Divorced,Low,No,No,No
+983,Middle,Master,Divorced,High,No,No,No
+984,Old,Graduation,Divorced,Very high,No,No,No
+985,Middle,Graduation,Married,Very high,Yes,No,Yes
+986,Middle,PhD,Married,Very high,No,No,No
+987,Middle,PhD,Married,Very high,No,No,No
+988,Middle,Graduation,Married,Very high,Yes,No,Yes
+989,Old,2n Cycle,Single,Very high,No,No,No
+990,Old,PhD,Widow,High,No,No,No
+991,Middle,Graduation,Divorced,Very high,Yes,No,Yes
+992,Middle,2n Cycle,Married,Medium,No,No,No
+993,Young,Master,Together,High,No,No,No
+994,Old,Graduation,Single,Very high,No,No,No
+995,Young,Graduation,Divorced,Very high,No,No,No
+996,Middle,Graduation,Single,High,No,No,No
+997,Old,Graduation,Together,Very high,Yes,No,No
+998,Middle,Graduation,Together,High,No,No,No
+999,Old,Graduation,Married,Very high,No,No,No
+1000,Old,Graduation,Divorced,High,No,No,No
+1001,Young,PhD,Widow,Very high,No,No,Yes
+1002,Middle,PhD,Single,Very high,Yes,No,Yes
+1003,Young,2n Cycle,Married,Very high,Yes,No,Yes
+1004,Old,Graduation,Together,Medium,No,No,No
+1005,Old,PhD,Married,High,No,No,No
+1006,Old,Graduation,Single,High,No,No,Yes
+1007,Old,Master,Married,Very high,No,No,No
+1008,Middle,Graduation,Together,Very high,No,No,No
+1009,Old,Graduation,Married,Medium,No,No,No
+1010,Middle,PhD,Single,High,No,No,No
+1011,Middle,Graduation,Together,Very high,Yes,No,No
+1012,Middle,PhD,Together,High,No,No,No
+1013,Middle,Graduation,Single,High,No,No,No
+1014,Middle,Master,Together,High,No,No,No
+1015,Old,Master,Married,High,No,No,No
+1016,Old,Master,Married,Very high,No,No,No
+1017,Middle,2n Cycle,Married,Very high,No,No,No
+1018,Middle,Graduation,Together,Very high,No,No,No
+1019,Middle,Graduation,Married,High,No,No,No
+1020,Middle,Graduation,Single,Medium,No,No,No
+1021,Middle,Graduation,Married,High,No,No,No
+1022,Old,PhD,Together,High,No,No,No
+1023,Middle,PhD,Together,Very high,No,No,Yes
+1024,Middle,Master,Together,High,No,No,No
+1025,Middle,Graduation,Married,Medium,No,No,No
+1026,Middle,PhD,Married,Very high,No,No,No
+1027,Young,Graduation,Single,High,No,No,Yes
+1028,Old,Basic,Single,Medium,No,No,No
+1029,Old,PhD,Divorced,High,No,No,No
+1030,Middle,2n Cycle,Together,Very high,No,No,No
+1031,Middle,Graduation,Together,Very high,No,No,Yes
+1032,Middle,Graduation,Single,Very high,No,No,Yes
+1033,Middle,Graduation,Together,Very high,No,No,No
+1034,Middle,2n Cycle,Married,High,No,No,No
+1035,Middle,Graduation,Married,Very high,No,No,No
+1036,Old,Graduation,Single,High,No,No,No
+1037,Middle,PhD,Together,High,No,No,No
+1038,Middle,Master,Single,High,No,No,No
+1039,Old,PhD,Married,High,No,No,Yes
+1040,Old,Graduation,Married,High,No,No,No
+1041,Old,Graduation,Married,Very high,No,No,No
+1042,Young,Graduation,Married,High,No,Yes,No
+1043,Old,Graduation,Single,Medium,No,No,No
+1044,Young,Graduation,Together,Very high,Yes,No,No
+1045,Old,Graduation,Together,High,No,No,Yes
+1046,Middle,Master,Single,High,No,No,No
+1047,Old,Master,Married,High,No,No,No
+1048,Middle,PhD,Married,Very high,No,No,No
+1049,Middle,Graduation,Together,High,No,No,Yes
+1050,Old,Graduation,Married,High,No,No,No
+1051,Middle,2n Cycle,Married,Very high,No,No,No
+1052,Old,PhD,Together,High,No,No,No
+1053,Middle,PhD,Married,Very high,No,No,No
+1054,Middle,2n Cycle,Divorced,High,No,No,Yes
+1055,Young,Master,Married,High,No,No,No
+1056,Middle,Graduation,Single,Very high,No,No,No
+1057,Old,Graduation,Married,High,No,No,No
+1058,Old,PhD,Married,Very high,No,No,No
+1059,Young,Graduation,Single,Very high,No,No,No
+1060,Old,Graduation,Together,Very high,No,No,No
+1061,Old,Master,Married,Very high,No,No,No
+1062,Young,Graduation,Together,Very high,No,No,No
+1063,Middle,PhD,Single,High,No,No,Yes
+1064,Old,PhD,Divorced,High,No,No,No
+1065,Old,PhD,Married,Very high,No,No,No
+1066,Young,Graduation,Married,Medium,No,No,No
+1067,Old,Graduation,Single,Very high,Yes,No,Yes
+1068,Old,2n Cycle,Divorced,Very high,No,No,No
+1069,Middle,Graduation,Divorced,Medium,No,No,No
+1070,Middle,Graduation,Married,Very high,No,Yes,No
+1071,Middle,PhD,Together,High,No,No,No
+1072,Old,Graduation,Together,Very high,No,No,No
+1073,Old,Graduation,Together,Very high,No,No,No
+1074,Old,Graduation,Married,High,No,No,No
+1075,Old,Graduation,Together,High,No,No,No
+1076,Middle,Graduation,Together,Very high,Yes,No,No
+1077,Middle,PhD,Married,Very high,No,No,No
+1078,Middle,2n Cycle,Together,High,No,No,No
+1079,Middle,Master,Single,Very high,No,No,No
+1080,Old,PhD,Married,High,No,No,No
+1081,Middle,Graduation,Single,Very high,No,No,No
+1082,Old,Graduation,Married,High,No,No,Yes
+1083,Middle,Graduation,Married,Very high,No,No,Yes
+1084,Middle,Graduation,Together,High,No,No,No
+1085,Middle,Master,Single,Very high,Yes,No,Yes
+1086,Middle,Graduation,Married,Very high,No,No,No
+1087,Old,Graduation,Single,Medium,No,No,No
+1088,Middle,PhD,Together,Very high,Yes,No,Yes
+1089,Old,Graduation,Together,High,No,No,No
+1090,Middle,PhD,Single,Very high,No,No,Yes
+1091,Middle,PhD,Married,Very high,No,No,No
+1092,Old,PhD,Single,High,No,No,No
+1093,Middle,Graduation,Together,Very high,No,No,No
+1094,Old,PhD,Single,High,No,No,No
+1095,Middle,PhD,Married,Very high,No,No,No
+1096,Old,Graduation,Single,Very high,No,No,No
+1097,Young,Graduation,Divorced,Very high,No,No,No
+1098,Middle,2n Cycle,Single,Very high,No,No,No
+1099,Middle,Master,Together,High,No,No,No
+1100,Middle,Graduation,Married,Very high,No,No,No
+1101,Middle,Graduation,Divorced,Very high,Yes,No,Yes
+1102,Young,2n Cycle,Married,Very high,No,No,No
+1103,Middle,Graduation,Married,High,No,No,No
+1104,Middle,Graduation,Together,Very high,No,No,No
+1105,Old,Graduation,Married,High,No,No,No
+1106,Old,PhD,Single,Very high,Yes,No,No
+1107,Middle,PhD,Married,Very high,No,No,No
+1108,Middle,2n Cycle,Married,Medium,No,No,No
+1109,Old,2n Cycle,Married,Very high,No,No,No
+1110,Old,Graduation,Married,Very high,No,No,No
+1111,Middle,Graduation,Divorced,Very high,No,No,No
+1112,Middle,2n Cycle,Single,Very high,Yes,No,Yes
+1113,Old,PhD,Single,Very high,No,No,No
+1114,Middle,Master,Single,Very high,No,No,No
+1115,Middle,PhD,Single,Medium,No,No,No
+1116,Middle,Graduation,Together,Very high,No,No,No
+1117,Middle,PhD,Married,High,No,No,Yes
+1118,Middle,Master,Married,High,No,No,Yes
+1119,Middle,Basic,Together,Medium,No,No,No
+1120,Middle,2n Cycle,Married,High,No,No,No
+1121,Middle,Graduation,Single,Very high,No,No,No
+1122,Middle,PhD,Married,High,No,No,No
+1123,Middle,Master,Divorced,Very high,No,No,No
+1124,Old,Graduation,Single,High,No,No,No
+1125,Old,Graduation,Married,High,No,No,No
+1126,Middle,Graduation,Divorced,High,No,No,Yes
+1127,Middle,Graduation,Single,Very high,No,No,No
+1128,Young,Graduation,Together,High,No,No,No
+1129,Old,Basic,Single,Medium,No,No,No
+1130,Old,2n Cycle,Divorced,Very high,No,No,Yes
+1131,Middle,Master,Married,Very high,No,No,No
+1132,Middle,Graduation,Single,High,No,No,No
+1133,Middle,Graduation,Married,High,No,No,No
+1134,Young,Graduation,Together,Very high,Yes,No,No
+1135,Middle,Graduation,Single,Very high,Yes,No,Yes
+1136,Middle,2n Cycle,Together,High,No,No,No
+1137,Old,PhD,Married,High,No,No,No
+1138,Young,PhD,Divorced,Very high,No,No,Yes
+1139,Old,Master,Divorced,Medium,No,No,No
+1140,Old,Graduation,Married,High,No,No,No
+1141,Young,Master,Together,Very high,No,No,No
+1142,Middle,Graduation,Married,High,No,No,No
+1143,Old,2n Cycle,Divorced,Medium,No,No,No
+1144,Old,PhD,Single,High,No,No,No
+1145,Middle,Graduation,Widow,Very high,No,No,No
+1146,Middle,Master,Together,Medium,No,No,No
+1147,Old,Graduation,Together,High,No,No,Yes
+1148,Old,Graduation,Together,Very high,No,No,No
+1149,Young,PhD,Married,Very high,No,No,No
+1150,Old,Graduation,Single,High,No,No,Yes
+1151,Old,PhD,Widow,Very high,No,No,No
+1152,Middle,Graduation,Together,Very high,No,No,No
+1153,Middle,Graduation,Married,Medium,No,No,No
+1154,Old,Graduation,Together,Very high,No,No,Yes
+1155,Old,Master,Married,Very high,No,No,No
+1156,Middle,PhD,Single,Medium,No,No,No
+1157,Middle,Graduation,Married,High,No,No,Yes
+1158,Old,Graduation,Together,Very high,No,No,No
+1159,Old,Graduation,Married,Very high,No,No,No
+1160,Old,Graduation,Married,Very high,No,No,No
+1161,Old,Graduation,Married,High,No,No,No
+1162,Old,Graduation,Together,Very high,No,No,No
+1163,Young,Graduation,Married,Very high,No,No,No
+1164,Middle,Graduation,Together,Very high,No,No,No
+1165,Middle,PhD,Married,High,No,No,No
+1166,Middle,Graduation,Married,Very high,No,No,No
+1167,Middle,2n Cycle,Married,High,No,No,No
+1168,Old,Graduation,Together,High,No,No,No
+1169,Middle,Graduation,Married,Very high,No,No,No
+1170,Young,Graduation,Single,Very high,No,No,No
+1171,Middle,Basic,Married,Medium,No,No,No
+1172,Young,2n Cycle,Married,Medium,No,No,No
+1173,Old,PhD,Married,Very high,No,No,No
+1174,Middle,Master,Married,Very high,No,No,No
+1175,Old,Basic,Together,Medium,No,No,No
+1176,Old,Master,Married,High,No,No,No
+1177,Middle,Master,Married,High,No,No,No
+1178,Middle,Graduation,Married,Very high,No,No,No
+1179,Young,Graduation,Divorced,High,No,No,No
+1180,Old,Master,Single,Very high,No,No,No
+1181,Old,Graduation,Together,High,No,Yes,No
+1182,Old,Graduation,Married,High,No,No,No
+1183,Old,PhD,Divorced,Very high,No,No,Yes
+1184,Middle,Basic,Single,Medium,No,No,No
+1185,Young,Graduation,Single,High,No,No,No
+1186,Old,Graduation,Single,Medium,No,No,No
+1187,Old,Graduation,Married,High,No,No,No
+1188,Old,PhD,Single,Very high,Yes,No,No
+1189,Middle,PhD,Together,High,No,No,No
+1190,Middle,2n Cycle,Married,High,No,No,No
+1191,Middle,Master,Divorced,Very high,No,No,Yes
+1192,Old,Master,Widow,Very high,No,No,Yes
+1193,Old,Graduation,Divorced,Very high,No,No,No
+1194,Middle,Graduation,Single,Very high,No,No,No
+1195,Middle,Master,Married,High,No,No,No
+1196,Old,Master,Divorced,Very high,No,No,No
+1197,Middle,2n Cycle,Married,High,No,No,No
+1198,Middle,Master,Married,Very high,No,No,No
+1199,Old,PhD,Married,Very high,No,No,No
+1200,Middle,2n Cycle,Widow,Very high,No,No,No
+1201,Old,Graduation,Married,Very high,No,No,No
+1202,Old,Graduation,Married,Very high,No,Yes,No
+1203,Middle,Master,Married,Very high,No,No,No
+1204,Old,Graduation,Divorced,Medium,No,No,Yes
+1205,Old,Master,Together,Very high,No,No,No
+1206,Old,Master,Married,Very high,No,No,No
+1207,Young,PhD,Married,Very high,No,No,No
+1208,Old,Graduation,Married,Medium,No,No,No
+1209,Old,PhD,Together,High,No,No,No
+1210,Old,Graduation,Together,High,No,No,No
+1211,Old,Graduation,Together,High,No,No,No
+1212,Middle,Graduation,Together,Very high,No,Yes,No
+1213,Middle,Graduation,Together,Very high,No,No,No
+1214,Middle,Graduation,Together,Very high,No,No,No
+1215,Middle,Graduation,Married,Very high,No,No,No
+1216,Old,Graduation,Single,High,No,No,Yes
+1217,Old,Graduation,Single,Very high,No,No,No
+1218,Young,PhD,Together,High,No,No,No
+1219,Old,PhD,Together,Very high,No,No,No
+1220,Young,Graduation,Single,High,No,No,No
+1221,Middle,Basic,Single,Medium,No,No,No
+1222,Old,Graduation,Married,High,No,No,No
+1223,Middle,2n Cycle,Divorced,Very high,Yes,No,No
+1224,Old,Graduation,Married,High,No,No,No
+1225,Old,PhD,Widow,High,No,No,No
+1226,Old,PhD,Married,Very high,No,No,No
+1227,Young,PhD,Single,Very high,No,No,No
+1228,Middle,Graduation,Married,Medium,No,No,Yes
+1229,Old,Master,Married,Very high,No,No,No
+1230,Middle,Master,Married,High,No,No,No
+1231,Young,Graduation,Divorced,High,No,No,No
+1232,Middle,PhD,Together,High,No,No,No
+1233,Middle,Graduation,Divorced,High,No,No,No
+1234,Middle,Graduation,Together,High,No,No,No
+1235,Middle,PhD,Together,High,No,No,No
+1236,Old,Graduation,Married,Very high,No,No,No
+1237,Middle,Master,Together,Very high,No,No,No
+1238,Young,Graduation,Together,Very high,No,No,No
+1239,Old,Graduation,Married,High,No,No,No
+1240,Middle,Graduation,Single,High,No,No,No
+1241,Middle,Basic,Single,High,No,No,No
+1242,Old,PhD,Married,Very high,No,No,No
+1243,Old,Graduation,Single,Very high,No,No,No
+1244,Middle,Master,Together,Very high,No,No,No
+1245,Middle,PhD,Together,High,No,No,No
+1246,Young,Graduation,Divorced,Low,No,No,No
+1247,Middle,Basic,Single,Medium,No,No,No
+1248,Middle,Graduation,Together,High,No,No,No
+1249,Middle,PhD,Together,Medium,No,No,No
+1250,Old,Graduation,Married,Very high,No,No,No
+1251,Old,PhD,Married,Very high,Yes,No,Yes
+1252,Middle,Graduation,Married,Very high,No,No,No
+1253,Middle,PhD,Married,Very high,No,No,Yes
+1254,Old,Graduation,Married,Very high,No,No,No
+1255,Middle,Graduation,Divorced,Very high,No,No,No
+1256,Old,PhD,Married,Very high,No,No,Yes
+1257,Middle,2n Cycle,Married,Very high,No,No,Yes
+1258,Middle,Graduation,Married,Very high,No,No,No
+1259,Middle,Graduation,Married,High,No,No,No
+1260,Middle,Graduation,Together,Very high,Yes,No,No
+1261,Middle,PhD,Divorced,High,No,No,No
+1262,Middle,PhD,Divorced,Very high,No,No,Yes
+1263,Old,Master,Together,Very high,Yes,No,No
+1264,Old,Graduation,Married,High,No,No,No
+1265,Middle,Graduation,Single,High,No,No,Yes
+1266,Old,Graduation,Divorced,Very high,Yes,No,Yes
+1267,Middle,PhD,Married,Very high,No,No,Yes
+1268,Old,Graduation,Together,Medium,No,No,No
+1269,Old,PhD,Married,High,No,No,No
+1270,Old,2n Cycle,Single,Very high,No,No,No
+1271,Old,Graduation,Married,Very high,No,No,No
+1272,Middle,Master,Single,Very high,No,No,No
+1273,Middle,Graduation,Single,High,No,No,Yes
+1274,Middle,Master,Married,Very high,No,No,No
+1275,Middle,Master,Divorced,Medium,No,No,No
+1276,Middle,Graduation,Married,Very high,No,No,No
+1277,Old,Master,Married,High,No,No,No
+1278,Middle,Graduation,Married,High,No,Yes,No
+1279,Middle,Graduation,Divorced,Very high,Yes,No,No
+1280,Middle,Graduation,Married,High,No,No,No
+1281,Middle,Graduation,Together,Very high,No,No,Yes
+1282,Old,2n Cycle,Divorced,High,No,No,Yes
+1283,Old,PhD,Married,High,No,No,No
+1284,Old,Master,Together,High,No,No,No
+1285,Middle,Basic,Married,High,No,No,No
+1286,Middle,Graduation,Divorced,High,No,No,No
+1287,Middle,PhD,Married,Very high,No,No,Yes
+1288,Middle,2n Cycle,Married,High,No,No,No
+1289,Middle,Master,Married,Very high,Yes,No,Yes
+1290,Old,Graduation,Married,Very high,No,No,No
+1291,Middle,Graduation,Married,Medium,No,No,No
+1292,Middle,Graduation,Single,Medium,No,No,No
+1293,Middle,2n Cycle,Married,High,No,No,No
+1294,Old,PhD,Single,High,No,No,No
+1295,Old,PhD,Single,High,No,No,No
+1296,Middle,Master,Together,Very high,No,No,No
+1297,Middle,PhD,Together,High,No,No,No
+1298,Old,Graduation,Together,Very high,No,No,No
+1299,Middle,Graduation,Married,Very high,No,No,Yes
+1300,Middle,Graduation,Single,Medium,No,No,No
+1301,Old,Master,Together,Very high,No,No,No
+1302,Young,Graduation,Together,Very high,Yes,No,Yes
+1303,Middle,2n Cycle,Married,Medium,No,No,No
+1304,Middle,Graduation,Divorced,High,No,No,No
+1305,Middle,Graduation,Married,Very high,No,No,No
+1306,Middle,Graduation,Together,Very high,No,No,No
+1307,Old,Graduation,Together,Very high,No,No,No
+1308,Middle,PhD,Married,Very high,No,No,No
+1309,Middle,Graduation,Married,Very high,Yes,No,Yes
+1310,Old,Graduation,Together,Very high,No,No,No
+1311,Old,PhD,Married,Very high,No,No,No
+1312,Old,Master,Single,Very high,No,No,No
+1313,Old,Master,Together,High,No,No,No
+1314,Young,2n Cycle,Together,Very high,No,No,No
+1315,Old,2n Cycle,Married,Very high,No,No,No
+1316,Old,PhD,Single,High,No,No,No
+1317,Middle,Graduation,Together,High,No,No,No
+1318,Middle,2n Cycle,Married,High,No,No,No
+1319,Middle,Graduation,Married,High,No,No,No
+1320,Old,Graduation,Together,High,No,No,No
+1321,Old,Master,Married,Very high,No,No,No
+1322,Middle,Master,Together,High,No,No,No
+1323,Middle,Graduation,Together,Very high,No,No,No
+1324,Middle,Graduation,Single,High,No,Yes,Yes
+1325,Old,Basic,Married,Medium,No,No,No
+1326,Middle,Master,Married,Very high,No,No,No
+1327,Middle,Graduation,Married,Medium,No,No,No
+1328,Middle,PhD,Married,High,No,No,No
+1329,Old,Master,Single,Medium,No,No,No
+1330,Middle,PhD,Together,Very high,No,No,Yes
+1331,Middle,Graduation,Married,High,No,No,No
+1332,Old,Graduation,Married,High,No,No,Yes
+1333,Old,Graduation,Married,Very high,Yes,No,No
+1334,Middle,Graduation,Single,Very high,No,No,No
+1335,Middle,Master,Married,Very high,Yes,No,Yes
+1336,Middle,Graduation,Married,Very high,No,No,No
+1337,Middle,Graduation,Together,Very high,No,No,No
+1338,Old,Master,Married,High,No,No,No
+1339,Middle,Graduation,Widow,High,No,No,No
+1340,Old,Graduation,Single,High,No,No,Yes
+1341,Middle,Graduation,Together,Very high,No,No,No
+1342,Old,Master,Married,High,No,No,No
+1343,Young,Master,Married,Very high,No,No,Yes
+1344,Middle,Graduation,Married,Medium,No,No,No
+1345,Middle,Basic,Single,Medium,No,No,No
+1346,Old,Graduation,Single,High,No,No,No
+1347,Middle,2n Cycle,Married,High,No,No,No
+1348,Middle,PhD,Married,Very high,No,No,No
+1349,Old,Graduation,Together,Very high,No,No,No
+1350,Old,PhD,Divorced,Very high,No,No,Yes
+1351,Young,PhD,Together,Very high,No,No,No
+1352,Young,Graduation,Single,Very high,No,No,Yes
+1353,Old,Graduation,Together,Medium,No,No,No
+1354,Middle,Graduation,Married,Very high,No,No,No
+1355,Old,Graduation,Married,Very high,No,No,Yes
+1356,Middle,Graduation,Single,Very high,No,No,No
+1357,Old,Graduation,Married,High,No,No,No
+1358,Old,PhD,Single,Very high,No,No,No
+1359,Middle,Graduation,Single,Very high,No,No,No
+1360,Middle,Master,Single,High,No,No,No
+1361,Young,Graduation,Together,Very high,No,No,No
+1362,Middle,Basic,Married,Medium,No,No,No
+1363,Old,Graduation,Divorced,Very high,No,No,No
+1364,Middle,2n Cycle,Together,Very high,No,No,No
+1365,Old,2n Cycle,Divorced,Very high,No,No,No
+1366,Middle,Master,Single,Very high,No,No,Yes
+1367,Middle,Graduation,Single,High,No,No,No
+1368,Middle,Graduation,Married,High,No,No,No
+1369,Old,Master,Divorced,High,No,No,No
+1370,Middle,Graduation,Married,Very high,No,No,No
+1371,Old,Graduation,Single,Very high,No,No,No
+1372,Old,2n Cycle,Together,Very high,No,No,No
+1373,Old,Master,Single,High,No,No,No
+1374,Middle,PhD,Divorced,Very high,No,No,No
+1375,Old,PhD,Married,Very high,No,No,No
+1376,Middle,Graduation,Single,High,No,No,No
+1377,Young,Graduation,Single,Very high,No,No,No
+1378,Middle,Graduation,Married,Medium,No,No,Yes
+1379,Middle,Master,Together,Very high,No,No,No
+1380,Old,Master,Together,Low,No,No,No
+1381,Old,Master,Divorced,High,No,No,No
+1382,Old,2n Cycle,Together,Very high,No,No,No
+1383,Old,Graduation,Together,Low,No,No,No
+1384,Middle,2n Cycle,Single,Low,No,No,No
+1385,Old,Graduation,Married,Medium,No,No,No
+1386,Middle,Graduation,Married,Very high,No,No,No
+1387,Middle,PhD,Together,Low,No,No,No
+1388,Middle,2n Cycle,Together,High,No,No,No
+1389,Middle,Graduation,Together,High,No,No,No
+1390,Middle,Graduation,Together,Very high,No,No,No
+1391,Middle,Master,Married,Very high,No,No,No
+1392,Middle,Graduation,Together,Medium,No,No,No
+1393,Middle,PhD,Together,High,No,No,No
+1394,Middle,2n Cycle,Single,High,No,No,No
+1395,Old,PhD,Married,High,No,No,No
+1396,Middle,Master,Married,Very high,No,No,No
+1397,Middle,Graduation,Divorced,High,No,No,No
+1398,Middle,Graduation,Divorced,High,No,No,No
+1399,Middle,Master,Divorced,Very high,No,No,No
+1400,Old,PhD,Married,Very high,No,No,No
+1401,Middle,Graduation,Married,Very high,No,No,No
+1402,Old,Graduation,Married,Very high,No,No,No
+1403,Old,Graduation,Married,High,No,No,No
+1404,Middle,Graduation,Single,High,No,No,Yes
+1405,Middle,Master,Married,High,No,No,No
+1406,Old,PhD,Married,High,No,No,No
+1407,Old,Master,Together,High,No,No,No
+1408,Old,Master,Married,Very high,No,No,No
+1409,Old,Graduation,Married,Very high,No,No,No
+1410,Middle,PhD,Divorced,High,No,No,Yes
+1411,Middle,PhD,Married,Very high,No,No,No
+1412,Middle,Graduation,Married,Very high,Yes,No,Yes
+1413,Old,Master,Married,High,No,No,No
+1414,Young,Graduation,Married,Very high,Yes,No,Yes
+1415,Middle,Graduation,Single,High,No,No,No
+1416,Middle,Graduation,Single,Very high,No,No,No
+1417,Old,Basic,Together,Medium,No,No,No
+1418,Middle,Graduation,Together,Very high,No,No,No
+1419,Middle,Graduation,Married,High,No,No,No
+1420,Middle,Graduation,Married,Medium,No,No,No
+1421,Middle,PhD,Together,High,No,No,No
+1422,Middle,2n Cycle,Single,Very high,No,No,No
+1423,Middle,Graduation,Single,Very high,No,No,No
+1424,Old,PhD,Together,Very high,No,No,No
+1425,Middle,Graduation,Married,Medium,No,No,No
+1426,Middle,Graduation,Married,High,No,No,No
+1427,Middle,PhD,Married,High,No,No,No
+1428,Old,PhD,Married,High,No,No,No
+1429,Middle,2n Cycle,Single,High,No,No,No
+1430,Middle,Graduation,Single,High,No,No,No
+1431,Middle,Master,Married,High,No,No,No
+1432,Young,2n Cycle,Divorced,High,No,No,No
+1433,Middle,Graduation,Married,Very high,Yes,No,No
+1434,Middle,Graduation,Single,High,No,No,No
+1435,Middle,Graduation,Divorced,Very high,No,No,No
+1436,Old,2n Cycle,Married,High,No,No,No
+1437,Young,Graduation,Married,Very high,No,No,No
+1438,Old,2n Cycle,Together,Medium,No,No,No
+1439,Middle,Graduation,Married,High,No,No,No
+1440,Old,Graduation,Married,High,No,No,No
+1441,Old,Graduation,Together,High,No,No,No
+1442,Middle,Master,Married,High,No,No,No
+1443,Old,Graduation,Together,Medium,No,No,Yes
+1444,Old,Master,Widow,Very high,Yes,No,Yes
+1445,Old,Graduation,Together,Very high,Yes,No,No
+1446,Middle,Graduation,Married,Very high,No,No,No
+1447,Old,2n Cycle,Married,Very high,No,No,No
+1448,Middle,Graduation,Married,Very high,No,No,No
+1449,Middle,PhD,Together,Very high,No,No,No
+1450,Middle,2n Cycle,Together,Very high,No,No,No
+1451,Old,Graduation,Together,High,No,No,No
+1452,Old,Graduation,Married,Very high,No,No,No
+1453,Middle,Graduation,Single,Very high,No,No,Yes
+1454,Old,PhD,Single,High,No,No,No
+1455,Middle,PhD,Together,High,No,No,No
+1456,Middle,Graduation,Together,Very high,No,No,No
+1457,Middle,Graduation,Divorced,High,No,No,Yes
+1458,Middle,Graduation,Together,High,No,No,No
+1459,Middle,Graduation,Single,Very high,Yes,No,Yes
+1460,Old,PhD,Married,High,No,No,Yes
+1461,Old,Master,Widow,Very high,No,No,No
+1462,Old,Graduation,Together,Very high,No,Yes,No
+1463,Middle,PhD,Together,High,No,No,No
+1464,Young,Graduation,Together,Medium,No,No,No
+1465,Old,Master,Married,High,No,No,No
+1466,Old,Master,Divorced,High,No,No,No
+1467,Old,Graduation,Married,Very high,No,No,No
+1468,Old,Graduation,Together,Very high,No,No,No
+1469,Middle,PhD,Married,High,No,No,No
+1470,Middle,Graduation,Together,Very high,No,No,No
+1471,Middle,2n Cycle,Married,Medium,No,No,No
+1472,Middle,Graduation,Married,High,No,No,No
+1473,Middle,Graduation,Single,High,No,No,No
+1474,Old,PhD,Married,Very high,No,No,Yes
+1475,Old,Graduation,Married,Very high,No,No,No
+1476,Old,Graduation,Together,High,No,No,No
+1477,Middle,Master,Single,Very high,No,No,No
+1478,Young,PhD,Married,Very high,No,No,No
+1479,Old,Master,Single,High,No,No,No
+1480,Middle,PhD,Married,Very high,No,No,No
+1481,Old,Graduation,Single,Very high,No,No,No
+1482,Middle,Graduation,Together,Very high,No,No,No
+1483,Middle,2n Cycle,Together,Medium,No,No,No
+1484,Middle,Graduation,Married,Medium,No,No,No
+1485,Middle,2n Cycle,Together,Very high,No,No,No
+1486,Middle,Master,Single,Very high,No,No,No
+1487,Old,Master,Together,Very high,No,No,No
+1488,Old,PhD,Together,Very high,Yes,No,No
+1489,Middle,Graduation,Married,Very high,No,No,No
+1490,Middle,Master,Together,High,No,No,No
+1491,Old,PhD,Married,Very high,No,No,Yes
+1492,Young,PhD,Divorced,High,No,No,No
+1493,Middle,Graduation,Together,Very high,Yes,No,Yes
+1494,Young,Graduation,Together,Very high,No,No,No
+1495,Old,Graduation,Married,High,No,No,No
+1496,Middle,Graduation,Married,Very high,No,No,No
+1497,Middle,Graduation,Divorced,High,No,No,No
+1498,Old,PhD,Together,Very high,No,No,Yes
+1499,Young,Graduation,Together,Very high,No,No,No
+1500,Middle,Graduation,Married,Very high,No,No,No
+1501,Middle,Master,Together,Very high,No,No,No
+1502,Middle,2n Cycle,Divorced,High,No,No,No
+1503,Middle,Graduation,Married,High,No,No,Yes
+1504,Old,Master,Married,Very high,No,No,No
+1505,Middle,PhD,Single,High,No,No,Yes
+1506,Middle,Master,Married,Very high,No,No,No
+1507,Middle,Master,Married,Very high,No,No,No
+1508,Middle,2n Cycle,Together,High,No,No,No
+1509,Old,PhD,Married,Very high,No,No,No
+1510,Young,Graduation,Together,Very high,No,No,No
+1511,Middle,Graduation,Married,Very high,No,No,No
+1512,Old,Master,Single,High,No,No,No
+1513,Young,Graduation,Married,Very high,No,No,No
+1514,Middle,Graduation,Married,Very high,No,No,No
+1515,Middle,2n Cycle,Together,Medium,No,No,Yes
+1516,Old,Graduation,Single,Very high,No,No,No
+1517,Middle,Graduation,Married,Very high,No,No,No
+1518,Middle,Graduation,Married,High,No,No,No
+1519,Middle,Master,Married,High,No,No,No
+1520,Middle,Graduation,Single,High,No,No,Yes
+1521,Middle,PhD,Single,Very high,No,No,Yes
+1522,Middle,Graduation,Together,Very high,No,No,No
+1523,Middle,Graduation,Single,High,No,No,No
+1524,Middle,PhD,Married,High,No,No,No
+1525,Middle,Graduation,Single,Low,No,No,No
+1526,Old,Graduation,Married,Very high,No,No,No
+1527,Old,PhD,Widow,Very high,No,No,No
+1528,Young,Graduation,Together,High,No,No,No
+1529,Old,PhD,Single,Very high,Yes,No,Yes
+1530,Middle,Graduation,Together,Medium,No,No,No
+1531,Old,2n Cycle,Married,Very high,No,No,No
+1532,Middle,2n Cycle,Together,Very high,No,No,No
+1533,Middle,PhD,Married,Very high,No,No,No
+1534,Young,Master,Single,High,No,No,Yes
+1535,Young,2n Cycle,Married,Medium,No,No,No
+1536,Young,2n Cycle,Single,Medium,No,No,No
+1537,Old,Graduation,Single,Medium,No,No,No
+1538,Middle,PhD,Widow,Very high,No,No,Yes
+1539,Middle,PhD,Married,Very high,No,No,No
+1540,Young,Master,Single,Very high,No,No,No
+1541,Old,Graduation,Together,High,No,No,No
+1542,Middle,Master,Together,Very high,No,No,No
+1543,Old,Graduation,Married,Very high,No,No,No
+1544,Old,PhD,Single,Very high,No,No,No
+1545,Young,Graduation,Divorced,Very high,No,No,No
+1546,Young,Master,Together,High,No,No,No
+1547,Old,2n Cycle,Married,High,No,No,No
+1548,Old,Graduation,Single,High,No,No,Yes
+1549,Middle,Graduation,Widow,Very high,No,No,No
+1550,Old,2n Cycle,Married,High,No,No,No
+1551,Old,Master,Divorced,Very high,No,No,No
+1552,Old,2n Cycle,Married,Very high,No,No,No
+1553,Old,Graduation,Married,Very high,No,No,No
+1554,Middle,Graduation,Together,Very high,Yes,No,No
+1555,Middle,Graduation,Married,Very high,No,No,No
+1556,Old,Master,Married,High,No,No,No
+1557,Middle,Master,Together,High,No,No,Yes
+1558,Old,Graduation,Divorced,High,No,No,No
+1559,Middle,Graduation,Divorced,High,No,No,No
+1560,Middle,PhD,Divorced,Very high,No,No,No
+1561,Middle,Graduation,Married,High,No,No,No
+1562,Young,Master,Married,High,No,No,No
+1563,Old,Graduation,Married,Medium,No,No,No
+1564,Young,Graduation,Divorced,Very high,No,No,No
+1565,Old,Graduation,Married,High,No,No,No
+1566,Old,Graduation,Single,High,No,No,No
+1567,Old,Master,Single,Very high,No,No,No
+1568,Old,Graduation,Together,Very high,No,No,No
+1569,Old,PhD,Married,Very high,No,No,Yes
+1570,Old,PhD,Married,Very high,No,No,No
+1571,Old,PhD,Single,Very high,Yes,No,Yes
+1572,Young,Graduation,Married,High,No,Yes,No
+1573,Young,Master,Single,Very high,No,No,Yes
+1574,Middle,Master,Married,High,No,No,No
+1575,Old,Graduation,Married,High,No,No,Yes
+1576,Middle,PhD,Together,High,No,No,No
+1577,Old,Graduation,Together,High,No,No,Yes
+1578,Young,PhD,Together,Very high,No,No,No
+1579,Middle,Graduation,Married,High,No,No,No
+1580,Old,Master,Single,Very high,No,No,No
+1581,Old,Graduation,Together,High,No,No,No
+1582,Old,Master,Together,Very high,No,No,No
+1583,Middle,Graduation,Divorced,Very high,No,No,No
+1584,Young,Master,Together,High,No,No,No
+1585,Middle,Graduation,Divorced,Very high,No,No,Yes
+1586,Old,PhD,Divorced,High,No,No,Yes
+1587,Old,Master,Together,High,No,No,Yes
+1588,Middle,Graduation,Married,Very high,No,No,No
+1589,Young,Graduation,Married,High,No,No,No
+1590,Old,Graduation,Married,Very high,Yes,No,No
+1591,Old,PhD,Together,High,No,No,No
+1592,Young,Graduation,Married,Very high,No,No,No
+1593,Old,Basic,Together,Medium,No,No,No
+1594,Middle,Master,Together,High,No,No,No
+1595,Middle,PhD,Single,Very high,No,No,No
+1596,Old,PhD,Single,High,No,No,Yes
+1597,Middle,Master,Together,Medium,No,No,No
+1598,Middle,Graduation,Single,High,No,No,No
+1599,Middle,Graduation,Married,Very high,No,No,No
+1600,Old,PhD,Married,High,No,No,No
+1601,Old,Master,Married,Very high,No,No,No
+1602,Old,Master,Married,Very high,Yes,No,No
+1603,Old,Master,Divorced,Very high,No,No,No
+1604,Old,Graduation,Together,High,No,No,No
+1605,Old,Graduation,Married,High,No,No,No
+1606,Middle,PhD,Married,Very high,No,No,No
+1607,Young,Graduation,Married,Very high,No,No,No
+1608,Middle,2n Cycle,Single,Very high,No,No,No
+1609,Old,Master,Married,Very high,No,No,No
+1610,Young,PhD,Married,Very high,No,No,No
+1611,Middle,Graduation,Single,Very high,No,No,No
+1612,Young,2n Cycle,Married,Medium,No,No,No
+1613,Middle,Graduation,Single,Very high,No,No,Yes
+1614,Middle,Graduation,Single,High,No,No,No
+1615,Middle,Graduation,Married,High,No,No,Yes
+1616,Middle,Graduation,Married,Very high,No,No,No
+1617,Young,Graduation,Together,High,No,No,No
+1618,Old,Graduation,Single,Very high,No,No,No
+1619,Old,Graduation,Married,Very high,No,No,No
+1620,Old,Master,Married,Very high,No,No,No
+1621,Middle,PhD,Together,Very high,No,No,No
+1622,Middle,Graduation,Married,Medium,No,No,No
+1623,Old,2n Cycle,Together,Very high,No,No,No
+1624,Old,Graduation,Single,Very high,No,No,No
+1625,Old,Graduation,Together,Very high,No,No,No
+1626,Middle,PhD,Married,Very high,No,No,No
+1627,Old,PhD,Widow,High,No,No,No
+1628,Middle,PhD,Divorced,High,No,No,No
+1629,Middle,Graduation,Together,Medium,No,No,Yes
+1630,Old,2n Cycle,Together,High,No,No,No
+1631,Middle,PhD,Together,Very high,No,No,No
+1632,Old,PhD,Together,High,No,No,No
+1633,Middle,PhD,Married,Very high,No,No,No
+1634,Old,Graduation,Together,Medium,No,No,No
+1635,Old,PhD,Together,High,No,No,No
+1636,Old,PhD,Married,Very high,No,No,No
+1637,Old,Graduation,Divorced,Very high,No,No,No
+1638,Middle,Graduation,Married,Very high,No,No,No
+1639,Middle,Graduation,Married,High,No,No,No
+1640,Middle,Master,Together,High,No,No,No
+1641,Old,Master,Together,High,No,No,No
+1642,Middle,PhD,Divorced,Very high,No,No,Yes
+1643,Middle,Graduation,Together,Very high,No,No,No
+1644,Middle,Basic,Together,Medium,No,No,No
+1645,Old,2n Cycle,Together,Very high,No,No,No
+1646,Middle,Master,Divorced,High,No,No,No
+1647,Middle,Master,Married,Very high,No,No,No
+1648,Middle,Graduation,Single,Very high,No,No,No
+1649,Old,Graduation,Divorced,Very high,No,No,Yes
+1650,Middle,PhD,Widow,Very high,No,No,No
+1651,Old,Graduation,Married,Medium,No,No,No
+1652,Old,Graduation,Single,Very high,No,No,Yes
+1653,Middle,Graduation,Widow,High,No,No,Yes
+1654,Old,Graduation,Together,Very high,No,No,No
+1655,Middle,PhD,Widow,High,No,No,No
+1656,Old,Master,Single,High,No,No,No
+1657,Old,Master,Together,High,No,No,No
+1658,Middle,PhD,Married,Very high,No,No,No
+1659,Middle,2n Cycle,Together,Very high,No,No,No
+1660,Old,Graduation,Single,Very high,Yes,No,Yes
+1661,Middle,PhD,Single,Very high,No,No,No
+1662,Middle,Graduation,Together,High,No,No,No
+1663,Middle,Graduation,Divorced,Very high,No,No,No
+1664,Young,Graduation,Single,High,No,No,No
+1665,Young,PhD,Single,High,No,No,No
+1666,Middle,2n Cycle,Single,High,No,No,No
+1667,Old,PhD,Married,Very high,No,No,No
+1668,Middle,PhD,Married,High,No,No,No
+1669,Middle,PhD,Married,Very high,No,No,No
+1670,Young,PhD,Married,Very high,No,No,Yes
+1671,Old,PhD,Single,High,Yes,No,Yes
+1672,Young,Graduation,Together,Very high,No,No,No
+1673,Old,Master,Married,Very high,No,No,Yes
+1674,Middle,2n Cycle,Married,Very high,Yes,No,No
+1675,Young,Graduation,Married,Very high,No,No,No
+1676,Middle,2n Cycle,Together,Medium,No,No,No
+1677,Middle,Graduation,Married,High,No,No,No
+1678,Middle,Basic,Single,Medium,No,No,No
+1679,Middle,PhD,Married,High,No,No,No
+1680,Middle,Graduation,Married,High,No,No,No
+1681,Middle,Graduation,Together,Very high,Yes,No,No
+1682,Old,Graduation,Together,High,No,No,No
+1683,Middle,PhD,Married,Medium,No,No,No
+1684,Old,PhD,Married,Medium,No,No,No
+1685,Middle,Graduation,Married,High,No,No,No
+1686,Middle,Graduation,Married,High,No,No,No
+1687,Middle,Master,Divorced,Very high,No,No,Yes
+1688,Middle,Graduation,Together,Very high,No,No,Yes
+1689,Young,Graduation,Single,Very high,No,No,No
+1690,Old,Graduation,Single,Very high,No,No,No
+1691,Young,Graduation,Single,High,No,No,No
+1692,Young,Master,Divorced,Very high,No,No,No
+1693,Middle,PhD,Married,Medium,No,No,No
+1694,Young,2n Cycle,Single,Medium,No,No,No
+1695,Old,Graduation,Married,Medium,No,No,No
+1696,Middle,Graduation,Divorced,Very high,No,No,No
+1697,Middle,2n Cycle,Together,High,No,No,No
+1698,Old,PhD,Married,Very high,No,No,No
+1699,Old,PhD,Divorced,High,No,No,No
+1700,Middle,Master,Widow,Very high,No,No,No
+1701,Old,Graduation,Married,Very high,No,No,No
+1702,Young,Master,Married,High,No,No,No
+1703,Middle,Graduation,Single,Medium,No,No,No
+1704,Middle,PhD,Together,Very high,No,No,No
+1705,Middle,Basic,Together,Medium,No,No,Yes
+1706,Old,PhD,Married,High,No,No,No
+1707,Old,Master,Together,Very high,No,No,No
+1708,Middle,Graduation,Together,Very high,No,No,No
+1709,Middle,Graduation,Married,Very high,No,No,No
+1710,Young,PhD,Married,Very high,No,No,No
+1711,Old,Graduation,Married,Very high,Yes,No,Yes
+1712,Middle,Master,Married,Very high,Yes,No,Yes
+1713,Middle,Graduation,Together,High,No,No,No
+1714,Young,Graduation,Married,Very high,No,No,No
+1715,Middle,Basic,Single,Medium,No,No,No
+1716,Old,Graduation,Together,High,No,No,No
+1717,Middle,Graduation,Single,Very high,No,No,No
+1718,Middle,Graduation,Married,Medium,No,No,No
+1719,Middle,Graduation,Together,High,No,No,No
+1720,Middle,PhD,Married,Very high,No,No,Yes
+1721,Middle,Graduation,Married,Medium,No,Yes,No
+1722,Young,PhD,Married,Very high,Yes,No,Yes
+1723,Old,Graduation,Single,Very high,Yes,No,Yes
+1724,Middle,PhD,Widow,Very high,No,No,No
+1725,Middle,PhD,Single,High,No,No,Yes
+1726,Old,Master,Single,Medium,No,No,Yes
+1727,Old,Graduation,Together,High,No,No,Yes
+1728,Old,Basic,Single,Medium,No,No,No
+1729,Old,Master,Together,Very high,No,No,No
+1730,Old,Graduation,Married,Very high,No,No,No
+1731,Old,PhD,Together,High,No,No,No
+1732,Old,Graduation,Married,Medium,No,No,No
+1733,Middle,Graduation,Divorced,High,No,No,No
+1734,Old,Graduation,Together,Very high,No,No,No
+1735,Old,2n Cycle,Single,Very high,No,No,No
+1736,Middle,Graduation,Divorced,Very high,No,No,No
+1737,Old,Graduation,Single,Very high,No,No,No
+1738,Old,Graduation,Married,Very high,No,No,No
+1739,Middle,Graduation,Married,Very high,Yes,No,No
+1740,Old,PhD,Married,High,No,No,No
+1741,Middle,Graduation,Together,Very high,No,No,No
+1742,Old,Graduation,Together,High,No,No,No
+1743,Old,PhD,Single,High,No,No,Yes
+1744,Middle,Graduation,Together,Very high,No,No,Yes
+1745,Old,PhD,Divorced,Very high,No,No,No
+1746,Old,Graduation,Married,Very high,No,No,No
+1747,Old,Basic,Together,High,No,No,No
+1748,Middle,Master,Married,Very high,No,No,No
+1749,Old,Graduation,Divorced,Very high,No,No,No
+1750,Old,PhD,Married,Very high,Yes,No,No
+1751,Middle,PhD,Together,Very high,No,No,Yes
+1752,Middle,Graduation,Married,High,No,No,No
+1753,Old,2n Cycle,Single,High,No,No,No
+1754,Middle,PhD,Widow,Very high,No,No,Yes
+1755,Middle,Graduation,Widow,High,No,No,No
+1756,Middle,Basic,Single,Medium,No,No,No
+1757,Middle,Graduation,Married,High,No,No,No
+1758,Old,Master,Single,High,No,No,Yes
+1759,Middle,PhD,Married,High,No,No,No
+1760,Old,Graduation,Married,Very high,No,No,No
+1761,Middle,2n Cycle,Married,Very high,No,No,No
+1762,Middle,2n Cycle,Divorced,Medium,No,No,No
+1763,Middle,Graduation,Together,Very high,No,No,No
+1764,Young,Graduation,Married,Very high,No,No,No
+1765,Old,2n Cycle,Married,Medium,No,No,No
+1766,Middle,Graduation,Married,Very high,No,No,No
+1767,Middle,PhD,Single,High,No,No,No
+1768,Old,Graduation,Together,Very high,No,No,No
+1769,Middle,Basic,Married,High,No,No,No
+1770,Middle,Master,Married,High,No,No,No
+1771,Old,PhD,Divorced,High,No,No,Yes
+1772,Young,PhD,Married,Very high,No,No,No
+1773,Old,Graduation,Single,Very high,No,No,No
+1774,Middle,PhD,Together,Very high,No,No,No
+1775,Old,Graduation,Married,High,No,No,No
+1776,Young,Graduation,Together,High,No,No,Yes
+1777,Middle,Graduation,Single,High,No,No,No
+1778,Middle,PhD,Married,High,No,No,No
+1779,Middle,PhD,Together,High,No,No,No
+1780,Middle,2n Cycle,Married,Very high,No,No,No
+1781,Middle,Basic,Single,Medium,No,No,No
+1782,Middle,PhD,Single,High,No,No,No
+1783,Old,Graduation,Married,Very high,No,No,No
+1784,Middle,Graduation,Together,Very high,No,No,No
+1785,Middle,Graduation,Together,High,No,No,Yes
+1786,Middle,Graduation,Single,High,No,No,No
+1787,Middle,Graduation,Married,High,No,No,No
+1788,Middle,Graduation,Together,High,No,No,No
+1789,Middle,2n Cycle,Together,Very high,No,No,No
+1790,Old,Graduation,Together,Very high,No,No,No
+1791,Old,Graduation,Together,High,No,No,No
+1792,Old,PhD,Single,High,No,No,No
+1793,Middle,2n Cycle,Together,Very high,No,No,No
+1794,Old,Graduation,Single,High,No,No,No
+1795,Old,Graduation,Together,High,No,No,No
+1796,Old,Master,Married,High,No,No,No
+1797,Middle,Graduation,Single,Very high,No,No,No
+1798,Old,Master,Single,High,No,No,No
+1799,Middle,Graduation,Together,Very high,Yes,No,No
+1800,Middle,2n Cycle,Together,Very high,No,No,No
+1801,Middle,Graduation,Together,Very high,No,No,No
+1802,Old,Graduation,Together,Very high,No,No,No
+1803,Middle,Master,Together,Very high,No,No,No
+1804,Old,Graduation,Single,High,No,No,Yes
+1805,Old,Graduation,Married,High,No,No,No
+1806,Middle,Graduation,Together,Very high,No,No,No
+1807,Old,PhD,Single,Medium,No,No,No
+1808,Old,Graduation,Single,Medium,No,No,No
+1809,Middle,Graduation,Married,Very high,No,No,Yes
+1810,Middle,PhD,Single,Very high,No,No,No
+1811,Old,Graduation,Together,High,No,No,No
+1812,Middle,PhD,Single,High,No,No,No
+1813,Young,Master,Married,Very high,Yes,No,No
+1814,Old,Graduation,Together,Very high,Yes,No,No
+1815,Middle,Graduation,Divorced,Very high,No,No,No
+1816,Middle,PhD,Together,Medium,No,No,No
+1817,Old,2n Cycle,Together,Very high,No,No,No
+1818,Old,Graduation,Single,Very high,No,No,Yes
+1819,Old,Graduation,Married,Very high,No,No,No
+1820,Old,PhD,Together,High,No,No,No
+1821,Middle,Graduation,Together,Very high,Yes,No,No
+1822,Middle,Master,Divorced,High,No,No,No
+1823,Middle,Master,Single,High,No,No,No
+1824,Middle,Graduation,Married,Very high,No,No,No
+1825,Middle,2n Cycle,Together,Very high,No,No,No
+1826,Old,Graduation,Married,High,No,No,No
+1827,Young,PhD,Widow,Very high,No,No,No
+1828,Old,Graduation,Together,Very high,No,No,Yes
+1829,Middle,Master,Married,Very high,No,No,No
+1830,Young,Master,Together,Medium,No,No,Yes
+1831,Old,Graduation,Single,High,No,No,No
+1832,Old,Graduation,Together,High,No,No,No
+1833,Middle,PhD,Married,Very high,No,No,No
+1834,Middle,Graduation,Together,High,No,No,No
+1835,Middle,Graduation,Married,Very high,No,No,Yes
+1836,Middle,Graduation,Together,High,No,No,No
+1837,Old,PhD,Married,Very high,No,No,No
+1838,Old,Graduation,Married,High,No,No,No
+1839,Old,2n Cycle,Married,Very high,No,No,No
+1840,Middle,PhD,Divorced,Very high,No,No,Yes
+1841,Old,PhD,Together,High,No,No,No
+1842,Middle,Master,Widow,Very high,Yes,No,Yes
+1843,Old,Master,Divorced,High,No,No,No
+1844,Old,Master,Together,Very high,No,No,No
+1845,Middle,Master,Together,Very high,No,No,No
+1846,Old,PhD,Married,Very high,Yes,No,Yes
+1847,Young,PhD,Married,Low,No,No,No
+1848,Middle,Graduation,Married,High,No,No,No
+1849,Young,PhD,Married,Very high,No,No,No
+1850,Young,Graduation,Single,High,No,No,No
+1851,Middle,2n Cycle,Single,Very high,No,Yes,Yes
+1852,Middle,Graduation,Together,Medium,No,No,No
+1853,Old,PhD,Married,Very high,No,No,No
+1854,Middle,Graduation,Together,Very high,No,No,Yes
+1855,Middle,PhD,Single,Very high,No,No,Yes
+1856,Old,Master,Divorced,Very high,Yes,No,No
+1857,Middle,Master,Single,Very high,No,No,No
+1858,Middle,Master,Together,Medium,No,No,No
+1859,Young,PhD,Married,Very high,No,No,No
+1860,Middle,Graduation,Together,Very high,No,No,No
+1861,Middle,PhD,Married,Very high,No,No,No
+1862,Middle,2n Cycle,Divorced,Medium,No,No,No
+1863,Middle,Graduation,Single,Very high,No,No,No
+1864,Middle,Graduation,Married,Very high,No,No,No
+1865,Middle,Graduation,Married,Very high,No,No,Yes
+1866,Middle,Graduation,Widow,Very high,No,No,Yes
+1867,Middle,Master,Together,High,No,No,No
+1868,Middle,Graduation,Single,High,No,No,No
+1869,Middle,Master,Together,High,No,No,No
+1870,Middle,2n Cycle,Together,Very high,Yes,No,Yes
+1871,Old,PhD,Divorced,High,No,No,No
+1872,Middle,Graduation,Divorced,Very high,No,No,No
+1873,Old,Graduation,Single,High,No,No,No
+1874,Old,PhD,Single,Very high,No,No,No
+1875,Young,Graduation,Divorced,High,No,No,No
+1876,Old,2n Cycle,Single,Medium,No,No,No
+1877,Old,Master,Widow,High,No,No,Yes
+1878,Old,Graduation,Married,Very high,Yes,No,No
+1879,Middle,PhD,Together,Very high,No,No,No
+1880,Middle,Graduation,Divorced,Very high,No,No,No
+1881,Middle,PhD,Married,Very high,No,No,Yes
+1882,Middle,PhD,Married,High,No,No,Yes
+1883,Middle,PhD,Divorced,Very high,No,No,No
+1884,Young,Master,Single,Very high,No,No,No
+1885,Middle,PhD,Single,High,No,No,No
+1886,Old,Graduation,Single,Very high,No,No,No
+1887,Middle,PhD,Married,High,No,No,No
+1888,Middle,PhD,Divorced,Very high,No,No,Yes
+1889,Middle,Graduation,Together,Very high,No,No,No
+1890,Young,Graduation,Married,High,No,No,No
+1891,Young,PhD,Married,Very high,No,No,No
+1892,Young,Master,Together,Very high,Yes,No,No
+1893,Middle,Graduation,Married,High,No,No,No
+1894,Middle,Graduation,Divorced,Very high,Yes,No,No
+1895,Old,Graduation,Single,Very high,No,No,No
+1896,Middle,Graduation,Divorced,High,No,No,No
+1897,Old,Basic,Together,Medium,No,No,No
+1898,Old,PhD,Single,Very high,No,No,No
+1899,Old,PhD,Single,Very high,No,No,No
+1900,Old,PhD,Together,Very high,No,No,No
+1901,Middle,PhD,Married,High,No,No,No
+1902,Young,Graduation,Single,Medium,No,No,No
+1903,Middle,Master,Married,Very high,No,No,No
+1904,Middle,Graduation,Divorced,High,No,No,No
+1905,Old,Graduation,Married,High,No,No,No
+1906,Middle,Graduation,Married,Very high,No,No,No
+1907,Young,PhD,Married,Very high,No,No,No
+1908,Old,Graduation,Together,High,No,No,No
+1909,Middle,Graduation,Married,High,No,No,No
+1910,Old,Master,Married,High,No,No,No
+1911,Middle,2n Cycle,Together,Very high,No,No,No
+1912,Middle,Graduation,Single,Very high,No,No,No
+1913,Middle,Master,Together,Very high,No,No,No
+1914,Old,Graduation,Married,Very high,Yes,No,Yes
+1915,Middle,PhD,Widow,Very high,No,No,No
+1916,Young,Graduation,Single,Very high,No,No,Yes
+1917,Middle,Graduation,Married,Medium,No,No,No
+1918,Middle,PhD,Single,High,No,No,No
+1919,Old,Graduation,Single,Medium,No,No,No
+1920,Middle,PhD,Together,High,No,No,No
+1921,Middle,2n Cycle,Single,High,No,No,No
+1922,Old,2n Cycle,Married,Very high,No,No,No
+1923,Old,Graduation,Single,Very high,Yes,No,Yes
+1924,Old,Master,Single,Very high,No,No,No
+1925,Middle,Graduation,Single,Very high,No,Yes,No
+1926,Middle,Master,Married,Medium,No,No,No
+1927,Middle,PhD,Married,Very high,No,No,No
+1928,Old,Graduation,Married,Very high,No,No,No
+1929,Old,Graduation,Single,Very high,No,No,Yes
+1930,Middle,Master,Married,Very high,No,No,No
+1931,Old,PhD,Married,Very high,No,No,No
+1932,Middle,PhD,Married,Very high,No,No,No
+1933,Middle,Master,Married,Medium,No,No,No
+1934,Old,Master,Married,High,No,No,No
+1935,Middle,Graduation,Married,Very high,No,No,No
+1936,Old,2n Cycle,Together,High,No,No,No
+1937,Old,PhD,Single,Very high,No,No,Yes
+1938,Old,PhD,Widow,Very high,No,No,Yes
+1939,Middle,Master,Married,High,No,No,No
+1940,Middle,Graduation,Married,High,No,No,No
+1941,Old,PhD,Married,Very high,Yes,No,Yes
+1942,Middle,Graduation,Together,High,No,No,No
+1943,Middle,Graduation,Single,Medium,No,No,No
+1944,Middle,Graduation,Married,Very high,No,No,No
+1945,Old,Master,Married,High,No,No,No
+1946,Middle,Graduation,Widow,Very high,No,No,No
+1947,Middle,Graduation,Married,Very high,No,No,Yes
+1948,Middle,Master,Married,Very high,No,No,No
+1949,Old,Graduation,Single,High,No,No,No
+1950,Old,Graduation,Together,High,No,No,No
+1951,Middle,PhD,Single,Very high,No,No,No
+1952,Old,Graduation,Married,Very high,No,No,No
+1953,Middle,Graduation,Single,Very high,No,No,No
+1954,Old,PhD,Together,Very high,No,No,Yes
+1955,Old,PhD,Single,Very high,No,No,No
+1956,Middle,PhD,Widow,Very high,No,No,No
+1957,Old,Graduation,Together,High,No,No,No
+1958,Young,Graduation,Single,High,No,No,No
+1959,Old,Graduation,Single,Very high,No,No,Yes
+1960,Old,PhD,Widow,Very high,No,No,No
+1961,Old,Master,Married,Very high,No,No,No
+1962,Middle,PhD,Widow,Very high,No,No,Yes
+1963,Old,Graduation,Married,High,No,No,No
+1964,Middle,Graduation,Single,High,No,No,Yes
+1965,Old,Graduation,Divorced,High,No,No,No
+1966,Middle,Graduation,Together,Very high,No,No,No
+1967,Old,Graduation,Together,Very high,No,No,No
+1968,Old,Graduation,Together,Very high,No,No,No
+1969,Middle,Graduation,Widow,Very high,Yes,No,Yes
+1970,Middle,Master,Together,Very high,No,No,No
+1971,Middle,Graduation,Divorced,Very high,No,No,No
+1972,Middle,Graduation,Single,High,No,No,No
+1973,Middle,Graduation,Together,High,No,No,Yes
+1974,Middle,Graduation,Married,High,No,No,No
+1975,Middle,2n Cycle,Married,Very high,No,No,No
+1976,Old,Graduation,Married,Low,No,No,No
+1977,Middle,2n Cycle,Married,High,No,No,No
+1978,Middle,PhD,Single,High,No,No,No
+1979,Middle,Graduation,Married,High,No,No,Yes
+1980,Middle,Master,Single,High,No,No,Yes
+1981,Middle,Graduation,Married,Medium,No,No,No
+1982,Old,PhD,Divorced,High,No,No,Yes
+1983,Old,Graduation,Married,Very high,Yes,No,No
+1984,Middle,Master,Married,Very high,No,No,No
+1985,Old,Graduation,Single,Very high,No,No,No
+1986,Middle,Graduation,Together,Medium,No,No,No
+1987,Young,Graduation,Married,Very high,No,No,No
+1988,Young,Graduation,Married,Very high,No,No,No
+1989,Old,Graduation,Married,Medium,No,No,No
+1990,Old,Graduation,Married,Very high,No,No,No
+1991,Middle,PhD,Divorced,Very high,Yes,No,Yes
+1992,Old,Master,Married,High,No,No,No
+1993,Old,Master,Single,Very high,No,No,Yes
+1994,Old,Graduation,Single,Very high,No,No,No
+1995,Middle,Graduation,Together,Medium,No,No,No
+1996,Middle,2n Cycle,Married,Very high,Yes,No,Yes
+1997,Middle,Graduation,Married,Very high,Yes,No,Yes
+1998,Middle,PhD,Together,Very high,No,No,No
+1999,Middle,PhD,Married,High,No,No,No
+2000,Middle,2n Cycle,Single,Very high,No,No,No
+2001,Middle,Graduation,Single,Medium,No,No,No
+2002,Middle,PhD,Divorced,High,No,No,No
+2003,Middle,Graduation,Married,Medium,No,No,Yes
+2004,Middle,Graduation,Single,High,No,No,No
+2005,Middle,Master,Single,High,No,No,No
+2006,Middle,Graduation,Married,High,No,No,No
+2007,Old,Graduation,Married,Very high,No,No,No
+2008,Old,Graduation,Divorced,High,No,No,No
+2009,Middle,PhD,Divorced,Very high,No,No,No
+2010,Old,PhD,Together,Very high,No,No,No
+2011,Young,Graduation,Divorced,Very high,No,No,No
+2012,Middle,Graduation,Single,High,No,No,No
+2013,Middle,Graduation,Together,Very high,Yes,No,Yes
+2014,Old,Basic,Married,High,No,No,No
+2015,Middle,Graduation,Single,Very high,No,No,Yes
+2016,Middle,2n Cycle,Married,High,No,No,No
+2017,Middle,Graduation,Married,High,No,No,Yes
+2018,Old,Graduation,Together,High,No,No,No
+2019,Middle,Graduation,Divorced,Medium,No,Yes,No
+2020,Middle,Graduation,Together,High,No,No,No
+2021,Middle,Graduation,Together,High,No,No,No
+2022,Old,Master,Married,High,No,No,No
+2023,Old,Graduation,Married,High,No,No,No
+2024,Old,Master,Married,Very high,No,No,No
+2025,Middle,PhD,Married,Very high,No,No,No
+2026,Old,Master,Married,High,No,No,No
+2027,Old,Graduation,Together,High,No,No,No
+2028,Old,Graduation,Divorced,Medium,No,No,No
+2029,Young,Master,Together,High,No,No,Yes
+2030,Old,2n Cycle,Together,Medium,No,No,No
+2031,Old,PhD,Widow,Very high,No,No,Yes
+2032,Middle,Graduation,Married,Very high,No,No,No
+2033,Middle,Graduation,Married,Medium,No,No,No
+2034,Middle,Graduation,Together,Very high,No,No,No
+2035,Old,Graduation,Married,High,No,No,No
+2036,Middle,Graduation,Together,Very high,No,No,No
+2037,Old,Graduation,Married,Very high,No,No,No
+2038,Middle,Graduation,Single,Very high,No,No,No
+2039,Middle,Graduation,Married,High,No,No,No
+2040,Young,Graduation,Together,Very high,No,No,No
+2041,Middle,Graduation,Single,High,No,No,No
+2042,Middle,Graduation,Single,Very high,No,No,No
+2043,Middle,Graduation,Married,High,No,No,No
+2044,Middle,Master,Married,High,No,No,No
+2045,Middle,Graduation,Married,High,No,No,No
+2046,Old,Graduation,Single,High,No,No,No
+2047,Middle,Graduation,Married,Very high,No,No,No
+2048,Middle,Graduation,Married,Very high,Yes,No,No
+2049,Old,Graduation,Single,Very high,No,No,Yes
+2050,Old,2n Cycle,Married,Very high,No,No,No
+2051,Middle,Graduation,Married,High,No,No,No
+2052,Old,Graduation,Single,Very high,Yes,No,No
+2053,Old,Graduation,Widow,Very high,No,No,No
+2054,Old,Master,Single,High,No,No,No
+2055,Old,Graduation,Together,High,No,No,No
+2056,Middle,Graduation,Single,Medium,No,No,No
+2057,Middle,Graduation,Divorced,Very high,No,No,No
+2058,Old,PhD,Divorced,Very high,No,No,No
+2059,Middle,Graduation,Married,Very high,No,No,No
+2060,Middle,Master,Together,Low,No,No,No
+2061,Middle,Graduation,Together,High,No,No,No
+2062,Middle,PhD,Single,Low,No,No,No
+2063,Middle,PhD,Together,Very high,No,No,No
+2064,Middle,Graduation,Together,High,No,No,No
+2065,Old,Graduation,Married,Very high,No,No,No
+2066,Old,Graduation,Widow,Very high,No,No,No
+2067,Old,Graduation,Married,High,No,No,No
+2068,Middle,PhD,Married,Very high,No,No,No
+2069,Middle,Graduation,Married,High,No,No,No
+2070,Old,Graduation,Together,High,No,No,No
+2071,Old,Graduation,Together,Very high,No,No,No
+2072,Middle,Graduation,Married,Very high,No,No,No
+2073,Young,Graduation,Married,High,No,No,No
+2074,Middle,PhD,Single,High,No,No,Yes
+2075,Middle,Graduation,Married,Very high,No,No,No
+2076,Middle,Graduation,Divorced,Very high,No,No,Yes
+2077,Old,Master,Married,High,No,No,No
+2078,Middle,Basic,Widow,Medium,No,No,No
+2079,Old,Graduation,Married,Low,No,No,No
+2080,Middle,Master,Together,Low,No,No,No
+2081,Old,Graduation,Married,High,No,No,No
+2082,Old,Graduation,Single,Low,No,No,No
+2083,Young,Graduation,Married,Very high,No,No,No
+2084,Old,Graduation,Married,Very high,No,No,No
+2085,Middle,Master,Widow,Low,No,No,Yes
+2086,Young,Graduation,Married,Very high,No,No,No
+2087,Old,2n Cycle,Married,Very high,No,No,No
+2088,Middle,Graduation,Married,Very high,No,No,No
+2089,Middle,Graduation,Single,High,No,No,No
+2090,Middle,Master,Married,High,No,No,No
+2091,Middle,Master,Divorced,Very high,No,No,Yes
+2092,Middle,Basic,Together,Medium,No,No,No
+2093,Young,Graduation,Together,Very high,No,No,No
+2094,Old,Graduation,Married,Very high,Yes,No,Yes
+2095,Old,Master,Together,High,No,No,Yes
+2096,Middle,PhD,Married,High,No,No,No
+2097,Old,Graduation,Together,Very high,No,No,No
+2098,Middle,Graduation,Single,Very high,No,No,No
+2099,Middle,Master,Married,Very high,No,No,Yes
+2100,Middle,Graduation,Married,Very high,No,No,No
+2101,Old,Master,Married,Very high,No,No,No
+2102,Middle,PhD,Together,Very high,No,No,No
+2103,Middle,2n Cycle,Married,Medium,No,No,Yes
+2104,Middle,PhD,Married,Very high,No,No,No
+2105,Young,Basic,Married,Medium,No,No,No
+2106,Old,Basic,Married,Medium,No,No,No
+2107,Middle,Master,Married,Very high,No,No,No
+2108,Old,Graduation,Divorced,Very high,No,No,Yes
+2109,Old,Master,Married,High,No,No,No
+2110,Old,Graduation,Single,Very high,No,No,Yes
+2111,Middle,Graduation,Widow,Very high,No,No,No
+2112,Old,PhD,Together,High,No,No,No
+2113,Middle,Graduation,Together,High,No,No,No
+2114,Old,Master,Together,High,No,No,No
+2115,Middle,Master,Married,High,No,No,No
+2116,Middle,Master,Together,Very high,No,No,No
+2117,Old,2n Cycle,Married,High,No,No,No
+2118,Old,PhD,Together,Very high,No,No,No
+2119,Middle,Master,Single,Very high,No,No,No
+2120,Middle,Graduation,Divorced,High,No,No,No
+2121,Middle,Master,Together,High,No,No,No
+2122,Middle,2n Cycle,Together,High,No,No,No
+2123,Old,Graduation,Married,High,No,No,No
+2124,Old,2n Cycle,Married,Very high,No,No,No
+2125,Middle,Graduation,Together,Very high,No,No,No
+2126,Middle,Graduation,Together,Very high,No,No,No
+2127,Young,Graduation,Married,Very high,No,No,No
+2128,Old,PhD,Married,Very high,No,No,Yes
+2129,Middle,PhD,Together,Very high,No,No,Yes
+2130,Middle,Graduation,Together,High,No,No,No
+2131,Middle,Graduation,Divorced,High,No,No,No
+2132,Old,Master,Single,Very high,Yes,No,Yes
+2133,Middle,PhD,Married,Very high,No,No,No
+2134,Old,Basic,Married,Medium,No,No,No
+2135,Old,Master,Married,Very high,No,No,No
+2136,Middle,Graduation,Married,Very high,No,No,No
+2137,Middle,Graduation,Widow,High,No,No,No
+2138,Old,Graduation,Single,Medium,No,No,No
+2139,Middle,Master,Divorced,Very high,No,No,No
+2140,Middle,Master,Divorced,High,No,No,Yes
+2141,Middle,Graduation,Divorced,Medium,No,No,No
+2142,Middle,Graduation,Married,High,No,No,No
+2143,Old,Graduation,Divorced,High,No,No,No
+2144,Middle,Graduation,Married,Medium,No,No,No
+2145,Old,Graduation,Single,Very high,No,No,No
+2146,Middle,Graduation,Single,Very high,No,No,Yes
+2147,Old,PhD,Together,High,No,No,No
+2148,Middle,Master,Together,High,No,No,No
+2149,Old,PhD,Together,Very high,No,No,No
+2150,Old,PhD,Married,High,No,No,No
+2151,Middle,Master,Married,High,No,No,No
+2152,Middle,Graduation,Married,Very high,Yes,No,No
+2153,Middle,Graduation,Married,Medium,No,No,No
+2154,Middle,Graduation,Widow,High,No,No,No
+2155,Middle,Master,Together,High,No,No,No
+2156,Old,2n Cycle,Married,High,No,No,No
+2157,Middle,2n Cycle,Divorced,High,No,No,No
+2158,Old,Master,Together,High,No,No,No
+2159,Old,PhD,Married,Very high,No,No,No
+2160,Old,Graduation,Single,Very high,No,No,No
+2161,Middle,PhD,Married,Very high,No,No,Yes
+2162,Old,Graduation,Together,Very high,No,No,No
+2163,Old,Graduation,Together,High,No,No,No
+2164,Young,2n Cycle,Widow,Very high,Yes,No,No
+2165,Middle,Basic,Single,Medium,No,No,No
+2166,Old,PhD,Single,High,No,No,No
+2167,Young,Graduation,Divorced,Very high,No,No,No
+2168,Middle,Master,Single,Very high,Yes,No,Yes
+2169,Middle,Graduation,Married,Very high,Yes,No,No
+2170,Old,Graduation,Single,High,No,No,No
+2171,Middle,Graduation,Single,Very high,No,No,No
+2172,Middle,2n Cycle,Divorced,Very high,No,No,Yes
+2173,Old,Graduation,Together,Very high,No,No,No
+2174,Old,Graduation,Married,Very high,No,No,No
+2175,Middle,Graduation,Married,Very high,Yes,No,No
+2176,Middle,PhD,Married,Very high,Yes,No,Yes
+2177,Middle,Master,Divorced,Very high,No,No,No
+2178,Middle,PhD,Medium,High,No,No,No
+2179,Old,Graduation,Married,Very high,No,No,No
+2180,Middle,Graduation,Together,High,No,No,No
+2181,Middle,Graduation,Married,High,No,No,No
+2182,Old,PhD,Married,High,No,No,No
+2183,Middle,Graduation,Married,High,No,No,No
+2184,Old,Basic,Single,High,No,No,No
+2185,Old,2n Cycle,Married,Very high,No,No,No
+2186,Middle,Graduation,Married,Very high,No,No,No
+2187,Old,Master,Married,Very high,No,No,No
+2188,Old,PhD,Married,Very high,No,No,No
+2189,Middle,Master,Together,Very high,No,No,No
+2190,Middle,Basic,Married,High,No,No,No
+2191,Middle,Master,Single,Very high,No,No,Yes
+2192,Old,Graduation,Divorced,High,No,No,No
+2193,Old,Graduation,Married,High,No,No,No
+2194,Old,2n Cycle,Married,Very high,Yes,No,Yes
+2195,Old,Graduation,Married,Very high,No,No,Yes
+2196,Middle,Master,Single,Medium,No,No,No
+2197,Middle,Graduation,Single,High,No,No,No
+2198,Old,Graduation,Together,Very high,No,No,No
+2199,Middle,Graduation,Married,Very high,No,No,Yes
+2200,Young,Graduation,Married,High,No,No,No
+2201,Middle,Basic,Single,Medium,No,No,No
+2202,Middle,Graduation,Single,Very high,No,No,No
+2203,Middle,PhD,Together,High,No,No,Yes
+2204,Young,Graduation,Married,Very high,No,No,No
+2205,Middle,Graduation,Married,Medium,No,No,No
+2206,Middle,Graduation,Single,High,No,No,No
+2207,Old,Graduation,Married,Very high,No,No,No
+2208,Old,Graduation,Together,High,No,No,No
+2209,Old,Basic,Together,Medium,No,No,No
+2210,Old,Graduation,Divorced,High,No,No,No
+2211,Middle,2n Cycle,Divorced,High,No,No,No
+2212,Old,Graduation,Together,Very high,No,No,No
+2213,Young,Master,Divorced,High,No,No,No
+2214,Middle,2n Cycle,Single,Very high,No,No,No
+2215,Old,Graduation,Married,Medium,No,No,No
+2216,Middle,Graduation,Together,High,No,No,No
+2217,Old,Graduation,Together,High,No,No,No
+2218,Middle,PhD,Widow,Very high,No,No,No
+2219,Young,Graduation,Together,Medium,No,No,No
+2220,Middle,Master,Together,High,No,No,No
+2221,Middle,Graduation,Married,Very high,No,No,No
+2222,Middle,Master,Single,Very high,No,No,Yes
+2223,Old,2n Cycle,Together,Medium,No,No,No
+2224,Middle,Master,Married,High,No,No,No
+2225,Middle,PhD,Single,Very high,No,No,No
+2226,Middle,Graduation,Together,Very high,No,No,No
+2227,Old,Graduation,Married,Very high,No,No,No
+2228,Middle,Graduation,Single,Very high,No,No,No
+2229,Middle,2n Cycle,Together,Low,No,No,No
+2230,Middle,Graduation,Married,Medium,No,No,No
+2231,Middle,Graduation,Single,Medium,No,No,No
+2232,Young,Master,Single,High,No,No,No
+2233,Middle,Graduation,Single,High,No,No,No
+2234,Middle,Graduation,Together,Very high,No,No,No
+2235,Middle,Graduation,Married,High,No,No,No
+2236,Old,Graduation,Married,Very high,No,No,No
+2237,Middle,PhD,Together,Very high,Yes,No,No
+2238,Old,Graduation,Divorced,Very high,No,No,No
+2239,Old,Master,Together,Very high,No,No,No
+2240,Old,PhD,Married,Very high,No,No,Yes
